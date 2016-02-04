@@ -15,9 +15,6 @@ FolderR = uigetdir('','Select folder with reference DF build');
 %Asking user for folder with graphics set
 FolderI = uigetdir('','Select folder with graphics set');
 
-
-DF_Graphics_Standard_txt_Generation
-
 disp('Creating Output folders')
 slsh_in = strfind(FolderI,'\');
 FolderO = [pwd FolderI(max(slsh_in):length(FolderI)) '-Standard'];   %Output Folder
@@ -25,14 +22,12 @@ mkdir(FolderO);
 rmdir(FolderO ,'s')
 mkdir(FolderO);
 
-%Image folder
-mkdir([FolderO '\raw\graphics\QS_STD'])
-
-
-
 %Create target folder
 copyfile(FolderI,FolderO)
 FolderO = [FolderO '\'];
+
+
+% DF_Graphics_Standardization_Updating_Set
 
 
 %Finding all .txt files in reference folder
@@ -40,6 +35,16 @@ FlsR = rdir([FolderR '\**\*.txt']);
 
 %Finding all .txt files in the raw/graphics folder of the graphics set
 FlsG = rdir([FolderO 'raw\graphics\**\*.txt']);
+
+
+
+
+%% Creating standard text files
+DF_Graphics_Standard_txt_Generation
+
+%Image folder
+mkdir([FolderO 'raw\graphics\QS_STD'])
+
 
 %% Definition of categories
 nct = 0;
