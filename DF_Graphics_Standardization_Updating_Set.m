@@ -9,7 +9,7 @@ names_sw = false;
 %
 txtsize = 8;
 
-disp('Matlab Script for updating DF graphics sets')
+disp('Matlab Script for updating DF graphics sets v. 1.02')
 disp('Made by Andrés Muñoz-Jaramillo aka Quiet-Sun')
 
 disp(' ')
@@ -21,7 +21,6 @@ FolderR = uigetdir('','Select folder with reference DF build');
 slsh_in = strfind(FolderR,'\');
 
 disp(' ')
-
 disp('Please select folder with graphics set')
 
 %Asking user for folder with graphics set
@@ -30,7 +29,7 @@ FolderI = uigetdir('','Select folder with graphics set');
 disp(' ')
 disp('Creating Output folders')
 slsh_in = strfind(FolderI,'\');
-FolderO = [pwd FolderI(max(slsh_in):length(FolderI)) '-Updated'];   %Output Folder
+FolderO = [FolderI(max(slsh_in)+1:length(FolderI)) '-Updated'];   %Output Folder
 mkdir(FolderO);
 rmdir(FolderO ,'s')
 mkdir(FolderO);
@@ -83,7 +82,28 @@ end
 
 
 Fdiscr = fopen([FolderO 'Name_Changes.txt'],'w');
+tmp = strrep(FolderR, '\', '\\');
+fprintf(Fdiscr,['Reference folder: ' tmp '\n']);
+
+tmp = strrep(FolderI, '\', '\\');
+fprintf(Fdiscr,['Graphics set folder: ' tmp '\n']);
+
+tmp = strrep(FolderO, '\', '\\');
+fprintf(Fdiscr,['Output folder: ' tmp '\n\n']);
+
+
 Fdis1 = fopen([FolderO 'Names_in_Set_not_in_Raws.txt'],'w');
+tmp = strrep(FolderR, '\', '\\');
+fprintf(Fdis1,['Reference folder: ' tmp '\n']);
+
+tmp = strrep(FolderI, '\', '\\');
+fprintf(Fdis1,['Graphics set folder: ' tmp '\n']);
+
+tmp = strrep(FolderO, '\', '\\');
+fprintf(Fdis1,['Output folder: ' tmp '\n\n']);
+
+fprintf(Fdis1,['Number of text files found in graphics set folder: ' num2str(length(FlsG)) '\n\n']);
+
 
 
 %Going through all graphic set files and checking for scrambled name matches
@@ -91,7 +111,10 @@ disp(' ')
 disp('Going through graphics set and looking for scrambled name matches')
 for ifG = 1:length(FlsG)
     
-    fidG = fopen(FlsG(ifG).name);
+    fidG = fopen(FlsG(ifG).name);    
+    
+    tmp = strrep(FlsG(ifG).name, '\', '\\');
+    fprintf(Fdis1,['File ' tmp '\n']);
     
     %Opening mirror file
     slsh_in = strfind(FlsG(ifG).name,'\');
@@ -181,7 +204,7 @@ for ifG = 1:length(FlsG)
                     
                     if ~strcmp(crnameG,crnameR{ifR})&&(abs(length(crnameG)-length(crnameR{ifR}))<=1)&&(length(stdif2)<=1)&&(length(stdif1)<=1)&&(nmbr_mtch>=max([(length(uscr_in1)-1+slf_mtch1) (length(uscr_in2)-1+slf_mtch2)]))
                         
-                        strrep(tlineG, crnameG, crnameR{ifR});
+                        tlineG = strrep(tlineG, crnameG, crnameR{ifR});
                         
                         slsh_in = strfind(FlsG(ifG).name,'\');
                         fprintf(Fdiscr,[crnameG '->' crnameR{ifR} ' in line ' num2str(lncnt) ' of ' FlsG(ifG).name(max(slsh_in)+1:length(FlsG(ifG).name)) '\n']);
@@ -197,7 +220,7 @@ for ifG = 1:length(FlsG)
             
             if ~fnd_sw
                 slsh_in = strfind(FlsG(ifG).name,'\');
-                fprintf(Fdis1,[crnameG ' in line ' num2str(lncnt) ' of ' FlsG(ifG).name(max(slsh_in)+1:length(FlsG(ifG).name)) '\n']);
+                fprintf(Fdis1,[crnameG ' in line ' num2str(lncnt) '\n']);
             end
             
         end
@@ -209,6 +232,8 @@ for ifG = 1:length(FlsG)
     fclose(fidG);
     fclose(fidGo);
     
+    fprintf(Fdis1,'\n');
+    
 end
 
 fclose(Fdiscr);
@@ -218,8 +243,20 @@ fclose(Fdis1);
 
 Fdis1 = fopen([FolderO 'Names_in_Raws_not_in_Set.txt'],'w');
 
+tmp = strrep(FolderR, '\', '\\');
+fprintf(Fdis1,['Reference folder: ' tmp '\n']);
+
+tmp = strrep(FolderI, '\', '\\');
+fprintf(Fdis1,['Graphics set folder: ' tmp '\n']);
+
+tmp = strrep(FolderO, '\', '\\');
+fprintf(Fdis1,['Output folder: ' tmp '\n']);
+
+
 %Finding all .txt files in the raw/graphics folder of the corrected graphics set
 FlsG = rdir([FolderO 'raw\graphics\**\*.txt']);
+fprintf(Fdis1,['Number of text files found in output graphics set folder: ' num2str(length(FlsG)) '\n\n']);
+
 
 disp(' ')
 disp('Looking for creatures in the raws that don''t exist in the graphics set')
@@ -227,6 +264,9 @@ disp('Looking for creatures in the raws that don''t exist in the graphics set')
 ncr = 0;
 for ifR = 1:length(FlsR)
     fidR = fopen(FlsR(ifR).name);
+   
+    tmp = strrep(FlsR(ifR).name, '\', '\\');
+    fprintf(Fdis1,['File ' tmp '\n']);
     
     lncnt = 0;
     
@@ -283,13 +323,15 @@ for ifR = 1:length(FlsR)
             
             if ~fnd_sw
                 slsh_in = strfind(FlsR(ifR).name,'\');
-                fprintf(Fdis1,[crnameR ' in line ' num2str(lncnt) ' of ' FlsR(ifR).name(max(slsh_in)+1:length(FlsR(ifR).name)) '\n']);
+                fprintf(Fdis1,[crnameR ' in line ' num2str(lncnt) '\n']);
             end            
              
         end
     end
     
     fclose(fidR);
+    
+    fprintf(Fdis1,'\n');
 end
 
 fclose(Fdis1);

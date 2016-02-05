@@ -4,20 +4,31 @@
 clear
 fclose('all')
 
-names_sw = false;
+names_sw = true;
 
 %
 txtsize = 8;
 
+
+disp('Matlab Script for updating DF graphics sets')
+disp('Made by Andrés Muñoz-Jaramillo aka Quiet-Sun')
+
+disp(' ')
+disp('Please select folder with DF creature objects')
+
 %Asking user for DF bulild to base itself upon
 FolderR = uigetdir('','Select folder with reference DF build');
 
+
+disp(' ')
+disp('Please select folder with graphics set')
 %Asking user for folder with graphics set
 FolderI = uigetdir('','Select folder with graphics set');
 
+disp(' ')
 disp('Creating Output folders')
 slsh_in = strfind(FolderI,'\');
-FolderO = [pwd FolderI(max(slsh_in):length(FolderI)) '-Standard'];   %Output Folder
+FolderO = [FolderI(max(slsh_in)+1:length(FolderI)) '-Standard'];   %Output Folder
 mkdir(FolderO);
 rmdir(FolderO ,'s')
 mkdir(FolderO);
@@ -25,10 +36,6 @@ mkdir(FolderO);
 %Create target folder
 copyfile(FolderI,FolderO)
 FolderO = [FolderO '\'];
-
-
-% DF_Graphics_Standardization_Updating_Set
-
 
 %Finding all .txt files in reference folder
 FlsR = rdir([FolderR '\**\*.txt']);
@@ -38,15 +45,51 @@ FlsG = rdir([FolderO 'raw\graphics\**\*.txt']);
 
 
 
+disp(' ')
+disp('Reading creature Raws')
+%Going through all the creature raws
 
-%% Creating standard text files
-DF_Graphics_Standard_txt_Generation
+for ifR = 1:length(FlsR)
+    fidR = fopen(FlsR(ifR).name);
+    
+    ncr = 0;
+    %Going throuhg all lines on each creature raw
+    while 1
+        
+        %Reading line
+        tlineR = fgetl(fidR);
+        if ~ischar(tlineR),   break,   end
+        
+        %If a creature line is found
+        tmp = strtrim(tlineR);
+        if ~isempty(strfind(tlineR,'[CREATURE:'))&&strcmp(tmp(1),'[')
+            
+            ncr = ncr+1;
+            cln_in = strfind(tlineR,':');
+            brkt_in = strfind(tlineR,']');
+            FlsR(ifR).creatures{ncr} = tlineR(cln_in+1:brkt_in-1);
+            FlsR(ifR).snt(ncr) = 0;            
+        end
+        
+        if ~isempty(strfind(tlineR,'ANIMAL_PERSON'))&&strcmp(tmp(1),'[')
+            FlsR(ifR).snt(ncr) = 1;
+        end
+        
+        if ~isempty(strfind(tlineR,'LOCAL_POPS'))&&strcmp(tmp(1),'[')
+            FlsR(ifR).snt(ncr) = 1;
+        end
+        
+        if (~isempty(strfind(tlineR,'[CREATURE:DWARF]'))||~isempty(strfind(tlineR,'[CREATURE:ELF]'))||~isempty(strfind(tlineR,'[CREATURE:GOBLIN]'))||~isempty(strfind(tlineR,'[CREATURE:KOBOLD]'))||~isempty(strfind(tlineR,'[CREATURE:HUMAN]')))&&strcmp(tmp(1),'[')
+            FlsR(ifR).snt(ncr) = 2;
+        end
+        
+        
+    end
+    
+    fclose(fidR);
+end
 
-%Image folder
-mkdir([FolderO 'raw\graphics\QS_STD'])
-
-
-%% Definition of categories
+%Reading creature categories
 nct = 0;
 fidC = fopen('CATEGORIES_CREATURES_42.05.txt');
 while 1
@@ -60,9 +103,49 @@ while 1
 end
 fclose(fidC);
 
+
+%Reading sentient being categories
+fidC = fopen('CATEGORIES_HUMANOIDS_42.05.txt');
+Sb_cat_sw = false;
+nct = 0;
+while 1
+    
+    %Reading line
+    tlineC = fgetl(fidC);
+    if ~ischar(tlineC),   break,   end
+    
+    if ~strcmp(tlineC(1),' ')&&~strcmp(tlineC(1),'-')
+        nct = nct + 1;
+        Sb_cat_sw = true;
+        nsct = 1;
+        catg_humanoids(nct).name{nsct} = tlineC;
+    elseif strcmp(tlineC(1),' ')&&~strcmp(tlineC(1),'-')&&Sb_cat_sw
+        nsct = nsct + 1;
+        catg_humanoids(nct).name{nsct} = strtrim(tlineC);
+    elseif strcmp(tlineC(1),'-')
+        Sb_cat_sw = false;
+    end
+    
+end
+fclose(fidC);
+
+%% Creating standard text files
+DF_Graphics_Standardization_0_txt_Generation
+
+%Image folder
+mkdir([FolderO 'raw\graphics\QS_STD'])
+
+if names_sw
+    mkdir([FolderO 'raw\graphics\QS_STD_TMP'])
+end
+
+
+
 %Creating categories text
 if names_sw
     
+    disp(' ')
+    disp('Rasterizing categories text')
     for itx = 1:length(catg_creatures)
         
         cln_in = strfind(catg_creatures(itx).name,':');
@@ -118,35 +201,6 @@ if names_sw
         
     end
     
-end
-
-
-fidC = fopen('CATEGORIES_HUMANOIDS_42.05.txt');
-Sb_cat_sw = false;
-nct = 0;
-while 1
-    
-    %Reading line
-    tlineC = fgetl(fidC);
-    if ~ischar(tlineC),   break,   end
-    
-    if ~strcmp(tlineC(1),' ')&&~strcmp(tlineC(1),'-')
-        nct = nct + 1;
-        Sb_cat_sw = true;
-        nsct = 1;
-        catg_humanoids(nct).name{nsct} = tlineC;
-    elseif strcmp(tlineC(1),' ')&&~strcmp(tlineC(1),'-')&&Sb_cat_sw
-        nsct = nsct + 1;
-        catg_humanoids(nct).name{nsct} = strtrim(tlineC);
-    elseif strcmp(tlineC(1),'-')
-        Sb_cat_sw = false;
-    end
-    
-end
-fclose(fidC);
-
-%Creating categories text
-if names_sw
     
     for itx = 1:length(catg_humanoids)
         
@@ -255,7 +309,7 @@ if names_sw
             tmptxt = imresize(tmptxt,txtsize2/max(size(tmptxt)),'lanczos3');
             
             %Saving renderized text
-            catg_humanoids(itx).text2{jin} = tmptxt;
+            catg_humanoids(itx).text2{jin} = imcomplement(tmptxt);
             
         end
         
@@ -263,14 +317,15 @@ if names_sw
     
 end
 
-DF_Graphics_Standardization_creatures
+DF_Graphics_Standardization_1_creatures
 
-DF_Graphics_Standardization_humanoids
+DF_Graphics_Standardization_2_sentient
 
-DF_Graphics_Standardization_major
+DF_Graphics_Standardization_3_major
 
-DF_Graphics_Standardization_final_clean
+DF_Graphics_Standardization_4_clean
 
+% DF_Graphics_Standardization_5_comment
 
 load('gong','Fs','y')
 sound(y, Fs);
