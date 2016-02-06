@@ -1,11 +1,11 @@
 % DF Graphics Standardization - Creating standard files
 % Written by Andrés Muñoz-Jaramillo (Quiet-Sun)
-% fclose('all')
-% clear
-%
-%
-% %Asking user for DF bulild to base itself upon
-% FolderR = uigetdir('','Select folder with reference DF build');
+fclose('all')
+clear
+
+
+%Asking user for DF bulild to base itself upon
+FolderR = uigetdir('','Select folder with reference DF build');
 
 disp(' ')
 disp('Creating Output folder for standard text files')

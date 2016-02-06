@@ -2,15 +2,15 @@
 % Written by Andrés Muñoz-Jaramillo (Quiet-Sun)
 
 clear
-fclose('all')
+fclose('all');
 
-names_sw = true;
+
 
 %
 txtsize = 8;
 
 
-disp('Matlab Script for updating DF graphics sets')
+disp('Matlab Script for updating DF graphics sets v. 0.1')
 disp('Made by Andrés Muñoz-Jaramillo aka Quiet-Sun')
 
 disp(' ')
@@ -24,6 +24,18 @@ disp(' ')
 disp('Please select folder with graphics set')
 %Asking user for folder with graphics set
 FolderI = uigetdir('','Select folder with graphics set');
+
+
+disp(' ')
+disp('Please select if you want a separate folder with image templates')
+button = questdlg('Do you want a separate folder with image templates','Image template choice','Yes','No','No');
+
+if strcmp(button,'Yes')
+    names_sw = true;
+else
+    names_sw = false;
+end
+
 
 disp(' ')
 disp('Creating Output folders')
@@ -128,9 +140,6 @@ while 1
     
 end
 fclose(fidC);
-
-%% Creating standard text files
-DF_Graphics_Standardization_0_txt_Generation
 
 %Image folder
 mkdir([FolderO 'raw\graphics\QS_STD'])
@@ -323,9 +332,7 @@ DF_Graphics_Standardization_2_sentient
 
 DF_Graphics_Standardization_3_major
 
-DF_Graphics_Standardization_4_clean
-
-% DF_Graphics_Standardization_5_comment
+DF_Graphics_Standardization_4_txt_files_and_clean
 
 load('gong','Fs','y')
 sound(y, Fs);

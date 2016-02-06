@@ -325,6 +325,13 @@ for ifR = 1:length(FlsR)
                                         cond1 = true;
                                     end
                                     
+                                    if strcmp(cattxt,'[MONARCH:')&&~isempty(strfind(tlineG,'[KING:'))
+                                        cond1 = true;
+                                    end
+                                    
+                                    if strcmp(cattxt,'[MONARCH_CONSORT:')&&~isempty(strfind(tlineG,'[KING_CONSORT:'))
+                                        cond1 = true;
+                                    end
                                     
                                     %Conditions determining the ending part
                                     %of the definition

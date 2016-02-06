@@ -343,7 +343,7 @@ for ifR = 1:length(FlsR)
                     
                     %If finding a creature name look for the respective tile
                     tmp = strtrim(tlineG);
-                    if ~isempty(strfind(tlineG,nameR))&(length(tlineG(strfind(tlineG,':')+1:strfind(tlineG,']')-1))==length(nameR))&&strcmp(tmp(1),'[')
+                    if ~isempty(strfind(tlineG,nameR))&&(length(tlineG(strfind(tlineG,':')+1:strfind(tlineG,']')-1))==length(nameR))&&strcmp(tmp(1),'[')
                         disp(tlineG)
                         disp(FlsG(ifG).name)
                         rdln_sw = 0;

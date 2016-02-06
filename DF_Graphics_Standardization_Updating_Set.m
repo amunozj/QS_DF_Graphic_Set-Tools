@@ -113,14 +113,13 @@ for ifG = 1:length(FlsG)
     
     fidG = fopen(FlsG(ifG).name);    
     
-    tmp = strrep(FlsG(ifG).name, '\', '\\');
-    fprintf(Fdis1,['File ' tmp '\n']);
-    
     %Opening mirror file
     slsh_in = strfind(FlsG(ifG).name,'\');
     tmpnm = [FolderO 'raw\graphics\' FlsG(ifG).name(max(slsh_in)+1:length(FlsG(ifG).name))];
     fidGo = fopen(tmpnm,'w');
     lncnt = 0;
+    
+    fnd_1diff = false;
     
     %Going through all lines in the graphic set txt
     while 1
@@ -219,7 +218,16 @@ for ifG = 1:length(FlsG)
             end
             
             if ~fnd_sw
-                slsh_in = strfind(FlsG(ifG).name,'\');
+                
+                if ~fnd_1diff
+                    
+                    slsh_in = strfind(FlsG(ifG).name,'\');
+                    fprintf(Fdis1,'\n');
+                    fprintf(Fdis1,[FlsG(ifG).name(max(slsh_in)+1:length(FlsG(ifG).name)) ':\n']);
+                    fnd_1diff = true;
+                    
+                end                
+                
                 fprintf(Fdis1,[crnameG ' in line ' num2str(lncnt) '\n']);
             end
             
@@ -231,8 +239,6 @@ for ifG = 1:length(FlsG)
     
     fclose(fidG);
     fclose(fidGo);
-    
-    fprintf(Fdis1,'\n');
     
 end
 
@@ -264,11 +270,10 @@ disp('Looking for creatures in the raws that don''t exist in the graphics set')
 ncr = 0;
 for ifR = 1:length(FlsR)
     fidR = fopen(FlsR(ifR).name);
-   
-    tmp = strrep(FlsR(ifR).name, '\', '\\');
-    fprintf(Fdis1,['File ' tmp '\n']);
     
     lncnt = 0;
+    
+    fnd_1diff = false;
     
     %Going throuhg all lines on each creature raw
     while 1
@@ -322,7 +327,17 @@ for ifR = 1:length(FlsR)
             end
             
             if ~fnd_sw
-                slsh_in = strfind(FlsR(ifR).name,'\');
+                
+                
+                if ~fnd_1diff
+                    
+                    slsh_in = strfind(FlsR(ifR).name,'\');
+                    fprintf(Fdis1,'\n');
+                    fprintf(Fdis1,[FlsR(ifR).name(max(slsh_in)+1:length(FlsR(ifR).name)) ':\n']);
+                    fnd_1diff = true;
+                    
+                end
+                 
                 fprintf(Fdis1,[crnameR ' in line ' num2str(lncnt) '\n']);
             end            
              
@@ -330,8 +345,6 @@ for ifR = 1:length(FlsR)
     end
     
     fclose(fidR);
-    
-    fprintf(Fdis1,'\n');
 end
 
 fclose(Fdis1);
