@@ -1,0 +1,6 @@
+Reference folder: D:\Mis Documentos\aaa DF\Graphics Standardization_Git\40.24 a DF objects
+Graphics set folder: D:\Mis Documentos\aaa DF\Graphics Standardization_Git\Pure-40.24-nwkohaku
+Output folder: Pure-40.24-nwkohaku-Updated\
+
+Number of text files found in graphics set folder: 3
+

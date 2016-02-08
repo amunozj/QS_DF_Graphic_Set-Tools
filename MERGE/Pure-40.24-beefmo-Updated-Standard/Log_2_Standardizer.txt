@@ -1,0 +1,1897 @@
+Reading creature Raws...done!
+
+Reading creature Categories...done!
+
+Reading sentient creature Categories...done!
+
+Standardizing creatures:
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for TOAD
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for WORM
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for BIRD_BLUEJAY
+Looking for BIRD_CARDINAL
+Looking for BIRD_GRACKLE
+Looking for BIRD_ORIOLE
+Looking for BIRD_RW_BLACKBIRD
+Looking for BIRD_PENGUIN
+Looking for BIRD_PENGUIN_LITTLE
+Looking for BIRD_PENGUIN_EMPEROR
+Looking for BIRD_PENGUIN_GIANT
+Looking for BIRD_FALCON_PEREGRINE
+Looking for GIANT PEREGRINE FALCON
+Looking for BIRD_KIWI
+Looking for BIRD_KIWI_GIANT
+Looking for BIRD_OSTRICH
+Looking for BIRD_OSTRICH_GIANT
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for BIRD_CROW
+Looking for GIANT_CROW
+Looking for BIRD_RAVEN
+Looking for GIANT_RAVEN
+Looking for BIRD_CASSOWARY
+Looking for GIANT_CASSOWARY
+Looking for BIRD_KEA
+Looking for GIANT_KEA
+Found in line 22 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_OWL_SNOWY
+Looking for GIANT_SNOWY_OWL
+Found in line 22 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for SPARROW
+Looking for GIANT_SPARROW
+Found in line 22 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_STORK_WHITE
+Found in line 22 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_WHITE_STORK
+Looking for BIRD_LOON
+Looking for GIANT_LOON
+Found in line 22 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_OWL_BARN
+Looking for GIANT_BARN_OWL
+Found in line 22 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_PARAKEET
+Looking for GIANT_PARAKEET
+Found in line 22 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_KAKAPO
+Found in line 22 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_KAKAPO
+Looking for BIRD_PARROT_GREY
+Looking for GIANT_GREY_PARROT
+Found in line 22 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_PUFFIN
+Looking for GIANT_PUFFIN
+Found in line 22 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_SWAN
+Looking for GIANT_SWAN
+Found in line 22 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_LORIKEET
+Looking for GIANT_LORIKEET
+Found in line 22 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_WREN
+Looking for GIANT_WREN
+Found in line 22 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_OSPREY
+Looking for GIANT_OSPREY
+Found in line 22 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_EMU
+Found in line 22 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_EMU
+Looking for BIRD_COCKATIEL
+Looking for GIANT_COCKATIEL
+Found in line 22 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_LOVEBIRD_PEACH-FACED
+Looking for GIANT_PEACH-FACED_LOVEBIRD
+Found in line 22 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_MAGPIE
+Looking for GIANT_MAGPIE
+Found in line 22 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_KESTREL
+Looking for GIANT_KESTREL
+Found in line 22 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_ALBATROSS
+Looking for GIANT_ALBATROSS
+Found in line 22 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_OWL_GREAT_HORNED
+Looking for GIANT_GREAT_HORNED_OWL
+Found in line 22 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_EAGLE
+Found in line 22 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_EAGLE
+Found in line 187 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BIRD_HORNBILL
+Looking for GIANT_HORNBILL
+Found in line 22 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_LOVEBIRD_MASKED
+Looking for GIANT_MASKED_LOVEBIRD
+Found in line 22 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_BUSHTIT
+Looking for GIANT_BUSHTIT
+Found in line 22 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for DAMSELFLY
+Looking for GIANT_DAMSELFLY
+Looking for MOTH
+Looking for GIANT_MOTH
+Looking for GRASSHOPPER
+Looking for GIANT_GRASSHOPPER
+Looking for BARK_SCORPION
+Looking for GIANT_BARK_SCORPION
+Looking for MANTIS
+Looking for GIANT_MANTIS
+Looking for TICK
+Looking for GIANT_TICK
+Looking for LOUSE
+Looking for GIANT_LOUSE
+Looking for THRIPS
+Looking for GIANT_THRIPS
+Looking for SLUG
+Looking for GIANT_SLUG
+Looking for MOSQUITO
+Looking for GIANT_MOSQUITO
+Looking for SPIDER_JUMPING
+Looking for GIANT_JUMPING_SPIDER
+Looking for TERMITE
+Looking for MOON_SNAIL
+Looking for GIANT_MOON_SNAIL
+Looking for SPIDER_BROWN_RECLUSE
+Looking for GIANT_BROWN_RECLUSE_SPIDER
+Looking for SNAIL
+Looking for GIANT_SNAIL
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for GECKO_LEOPARD
+Looking for GIANT_LEOPARD_GECKO
+Looking for DESERT TORTOISE
+Looking for GIANT_DESERT_TORTOISE
+Looking for GILA_MONSTER
+Looking for GIANT_GILA_MONSTER
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for DOG
+Looking for CAT
+Looking for MULE
+Found in line 28 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for DONKEY
+Found in line 28 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for HORSE
+Found in line 28 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for COW
+Found in line 28 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for SHEEP
+Found in line 28 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for PIG
+Found in line 28 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GOAT
+Looking for BIRD_CHICKEN
+Found in line 28 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for CAVY
+Found in line 28 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_DUCK
+Found in line 28 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for WATER_BUFFALO
+Found in line 28 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for REINDEER
+Found in line 28 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_GOOSE
+Found in line 28 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for YAK
+Found in line 28 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for LLAMA
+Found in line 28 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for ALPACA
+Found in line 28 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_GUINEAFOWL
+Found in line 28 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_PEAFOWL_BLUE
+Found in line 28 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_TURKEY
+Found in line 28 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for RABBIT
+Found in line 28 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for EQUIPMENT_WAGON
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for CHIMERA
+Found in line 996 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for CENTAUR
+Found in line 1100 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for GRIFFON
+Found in line 1002 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for FLY
+Looking for ROACH_LARGE
+Looking for BEETLE
+Looking for ANT
+Looking for BUTTERFLY_MONARCH
+Looking for FIREFLY
+Looking for DRAGONFLY
+Looking for HONEY_BEE
+Looking for BUMBLEBEE
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for GOAT_MOUNTAIN
+Looking for MARMOT_HOARY
+Found in line 34 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GNOME_MOUNTAIN
+Found in line 34 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GNOME_DARK
+Found in line 34 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for WALRUS
+Found in line 855 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for FISH_LAMPREY_SEA
+Found in line 939 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for SHARK_GREAT_WHITE
+Looking for SHARK_FRILL
+Looking for SHARK_SPINY_DOGFISH
+Looking for SHARK_WOBBEGONG_SPOTTED
+Looking for SHARK_WHALE
+Looking for SHARK_BASKING
+Looking for SHARK_NURSE
+Looking for SHARK_MAKO_SHORTFIN
+Looking for SHARK_MAKO_LONGFIN
+Looking for SHARK_TIGER
+Looking for SHARK_BULL
+Looking for SHARK_REEF_BLACKTIP
+Looking for SHARK_REEF_WHITETIP
+Looking for SHARK_BLUE
+Looking for SHARK_HAMMERHEAD
+Looking for SHARK_ANGEL
+Looking for FISH_SKATE_COMMON
+Looking for FISH_RAY_MANTA
+Looking for FISH_STINGRAY
+Looking for FISH_COELACANTH
+Looking for FISH_STURGEON
+Looking for FISH_CONGER_EEL
+Looking for FISH_MILKFISH
+Looking for FISH_COD
+Looking for FISH_OPAH
+Looking for FISH_GROUPER_GIANT
+Looking for FISH_BLUEFISH
+Looking for FISH_SUNFISH_OCEAN
+Looking for FISH_SWORDFISH
+Looking for FISH_MARLIN
+Looking for FISH_HALIBUT
+Looking for FISH_BARRACUDA_GREAT
+Looking for FISH_TUNA_BLUEFIN
+Looking for NARWHAL
+Looking for NARWHAL, GIANT
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for HIPPO
+Found in line 40 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for FISH_GAR_LONGNOSE
+Found in line 40 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for FISH_CARP
+Found in line 40 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for FISH_TIGERFISH
+Found in line 40 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for FISH_PIKE
+Found in line 40 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for PLATYPUS
+Found in line 40 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for PLATYPUS, GIANT
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for BEAR_GRIZZLY
+Found in line 52 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BEAR_BLACK
+Found in line 52 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for DEER
+Found in line 52 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for FOX
+Found in line 52 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for RACCOON
+Found in line 52 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for MACAQUE_RHESUS
+Found in line 52 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for COUGAR
+Found in line 52 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for WOLF
+Found in line 52 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GROUNDHOG
+Found in line 52 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for ALLIGATOR
+Found in line 52 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_BUZZARD
+Found in line 52 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for PANDA
+Found in line 52 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for PANDA, GIGANTIC
+Found in line 52 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for CAPYBARA
+Found in line 58 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for CAPYBARA, GIANT
+Found in line 58 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BADGER
+Found in line 64 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BADGER, GIANT
+Found in line 70 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for MOOSE
+Found in line 70 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for MOOSE, GIANT
+Found in line 76 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for RED PANDA
+Found in line 76 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for RED PANDA, GIANT
+Found in line 81 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for ELEPHANT
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for WARTHOG
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for LION
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for LEOPARD
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for JAGUAR
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for TIGER
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for CHEETAH
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GAZELLE
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for MANDRILL
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for CHIMPANZEE
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BONOBO
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GORILLA
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for ORANGUTAN
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIBBON_SIAMANG
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIBBON_WHITE_HANDED
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIBBON_BLACK_HANDED
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIBBON_GRAY
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIBBON_SILVERY
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIBBON_PILEATED
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIBBON_BILOU
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIBBON_WHITE_BROWED
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIBBON_BLACK_CRESTED
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for CAMEL_1_HUMP
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for CAMEL_2_HUMP
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for CROCODILE_SALTWATER
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_VULTURE
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for RHINOCEROS
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIRAFFE
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for HONEY BADGER
+Found in line 406 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT TORTOISE
+Looking for GIGANTIC TORTOISE
+Looking for ARMADILLO
+Looking for ARMADILLO, GIANT
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for MUSKOX
+Found in line 412 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for ELK
+Found in line 412 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BEAR_POLAR
+Found in line 412 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for WOLVERINE
+Looking for GIANT_WOLVERINE
+Looking for CHINCHILLA
+Looking for GIANT_CHINCHILLA
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for FLOATING_GUTS
+Looking for DRUNIAN
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for CREEPING_EYE
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for VORACIOUS_CAVE_CRAWLER
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for BLIND_CAVE_OGRE
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for CAP_HOPPER
+Looking for MAGMA_CRAB
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for CRUNDLE
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for HUNGRY_HEAD
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for FLESH_BALL
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for ELK_BIRD
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for HELMET_SNAKE
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for GREEN_DEVOURER
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for RUTHERER
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for CREEPY_CRAWLER
+Looking for DRALTHA
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_EARTHWORM
+Looking for BLOOD_MAN
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for BUGBAT
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for MANERA
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for MOLEMARIAN
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for JABBERER
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for POND_GRABBER
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BLIND_CAVE_BEAR
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for CAVE_DRAGON
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for REACHER
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for ELEMENTMAN_GABBRO
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for GORLAK
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for CAVE_FLOATER
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for PLUMP_HELMET_MAN
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for CAVE_BLOB
+Looking for ELEMENTMAN_AMETHYST
+Found in line 744 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for OCTOPUS
+Looking for GIANT_OCTOPUS
+Looking for CRAB
+Looking for GIANT_CRAB
+Looking for LEOPARD_SEAL
+Looking for GIANT_LEOPARD_SEAL
+Looking for CUTTLEFISH
+Looking for GIANT_CUTTLEFISH
+Looking for ORCA
+Looking for GIANT_ORCA
+Looking for SPONGE
+Looking for GIANT_SPONGE
+Looking for HORSESHOE_CRAB
+Looking for GIANT_HORSESHOE_CRAB
+Looking for SPERM_WHALE
+Looking for GIANT_SPERM_WHALE
+Looking for ELEPHANT_SEAL
+Looking for GIANT_ELEPHANT_SEAL
+Looking for HARP_SEAL
+Looking for GIANT_HARP_SEAL
+Looking for NAUTILUS
+Looking for GIANT_NAUTILUS
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for FOXSQUIRREL
+Looking for MOGHOPPER
+Looking for RAT_DEMON
+Looking for WAMBLER_FLUFFY
+Looking for LIZARD_RHINO_TWO_LEGGED
+Looking for WORM_KNUCKLE
+Looking for SPIDER_PHANTOM
+Looking for FLY_ACORN
+Looking for GNAT_BLOOD
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for LIZARD
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for RIVER OTTER
+Looking for SEA OTTER
+Looking for GIANT_OTTER
+Looking for SNAPPING TURTLE
+Looking for ALLIGATOR SNAPPING TURTLE
+Looking for GIANT_SNAPPING_TURTLE
+Looking for BEAVER
+Looking for GIANT_BEAVER
+Looking for LEECH
+Looking for GIANT_LEECH
+Looking for AXOLOTL
+Looking for GIANT_AXOLOTL
+Looking for MINK
+Looking for GIANT_MINK
+Looking for POND_TURTLE
+Looking for GIANT_POND_TURTLE
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for LION_GIANT
+Found in line 486 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for LEOPARD_GIANT
+Found in line 474 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for JAGUAR_GIANT
+Found in line 474 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for TIGER_GIANT
+Found in line 474 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for CHEETAH_GIANT
+Found in line 468 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for SCORPION_DESERT_GIANT
+Found in line 494 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for HAMSTER
+Looking for GIANT_HAMSTER
+Looking for HEDGEHOG
+Looking for GIANT_HEDGEHOG
+Looking for SQUIRREL_FLYING
+Looking for GIANT_FLYING_SQUIRREL
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for RAT
+Looking for SQUIRREL_GRAY
+Looking for SQUIRREL_RED
+Looking for CHIPMUNK
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for MUSSEL
+Looking for OYSTER
+Looking for FISH_SALMON
+Looking for FISH_CLOWNFISH
+Looking for FISH_HAGFISH
+Looking for FISH_LAMPREY_BROOK
+Looking for FISH_RAY_BAT
+Looking for FISH_RAY_THORNBACK
+Looking for FISH_RATFISH_SPOTTED
+Looking for FISH_HERRING
+Looking for FISH_SHAD
+Looking for FISH_ANCHOVY
+Looking for FISH_TROUT_STEELHEAD
+Looking for FISH_HAKE
+Looking for FISH_SEAHORSE
+Looking for FISH_GLASSEYE
+Looking for FISH_PUFFER_WHITE_SPOTTED
+Looking for FISH_SOLE
+Looking for FISH_FLOUNDER
+Looking for FISH_MACKEREL
+Looking for JELLYFISH_SEA_NETTLE
+Looking for SQUID
+Looking for GIGANTIC SQUID
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for FISH_LUNGFISH
+Looking for FISH_LOACH_CLOWN
+Looking for FISH_BULLHEAD_BROWN
+Looking for FISH_BULLHEAD_YELLOW
+Looking for FISH_BULLHEAD_BLACK
+Looking for FISH_KNIFEFISH_BANDED
+Looking for FISH_CHAR
+Looking for FISH_TROUT_RAINBOW
+Looking for FISH_MOLLY_SAILFIN
+Looking for FISH_GUPPY
+Looking for FISH_PERCH
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for GREMLIN
+Found in line 635 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for TROLL
+Found in line 607 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for OGRE
+Found in line 603 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for UNICORN
+Found in line 541 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for DRAGON
+Found in line 544 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for SATYR
+Found in line 623 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for COLOSSUS_BRONZE
+Found in line 643 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for GIANT
+Found in line 616 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for CYCLOPS
+Found in line 608 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for ETTIN
+Found in line 608 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for MINOTAUR
+Found in line 604 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for YETI
+Looking for SASQUATCH
+Found in line 610 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for BLIZZARD_MAN
+Found in line 630 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for WOLF_ICE
+Found in line 462 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for FAIRY
+Looking for PIXIE
+Looking for BEAK_DOG
+Found in line 484 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GRIMELING
+Found in line 606 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for BLENDEC_FOUL
+Found in line 600 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for STRANGLER
+Found in line 600 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for NIGHTWING
+Found in line 534 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for HARPY
+Found in line 534 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for HYDRA
+Found in line 531 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for MERPERSON
+Found in line 507 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for SEA_SERPENT
+Found in line 512 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for SEA_MONSTER
+Found in line 512 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for BIRD_ROC
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for CROCODILE_CAVE
+Found in line 456 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for TOAD_GIANT
+Found in line 471 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for OLM_GIANT
+Found in line 459 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BAT_GIANT
+Found in line 471 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for RAT_GIANT
+Found in line 459 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for RAT_LARGE
+Found in line 459 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for MOLE_DOG_NAKED
+Found in line 467 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for TROGLODYTE
+Found in line 526 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for MOLE_GIANT
+Found in line 459 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for IMP_FIRE
+Found in line 549 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for SPIDER_CAVE_GIANT
+Found in line 456 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for SPIDER_CAVE
+Looking for FISH_CAVE
+Looking for LOBSTER_CAVE
+Looking for SNAKE_FIRE
+Looking for OLM
+Looking for BAT
+Looking for MAGGOT_PURRING
+Looking for ELEMENTMAN_FIRE
+Found in line 540 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for ELEMENTMAN_MAGMA
+Found in line 540 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for ELEMENTMAN_IRON
+Looking for ELEMENTMAN_MUD
+Found in line 537 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for BIRD_SWALLOW_CAVE
+Looking for BIRD_SWALLOW_CAVE_GIANT
+Found in line 456 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for AMPHIBIAN_MAN
+Looking for REPTILE_MAN
+Looking for SERPENT_MAN
+Looking for ANT_MAN
+Found in line 503 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for RODENT MAN
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for WILD_BOAR
+Found in line 81 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_WILD_BOAR
+Found in line 86 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for COYOTE
+Found in line 86 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_COYOTE
+Found in line 91 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for KANGAROO
+Found in line 91 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_KANGAROO
+Found in line 96 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for KOALA
+Found in line 96 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_KOALA
+Found in line 101 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for ADDER
+Found in line 101 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_ADDER
+Found in line 106 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for ECHIDNA
+Found in line 106 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_ECHIDNA
+Found in line 111 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for PORCUPINE
+Found in line 111 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_PORCUPINE
+Found in line 116 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for KINGSNAKE
+Found in line 116 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_KINGSNAKE
+Found in line 121 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GRAY_LANGUR
+Found in line 121 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_GRAY_LANGUR
+Found in line 126 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for BOBCAT
+Found in line 126 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_BOBCAT
+Found in line 133 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for SKUNK
+Found in line 133 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_SKUNK
+Found in line 138 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GREEN_TREE_FROG
+Looking for GIANT_GREEN_TREE_FROG
+Found in line 143 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for HARE
+Found in line 143 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_HARE
+Found in line 148 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for RATTLESNAKE
+Found in line 148 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_RATTLESNAKE
+Found in line 153 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for WEASEL
+Found in line 153 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_WEASEL
+Found in line 158 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for COPPERHEAD_SNAKE
+Found in line 158 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_COPPERHEAD_SNAKE
+Found in line 163 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for IBEX
+Found in line 163 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_IBEX
+Found in line 168 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for WOMBAT
+Found in line 168 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_WOMBAT
+Found in line 173 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for DINGO
+Found in line 173 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_DINGO
+Found in line 178 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for COATI
+Found in line 178 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_COATI
+Found in line 183 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for OPOSSUM
+Found in line 183 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_OPOSSUM
+Found in line 188 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for MONGOOSE
+Looking for GIANT_MONGOOSE
+Looking for HYENA
+Looking for GIANT_HYENA
+Looking for ANACONDA
+Looking for GIANT_ANACONDA
+Looking for MONITOR_LIZARD
+Looking for GIANT_MONITOR_LIZARD
+Looking for KING_COBRA
+Looking for GIANT_KING_COBRA
+Looking for OCELOT
+Looking for GIANT_OCELOT
+Looking for JACKAL
+Looking for GIANT_JACKAL
+Looking for CAPUCHIN
+Looking for GIANT_CAPUCHIN
+Looking for SLOTH
+Looking for GIANT_SLOTH
+Looking for SPIDER_MONKEY
+Looking for GIANT_SPIDER_MONKEY
+Looking for PANGOLIN
+Looking for GIANT_PANGOLIN
+Looking for BLACK_MAMBA
+Looking for GIANT_BLACK_MAMBA
+Looking for BEAR_SLOTH
+Looking for GIANT_SLOTH_BEAR
+Looking for AYE-AYE
+Looking for GIANT_AYE-AYE
+Looking for BUSHMASTER
+Looking for GIANT_BUSHMASTER
+Looking for PYTHON
+Looking for GIANT_PYTHON
+Looking for TAPIR
+Looking for GIANT_TAPIR
+Looking for IMPALA
+Looking for GIANT_IMPALA
+Looking for AARDVARK
+Looking for GIANT_AARDVARK
+Looking for LION_TAMARIN
+Looking for GIANT_LION_TAMARIN
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for STOAT
+Found in line 201 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_STOAT
+Found in line 206 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for LYNX
+Found in line 206 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_LYNX
+Found in line 213 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Done Standardizing creatures!
+
+
+Standardizing sentient creatures:
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for PENGUIN MAN
+Looking for PEREGRINE FALCON MAN
+Looking for KIWI MAN
+Looking for OSTRICH MAN
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for CROW_MAN
+Looking for RAVEN_MAN
+Looking for CASSOWARY_MAN
+Looking for KEA_MAN
+Looking for SNOWY_OWL_MAN
+Looking for SPARROW_MAN
+Looking for WHITE_STORK_MAN
+Looking for LOON_MAN
+Looking for BARN_OWL_MAN
+Looking for PARAKEET_MAN
+Looking for KAKAPO_MAN
+Looking for GREY_PARROT_MAN
+Looking for PUFFIN_MAN
+Looking for SWAN_MAN
+Creating blank images...done!
+Adding existing tiles:
+Looking for LORIKEET_MAN
+Looking for WREN_MAN
+Looking for OSPREY_MAN
+Looking for EMU_MAN
+Looking for COCKATIEL_MAN
+Looking for PEACH-FACED_LOVEBIRD_MAN
+Looking for MAGPIE_MAN
+Looking for KESTREL_MAN
+Looking for ALBATROSS_MAN
+Looking for GREAT_HORNED_OWL_MAN
+Looking for EAGLE_MAN
+Looking for HORNBILL_MAN
+Looking for MASKED_LOVEBIRD_MAN
+Looking for BUSHTIT_MAN
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for DAMSELFLY_MAN
+Looking for MOTH_MAN
+Looking for GRASSHOPPER_MAN
+Looking for BARK_SCORPION_MAN
+Looking for MANTIS_MAN
+Looking for TICK_MAN
+Looking for LOUSE_MAN
+Looking for THRIPS_MAN
+Looking for SLUG_MAN
+Looking for MOSQUITO_MAN
+Looking for JUMPING_SPIDER_MAN
+Looking for MOON_SNAIL_MAN
+Looking for BROWN_RECLUSE_SPIDER_MAN
+Looking for SNAIL_MAN
+Found in line 260 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for LEOPARD_GECKO_MAN
+Looking for DESERT_TORTOISE_MAN
+Looking for GILA_MONSTER_MAN
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for NARWHAL MAN
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for PLATYPUS MAN
+Found in line 40 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for PANDA MAN
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for CAPYBARA MAN
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BADGER MAN
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for MOOSE MAN
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for RED PANDA MAN
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for TIGERMAN
+Found in line 212 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT TORTOISE MAN
+Looking for ARMADILLO MAN
+Looking for tile size...done!
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for WOLVERINE_MAN
+Looking for CHINCHILLA_MAN
+Looking for tile size...done!
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for OCTOPUS_MAN
+Looking for CRAB_MAN
+Looking for LEOPARD_SEAL_MAN
+Looking for CUTTLEFISH_MAN
+Looking for ORCA_MAN
+Looking for SPONGE_MAN
+Looking for HORSESHOE_CRAB_MAN
+Looking for SPERM_WHALE_MAN
+Looking for ELEPHANT_SEAL_MAN
+Looking for HARP_SEAL_MAN
+Looking for NAUTILUS_MAN
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for OTTER_MAN
+Looking for SNAPPING_TURTLE_MAN
+Looking for BEAVER_MAN
+Looking for LEECH_MAN
+Found in line 224 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for AXOLOTL_MAN
+Looking for MINK_MAN
+Looking for POND_TURTLE_MAN
+Looking for tile size...done!
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for HAMSTER_MAN
+Looking for HEDGEHOG_MAN
+Looking for FLYING_SQUIRREL_MAN
+Looking for tile size...done!
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for SQUID MAN
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for CAVE_FISH_MAN
+Looking for OLM_MAN
+Found in line 221 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for BAT_MAN
+Found in line 206 of file graphics_beefmoanimals.txt
+Storing Tile
+Looking for CAVE_SWALLOW_MAN
+Found in line 218 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for WILD_BOAR_MAN
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for COYOTE_MAN
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for KANGAROO_MAN
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for KOALA_MAN
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for ADDER_MAN
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for ECHIDNA_MAN
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for PORCUPINE_MAN
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for KINGSNAKE_MAN
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GRAY_LANGUR_MAN
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BOBCAT_MAN
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Creating blank images...done!
+Adding existing tiles:
+Looking for SKUNK_MAN
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GREEN_TREE_FROG_MAN
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for HARE_MAN
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for RATTLESNAKE_MAN
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for WEASEL_MAN
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for COPPERHEAD_SNAKE_MAN
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for IBEX_MAN
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for WOMBAT_MAN
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for DINGO_MAN
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for COATI_MAN
+Found in line 46 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for MONGOOSE_MAN
+Looking for HYENA_MAN
+Looking for ANACONDA_MAN
+Looking for MONITOR_LIZARD_MAN
+Looking for KING_COBRA_MAN
+Looking for OCELOT_MAN
+Looking for JACKAL_MAN
+Looking for CAPUCHIN_MAN
+Looking for SLOTH_MAN
+Looking for SPIDER_MONKEY_MAN
+Creating blank images...done!
+Adding existing tiles:
+Looking for PANGOLIN_MAN
+Looking for BLACK_MAMBA_MAN
+Looking for SLOTH_BEAR_MAN
+Looking for AYE-AYE_MAN
+Looking for BUSHMASTER_MAN
+Looking for PYTHON_MAN
+Looking for TAPIR_MAN
+Looking for IMPALA_MAN
+Looking for AARDVARK_MAN
+Looking for LION_TAMARIN_MAN
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for STOAT_MAN
+Found in line 64 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for LYNX_MAN
+Found in line 64 of file graphics_beefmoanimals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Done Standardizing sentient creatures!
+
+
+Standardizing sentient creatures:
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Standardizing DWARF:
+Creating blank images...done!
+Looking for DWARF
+Standardizing HUMAN:
+Creating blank images...done!
+Looking for HUMAN
+Found in line 11 of file graphics_beefmohumans.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Standardizing ELF:
+Creating blank images...done!
+Looking for ELF
+Standardizing GOBLIN:
+Creating blank images...done!
+Looking for GOBLIN
+Standardizing KOBOLD:
+Creating blank images...done!
+Looking for KOBOLD
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Done Standardizing major races!
+
+
+Done with all!

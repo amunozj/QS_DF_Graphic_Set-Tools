@@ -1,0 +1,9 @@
+graphics_spacefox_dwarves
+
+[OBJECT:GRAPHICS]
+
+[TILE_PAGE:SPACEFOX_D]
+	[FILE:spacefox/dwarves.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:12:22]
+

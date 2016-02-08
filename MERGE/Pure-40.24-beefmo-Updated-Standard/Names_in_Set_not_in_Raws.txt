@@ -1,0 +1,22 @@
+Reference folder: D:\Mis Documentos\aaa DF\Graphics Standardization_Git\40.24 a DF objects
+Graphics set folder: D:\Mis Documentos\aaa DF\Graphics Standardization_Git\Pure-40.24-beefmo
+Output folder: Pure-40.24-beefmo-Updated\
+
+Number of text files found in graphics set folder: 2
+
+
+graphics_beefmoanimals.txt:
+WHALE in line 1416
+RATMAN in line 1470
+FROGMAN in line 1477
+SNAKEMAN in line 1480
+LIZARDMAN in line 1483
+TITAN in line 1516
+TREANT in line 1541
+WEREWOLF in line 1550
+WIZARD in line 1565
+ELEMENMAN_IRON in line 1573
+DEMON in line 1593
+SPIRIT_OF_FIRE in line 1596
+TENTACLE_DEMON in line 1599
+FROG_DEMON in line 1602

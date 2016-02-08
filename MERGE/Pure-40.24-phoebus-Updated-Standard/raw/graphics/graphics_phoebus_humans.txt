@@ -1,0 +1,9 @@
+graphics_phoebus_humans
+
+[OBJECT:GRAPHICS]
+
+[TILE_PAGE:PHOEBUS_H]
+	[FILE:phoebus/humans.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:12:22]
+

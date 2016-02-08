@@ -1,0 +1,10 @@
+graphics_nwkohaku_animals
+
+[OBJECT:GRAPHICS]
+
+[TILE_PAGE:KOHAKU_ANIMALS]
+   [FILE:nwkohaku/animals.png]
+   [TILE_DIM:16:16]
+   [PAGE_DIM:2:3]
+
+

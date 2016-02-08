@@ -1,0 +1,9 @@
+graphics_kafine_animals
+
+[OBJECT:GRAPHICS]
+
+[TILE_PAGE:KAFINE_ANIMALS]
+	[FILE:kafine/animals.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:5:12]
+

@@ -1,0 +1,9 @@
+graphics_phoebus_dwarves
+
+[OBJECT:GRAPHICS]
+
+[TILE_PAGE:PHOEBUS_D]
+	[FILE:phoebus/dwarves.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:12:22]
+

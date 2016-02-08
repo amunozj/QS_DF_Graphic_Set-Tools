@@ -1,0 +1,3771 @@
+Reading creature Raws...done!
+
+Reading creature Categories...done!
+
+Reading sentient creature Categories...done!
+
+Standardizing creatures:
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for TOAD
+Found in line 1308 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for WORM
+Found in line 1345 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for BIRD_BLUEJAY
+Found in line 98 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BIRD_CARDINAL
+Found in line 98 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BIRD_GRACKLE
+Found in line 98 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BIRD_ORIOLE
+Found in line 98 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BIRD_RW_BLACKBIRD
+Found in line 98 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BIRD_PENGUIN
+Found in line 405 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BIRD_PENGUIN_LITTLE
+Found in line 399 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BIRD_PENGUIN_EMPEROR
+Found in line 399 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BIRD_PENGUIN_GIANT
+Found in line 399 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BIRD_FALCON_PEREGRINE
+Found in line 11 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT PEREGRINE FALCON
+Found in line 11 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_KIWI
+Found in line 122 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_KIWI_GIANT
+Found in line 122 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_OSTRICH
+Found in line 11 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_OSTRICH_GIANT
+Found in line 11 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for BIRD_CROW
+Found in line 118 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_CROW
+Found in line 118 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_RAVEN
+Found in line 11 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_RAVEN
+Found in line 11 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_CASSOWARY
+Found in line 114 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_CASSOWARY
+Found in line 114 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_KEA
+Found in line 11 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_KEA
+Found in line 11 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_OWL_SNOWY
+Found in line 107 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_SNOWY_OWL
+Found in line 107 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for SPARROW
+Found in line 11 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_SPARROW
+Found in line 11 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_STORK_WHITE
+Found in line 103 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_WHITE_STORK
+Found in line 103 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_LOON
+Found in line 11 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_LOON
+Found in line 11 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_OWL_BARN
+Found in line 100 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_BARN_OWL
+Found in line 100 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_PARAKEET
+Found in line 14 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_PARAKEET
+Found in line 14 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_KAKAPO
+Found in line 96 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_KAKAPO
+Found in line 96 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_PARROT_GREY
+Found in line 14 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_GREY_PARROT
+Found in line 14 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_PUFFIN
+Found in line 89 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_PUFFIN
+Found in line 89 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_SWAN
+Found in line 14 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_SWAN
+Found in line 14 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_LORIKEET
+Found in line 82 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_LORIKEET
+Found in line 82 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_WREN
+Found in line 14 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_WREN
+Found in line 14 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_OSPREY
+Found in line 75 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_OSPREY
+Found in line 75 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_EMU
+Found in line 14 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_EMU
+Found in line 14 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_COCKATIEL
+Found in line 68 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_COCKATIEL
+Found in line 68 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_LOVEBIRD_PEACH-FACED
+Found in line 14 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_PEACH-FACED_LOVEBIRD
+Found in line 14 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_MAGPIE
+Found in line 62 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_MAGPIE
+Found in line 62 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_KESTREL
+Found in line 17 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_KESTREL
+Found in line 17 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_ALBATROSS
+Found in line 55 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_ALBATROSS
+Found in line 55 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_OWL_GREAT_HORNED
+Found in line 17 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_GREAT_HORNED_OWL
+Found in line 17 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_EAGLE
+Found in line 48 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_EAGLE
+Found in line 48 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_HORNBILL
+Found in line 17 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_HORNBILL
+Found in line 17 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_LOVEBIRD_MASKED
+Found in line 41 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_MASKED_LOVEBIRD
+Found in line 41 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_BUSHTIT
+Found in line 17 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_BUSHTIT
+Found in line 17 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for DAMSELFLY
+Found in line 20 of file graphics_nwkohaku_bugs.txt
+Storing Tile
+Looking for GIANT_DAMSELFLY
+Found in line 17 of file graphics_nwkohaku_bugs.txt
+Storing Tile
+Storing Tile
+Looking for MOTH
+Found in line 20 of file graphics_nwkohaku_bugs.txt
+Storing Tile
+Looking for GIANT_MOTH
+Found in line 17 of file graphics_nwkohaku_bugs.txt
+Storing Tile
+Storing Tile
+Looking for GRASSHOPPER
+Found in line 20 of file graphics_nwkohaku_bugs.txt
+Storing Tile
+Looking for GIANT_GRASSHOPPER
+Found in line 17 of file graphics_nwkohaku_bugs.txt
+Storing Tile
+Storing Tile
+Looking for BARK_SCORPION
+Found in line 20 of file graphics_nwkohaku_bugs.txt
+Storing Tile
+Looking for GIANT_BARK_SCORPION
+Found in line 17 of file graphics_nwkohaku_bugs.txt
+Storing Tile
+Storing Tile
+Looking for MANTIS
+Found in line 20 of file graphics_nwkohaku_bugs.txt
+Storing Tile
+Looking for GIANT_MANTIS
+Found in line 17 of file graphics_nwkohaku_bugs.txt
+Storing Tile
+Storing Tile
+Looking for TICK
+Found in line 20 of file graphics_nwkohaku_bugs.txt
+Storing Tile
+Looking for GIANT_TICK
+Found in line 17 of file graphics_nwkohaku_bugs.txt
+Storing Tile
+Storing Tile
+Looking for LOUSE
+Found in line 20 of file graphics_nwkohaku_bugs.txt
+Storing Tile
+Looking for GIANT_LOUSE
+Found in line 17 of file graphics_nwkohaku_bugs.txt
+Storing Tile
+Storing Tile
+Looking for THRIPS
+Found in line 20 of file graphics_nwkohaku_bugs.txt
+Storing Tile
+Looking for GIANT_THRIPS
+Found in line 17 of file graphics_nwkohaku_bugs.txt
+Storing Tile
+Storing Tile
+Looking for SLUG
+Found in line 20 of file graphics_nwkohaku_bugs.txt
+Storing Tile
+Looking for GIANT_SLUG
+Found in line 17 of file graphics_nwkohaku_bugs.txt
+Storing Tile
+Storing Tile
+Looking for MOSQUITO
+Found in line 14 of file graphics_nwkohaku_bugs.txt
+Storing Tile
+Looking for GIANT_MOSQUITO
+Found in line 11 of file graphics_nwkohaku_bugs.txt
+Storing Tile
+Storing Tile
+Looking for SPIDER_JUMPING
+Found in line 1211 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_JUMPING_SPIDER
+Found in line 17 of file graphics_nwkohaku_bugs.txt
+Storing Tile
+Looking for TERMITE
+Found in line 1272 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for MOON_SNAIL
+Found in line 964 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_MOON_SNAIL
+Found in line 14 of file graphics_nwkohaku_bugs.txt
+Storing Tile
+Looking for SPIDER_BROWN_RECLUSE
+Found in line 1199 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_BROWN_RECLUSE_SPIDER
+Found in line 14 of file graphics_nwkohaku_bugs.txt
+Storing Tile
+Looking for SNAIL
+Found in line 968 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_SNAIL
+Found in line 11 of file graphics_nwkohaku_bugs.txt
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for GECKO_LEOPARD
+Found in line 437 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_LEOPARD_GECKO
+Found in line 25 of file graphics_nwkohaku_animals.txt
+Storing Tile
+Looking for DESERT TORTOISE
+Found in line 35 of file graphics_kafine_animals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_DESERT_TORTOISE
+Found in line 35 of file graphics_kafine_animals.txt
+Storing Tile
+Storing Tile
+Looking for GILA_MONSTER
+Found in line 18 of file graphics_nwkohaku_animals.txt
+Storing Tile
+Looking for GIANT_GILA_MONSTER
+Found in line 18 of file graphics_nwkohaku_animals.txt
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for DOG
+Found in line 22 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for CAT
+Found in line 16 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for MULE
+Found in line 65 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for DONKEY
+Found in line 59 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for HORSE
+Found in line 53 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for COW
+Found in line 16 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for SHEEP
+Found in line 183 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for PIG
+Found in line 196 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GOAT
+Looking for BIRD_CHICKEN
+Found in line 321 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Looking for CAVY
+Found in line 196 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BIRD_DUCK
+Found in line 316 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Looking for WATER_BUFFALO
+Found in line 35 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for REINDEER
+Looking for BIRD_GOOSE
+Found in line 311 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Looking for YAK
+Found in line 35 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for LLAMA
+Found in line 35 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for ALPACA
+Found in line 35 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BIRD_GUINEAFOWL
+Found in line 292 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_PEAFOWL_BLUE
+Found in line 292 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_TURKEY
+Found in line 292 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for RABBIT
+Found in line 159 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for EQUIPMENT_WAGON
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for CHIMERA
+Looking for CENTAUR
+Found in line 156 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GRIFFON
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for FLY
+Found in line 416 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for ROACH_LARGE
+Found in line 1126 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BEETLE
+Found in line 94 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for ANT
+Looking for BUTTERFLY_MONARCH
+Found in line 136 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FIREFLY
+Found in line 246 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for DRAGONFLY
+Found in line 214 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for HONEY_BEE
+Found in line 749 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BUMBLEBEE
+Found in line 118 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for GOAT_MOUNTAIN
+Found in line 148 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for MARMOT_HOARY
+Found in line 101 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GNOME_MOUNTAIN
+Found in line 87 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GNOME_DARK
+Found in line 87 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for WALRUS
+Found in line 401 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_LAMPREY_SEA
+Found in line 456 of file graphics_phoebus_animals.txt
+Storing Tile
+Looking for SHARK_GREAT_WHITE
+Found in line 523 of file graphics_phoebus_animals.txt
+Storing Tile
+Looking for SHARK_FRILL
+Found in line 523 of file graphics_phoebus_animals.txt
+Storing Tile
+Looking for SHARK_SPINY_DOGFISH
+Found in line 523 of file graphics_phoebus_animals.txt
+Storing Tile
+Looking for SHARK_WOBBEGONG_SPOTTED
+Found in line 523 of file graphics_phoebus_animals.txt
+Storing Tile
+Looking for SHARK_WHALE
+Found in line 523 of file graphics_phoebus_animals.txt
+Storing Tile
+Looking for SHARK_BASKING
+Found in line 523 of file graphics_phoebus_animals.txt
+Storing Tile
+Looking for SHARK_NURSE
+Found in line 523 of file graphics_phoebus_animals.txt
+Storing Tile
+Looking for SHARK_MAKO_SHORTFIN
+Found in line 523 of file graphics_phoebus_animals.txt
+Storing Tile
+Looking for SHARK_MAKO_LONGFIN
+Found in line 523 of file graphics_phoebus_animals.txt
+Storing Tile
+Looking for SHARK_TIGER
+Found in line 523 of file graphics_phoebus_animals.txt
+Storing Tile
+Looking for SHARK_BULL
+Found in line 523 of file graphics_phoebus_animals.txt
+Storing Tile
+Looking for SHARK_REEF_BLACKTIP
+Found in line 523 of file graphics_phoebus_animals.txt
+Storing Tile
+Looking for SHARK_REEF_WHITETIP
+Found in line 523 of file graphics_phoebus_animals.txt
+Storing Tile
+Looking for SHARK_BLUE
+Found in line 523 of file graphics_phoebus_animals.txt
+Storing Tile
+Looking for SHARK_HAMMERHEAD
+Found in line 523 of file graphics_phoebus_animals.txt
+Storing Tile
+Looking for SHARK_ANGEL
+Found in line 523 of file graphics_phoebus_animals.txt
+Storing Tile
+Looking for FISH_SKATE_COMMON
+Found in line 523 of file graphics_phoebus_animals.txt
+Storing Tile
+Looking for FISH_RAY_MANTA
+Found in line 526 of file graphics_phoebus_animals.txt
+Storing Tile
+Looking for FISH_STINGRAY
+Found in line 523 of file graphics_phoebus_animals.txt
+Storing Tile
+Looking for FISH_COELACANTH
+Found in line 500 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_STURGEON
+Found in line 380 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_CONGER_EEL
+Found in line 130 of file graphics_sphr_monsters.txt
+Storing Tile
+Storing Tile
+Looking for FISH_MILKFISH
+Found in line 331 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_COD
+Found in line 271 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_OPAH
+Found in line 331 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_GROUPER_GIANT
+Found in line 279 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_BLUEFISH
+Found in line 242 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_SUNFISH_OCEAN
+Found in line 10 of file graphics_kafine_animals.txt
+Storing Tile
+Storing Tile
+Looking for FISH_SWORDFISH
+Found in line 483 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_MARLIN
+Found in line 315 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_HALIBUT
+Found in line 287 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_BARRACUDA_GREAT
+Found in line 494 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_TUNA_BLUEFIN
+Found in line 359 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for NARWHAL
+Found in line 911 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for NARWHAL, GIANT
+Found in line 915 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for HIPPO
+Found in line 389 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_GAR_LONGNOSE
+Found in line 472 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_CARP
+Found in line 472 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_TIGERFISH
+Found in line 472 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_PIKE
+Found in line 472 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for PLATYPUS
+Found in line 417 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Looking for PLATYPUS, GIANT
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for BEAR_GRIZZLY
+Found in line 66 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BEAR_BLACK
+Found in line 66 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for DEER
+Found in line 117 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FOX
+Found in line 59 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for RACCOON
+Found in line 76 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for MACAQUE_RHESUS
+Found in line 171 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for COUGAR
+Found in line 334 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for WOLF
+Found in line 47 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GROUNDHOG
+Found in line 70 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for ALLIGATOR
+Found in line 364 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BIRD_BUZZARD
+Found in line 230 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for PANDA
+Found in line 59 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for PANDA, GIGANTIC
+Looking for CAPYBARA
+Looking for CAPYBARA, GIANT
+Looking for BADGER
+Found in line 116 of file graphics_phoebus_animals.txt
+Storing Tile
+Looking for BADGER, GIANT
+Looking for MOOSE
+Looking for MOOSE, GIANT
+Looking for RED PANDA
+Found in line 1041 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for RED PANDA, GIANT
+Found in line 1045 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for ELEPHANT
+Found in line 314 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for WARTHOG
+Found in line 99 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for LION
+Found in line 244 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for LEOPARD
+Found in line 274 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for JAGUAR
+Found in line 280 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Looking for TIGER
+Found in line 250 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for CHEETAH
+Found in line 256 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GAZELLE
+Found in line 86 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for MANDRILL
+Found in line 138 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for CHIMPANZEE
+Found in line 126 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BONOBO
+Found in line 126 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GORILLA
+Found in line 114 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for ORANGUTAN
+Found in line 114 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIBBON_SIAMANG
+Found in line 114 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIBBON_WHITE_HANDED
+Found in line 114 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIBBON_BLACK_HANDED
+Found in line 114 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIBBON_GRAY
+Found in line 114 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIBBON_SILVERY
+Found in line 114 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIBBON_PILEATED
+Found in line 114 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIBBON_BILOU
+Found in line 114 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIBBON_WHITE_BROWED
+Found in line 114 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIBBON_BLACK_CRESTED
+Found in line 114 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for CAMEL_1_HUMP
+Found in line 16 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for CAMEL_2_HUMP
+Found in line 16 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for CROCODILE_SALTWATER
+Found in line 206 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BIRD_VULTURE
+Found in line 107 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for RHINOCEROS
+Found in line 157 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIRAFFE
+Found in line 22 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for HONEY BADGER
+Found in line 81 of file graphics_phoebus_animals.txt
+Storing Tile
+Looking for GIANT TORTOISE
+Found in line 372 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIGANTIC TORTOISE
+Found in line 635 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for ARMADILLO
+Found in line 44 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for ARMADILLO, GIANT
+Found in line 48 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for MUSKOX
+Found in line 16 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for ELK
+Found in line 34 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BEAR_POLAR
+Found in line 22 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for WOLVERINE
+Found in line 1179 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_WOLVERINE
+Found in line 615 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for CHINCHILLA
+Found in line 136 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_CHINCHILLA
+Found in line 404 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for FLOATING_GUTS
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Looking for DRUNIAN
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Storing Tile
+Looking for CREEPING_EYE
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Looking for VORACIOUS_CAVE_CRAWLER
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Looking for BLIND_CAVE_OGRE
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Storing Tile
+Looking for CAP_HOPPER
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Looking for MAGMA_CRAB
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Looking for CRUNDLE
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Storing Tile
+Looking for HUNGRY_HEAD
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Looking for FLESH_BALL
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Looking for ELK_BIRD
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Storing Tile
+Looking for HELMET_SNAKE
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Looking for GREEN_DEVOURER
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Storing Tile
+Looking for RUTHERER
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Storing Tile
+Looking for CREEPY_CRAWLER
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Looking for DRALTHA
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_EARTHWORM
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Looking for BLOOD_MAN
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Looking for BUGBAT
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Storing Tile
+Looking for MANERA
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Storing Tile
+Looking for MOLEMARIAN
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Storing Tile
+Looking for JABBERER
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Storing Tile
+Looking for POND_GRABBER
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Storing Tile
+Looking for BLIND_CAVE_BEAR
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Storing Tile
+Looking for CAVE_DRAGON
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Storing Tile
+Looking for REACHER
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Looking for ELEMENTMAN_GABBRO
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Looking for GORLAK
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Storing Tile
+Looking for CAVE_FLOATER
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Looking for PLUMP_HELMET_MAN
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Storing Tile
+Looking for CAVE_BLOB
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Looking for ELEMENTMAN_AMETHYST
+Found in line 10 of file graphics_magnut_next_underground.txt
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for OCTOPUS
+Found in line 24 of file graphics_kafine_animals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_OCTOPUS
+Found in line 24 of file graphics_kafine_animals.txt
+Storing Tile
+Storing Tile
+Looking for CRAB
+Found in line 17 of file graphics_kafine_animals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_CRAB
+Found in line 17 of file graphics_kafine_animals.txt
+Storing Tile
+Storing Tile
+Looking for LEOPARD_SEAL
+Found in line 778 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_LEOPARD_SEAL
+Found in line 494 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for CUTTLEFISH
+Found in line 176 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_CUTTLEFISH
+Found in line 413 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for ORCA
+Found in line 904 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_ORCA
+Found in line 518 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for SPONGE
+Found in line 1066 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_SPONGE
+Found in line 571 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for HORSESHOE_CRAB
+Found in line 10 of file graphics_kafine_animals.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_HORSESHOE_CRAB
+Found in line 10 of file graphics_kafine_animals.txt
+Storing Tile
+Storing Tile
+Looking for SPERM_WHALE
+Found in line 1038 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_SPERM_WHALE
+Found in line 563 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for ELEPHANT_SEAL
+Found in line 206 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_ELEPHANT_SEAL
+Found in line 417 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for HARP_SEAL
+Found in line 632 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_HARP_SEAL
+Found in line 437 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for NAUTILUS
+Found in line 843 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_NAUTILUS
+Found in line 494 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for FOXSQUIRREL
+Found in line 348 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for MOGHOPPER
+Found in line 790 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for RAT_DEMON
+Found in line 937 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for WAMBLER_FLUFFY
+Found in line 1071 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for LIZARD_RHINO_TWO_LEGGED
+Found in line 746 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for WORM_KNUCKLE
+Found in line 1096 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for SPIDER_PHANTOM
+Found in line 1010 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FLY_ACORN
+Found in line 339 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GNAT_BLOOD
+Found in line 571 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for LIZARD
+Found in line 734 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for RIVER OTTER
+Found in line 933 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for SEA OTTER
+Found in line 933 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_OTTER
+Found in line 494 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for SNAPPING TURTLE
+Found in line 958 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for ALLIGATOR SNAPPING TURTLE
+Found in line 32 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_SNAPPING_TURTLE
+Found in line 527 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BEAVER
+Found in line 74 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_BEAVER
+Found in line 360 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for LEECH
+Found in line 689 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_LEECH
+Found in line 450 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for AXOLOTL
+Found in line 44 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_AXOLOTL
+Found in line 348 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for MINK
+Found in line 730 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_MINK
+Found in line 450 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for POND_TURTLE
+Found in line 844 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_POND_TURTLE
+Found in line 470 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for LION_GIANT
+Found in line 91 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for LEOPARD_GIANT
+Found in line 103 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for JAGUAR_GIANT
+Found in line 103 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Looking for TIGER_GIANT
+Found in line 91 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for CHEETAH_GIANT
+Found in line 91 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for SCORPION_DESERT_GIANT
+Found in line 144 of file graphics_phoebus_animals.txt
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for HAMSTER
+Found in line 556 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_HAMSTER
+Found in line 401 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for HEDGEHOG
+Found in line 568 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_HEDGEHOG
+Found in line 405 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for SQUIRREL_FLYING
+Found in line 930 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_FLYING_SQUIRREL
+Found in line 389 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for RAT
+Found in line 845 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for SQUIRREL_GRAY
+Found in line 922 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for SQUIRREL_RED
+Found in line 922 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for CHIPMUNK
+Found in line 128 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for MUSSEL
+Found in line 735 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for OYSTER
+Found in line 784 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_SALMON
+Found in line 299 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_CLOWNFISH
+Found in line 227 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_HAGFISH
+Found in line 239 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_LAMPREY_BROOK
+Found in line 251 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_RAY_BAT
+Found in line 279 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_RAY_THORNBACK
+Found in line 279 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_RATFISH_SPOTTED
+Found in line 275 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_HERRING
+Found in line 243 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_SHAD
+Found in line 275 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_ANCHOVY
+Found in line 202 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_TROUT_STEELHEAD
+Found in line 279 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_HAKE
+Found in line 235 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_SEAHORSE
+Found in line 263 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_GLASSEYE
+Found in line 227 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_PUFFER_WHITE_SPOTTED
+Found in line 255 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_SOLE
+Found in line 255 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_FLOUNDER
+Found in line 223 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_MACKEREL
+Found in line 239 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for JELLYFISH_SEA_NETTLE
+Found in line 525 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for SQUID
+Found in line 826 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIGANTIC SQUID
+Found in line 435 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for FISH_LUNGFISH
+Found in line 235 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_LOACH_CLOWN
+Found in line 231 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_BULLHEAD_BROWN
+Found in line 206 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_BULLHEAD_YELLOW
+Found in line 206 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_BULLHEAD_BLACK
+Found in line 202 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_KNIFEFISH_BANDED
+Found in line 215 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_CHAR
+Found in line 207 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_TROUT_RAINBOW
+Found in line 219 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_MOLLY_SAILFIN
+Found in line 211 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_GUPPY
+Found in line 207 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_PERCH
+Found in line 207 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for GREMLIN
+Found in line 10 of file graphics_sphr_monsters.txt
+Storing Tile
+Storing Tile
+Looking for TROLL
+Found in line 31 of file graphics_sphr_monsters.txt
+Storing Tile
+Storing Tile
+Looking for OGRE
+Found in line 31 of file graphics_sphr_monsters.txt
+Storing Tile
+Storing Tile
+Looking for UNICORN
+Found in line 31 of file graphics_sphr_monsters.txt
+Storing Tile
+Storing Tile
+Looking for DRAGON
+Found in line 31 of file graphics_sphr_monsters.txt
+Storing Tile
+Storing Tile
+Looking for SATYR
+Found in line 34 of file graphics_sphr_monsters.txt
+Storing Tile
+Storing Tile
+Looking for COLOSSUS_BRONZE
+Found in line 49 of file graphics_sphr_monsters.txt
+Storing Tile
+Storing Tile
+Looking for GIANT
+Found in line 49 of file graphics_sphr_monsters.txt
+Storing Tile
+Storing Tile
+Looking for CYCLOPS
+Found in line 49 of file graphics_sphr_monsters.txt
+Storing Tile
+Storing Tile
+Looking for ETTIN
+Found in line 49 of file graphics_sphr_monsters.txt
+Storing Tile
+Storing Tile
+Looking for MINOTAUR
+Found in line 49 of file graphics_sphr_monsters.txt
+Storing Tile
+Storing Tile
+Looking for YETI
+Found in line 94 of file graphics_sphr_monsters.txt
+Storing Tile
+Storing Tile
+Looking for SASQUATCH
+Found in line 49 of file graphics_sphr_monsters.txt
+Storing Tile
+Storing Tile
+Looking for BLIZZARD_MAN
+Found in line 49 of file graphics_sphr_monsters.txt
+Storing Tile
+Storing Tile
+Looking for WOLF_ICE
+Found in line 16 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FAIRY
+Found in line 198 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for PIXIE
+Found in line 672 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BEAK_DOG
+Found in line 103 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Looking for GRIMELING
+Found in line 49 of file graphics_sphr_monsters.txt
+Storing Tile
+Storing Tile
+Looking for BLENDEC_FOUL
+Found in line 52 of file graphics_sphr_monsters.txt
+Storing Tile
+Storing Tile
+Looking for STRANGLER
+Found in line 52 of file graphics_sphr_monsters.txt
+Storing Tile
+Storing Tile
+Looking for NIGHTWING
+Found in line 52 of file graphics_sphr_monsters.txt
+Storing Tile
+Storing Tile
+Looking for HARPY
+Found in line 52 of file graphics_sphr_monsters.txt
+Storing Tile
+Storing Tile
+Looking for HYDRA
+Found in line 52 of file graphics_sphr_monsters.txt
+Storing Tile
+Storing Tile
+Looking for MERPERSON
+Found in line 63 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Storing Tile
+Looking for SEA_SERPENT
+Found in line 52 of file graphics_sphr_monsters.txt
+Storing Tile
+Storing Tile
+Looking for SEA_MONSTER
+Found in line 52 of file graphics_sphr_monsters.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_ROC
+Found in line 64 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for CROCODILE_CAVE
+Found in line 105 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for TOAD_GIANT
+Found in line 108 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Looking for OLM_GIANT
+Found in line 105 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Looking for BAT_GIANT
+Found in line 68 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Looking for RAT_GIANT
+Found in line 74 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Looking for RAT_LARGE
+Found in line 74 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Looking for MOLE_DOG_NAKED
+Found in line 68 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for TROGLODYTE
+Found in line 63 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Storing Tile
+Looking for MOLE_GIANT
+Found in line 68 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Looking for IMP_FIRE
+Found in line 63 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Looking for SPIDER_CAVE_GIANT
+Found in line 77 of file graphics_phoebus_animals.txt
+Storing Tile
+Looking for SPIDER_CAVE
+Found in line 754 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FISH_CAVE
+Found in line 198 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for LOBSTER_CAVE
+Found in line 533 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Found in line 10 of file graphics_kafine_animals.txt
+Looking for SNAKE_FIRE
+Found in line 729 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for OLM
+Found in line 618 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BAT
+Found in line 60 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for MAGGOT_PURRING
+Found in line 545 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for ELEMENTMAN_FIRE
+Found in line 63 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Looking for ELEMENTMAN_MAGMA
+Found in line 63 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Looking for ELEMENTMAN_IRON
+Found in line 63 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Looking for ELEMENTMAN_MUD
+Found in line 63 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Looking for BIRD_SWALLOW_CAVE
+Found in line 70 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BIRD_SWALLOW_CAVE_GIANT
+Found in line 64 of file graphics_phoebus_animals.txt
+Storing Tile
+Storing Tile
+Looking for AMPHIBIAN_MAN
+Found in line 10 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Looking for REPTILE_MAN
+Found in line 45 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Looking for SERPENT_MAN
+Found in line 45 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Looking for ANT_MAN
+Found in line 13 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Looking for RODENT MAN
+Found in line 40 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for WILD_BOAR
+Found in line 777 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_WILD_BOAR
+Found in line 366 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for COYOTE
+Found in line 140 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_COYOTE
+Found in line 235 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for KANGAROO
+Found in line 451 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_KANGAROO
+Found in line 271 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for KOALA
+Found in line 475 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_KOALA
+Found in line 275 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for ADDER
+Found in line 20 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_ADDER
+Found in line 195 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for ECHIDNA
+Found in line 166 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_ECHIDNA
+Found in line 227 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for PORCUPINE
+Found in line 609 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_PORCUPINE
+Found in line 287 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for KINGSNAKE
+Found in line 438 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_KINGSNAKE
+Found in line 300 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GRAY_LANGUR
+Found in line 337 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_GRAY_LANGUR
+Found in line 227 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BOBCAT
+Found in line 74 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_BOBCAT
+Found in line 199 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for SKUNK
+Found in line 610 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_SKUNK
+Found in line 283 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GREEN_TREE_FROG
+Found in line 324 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_GREEN_TREE_FROG
+Found in line 219 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for HARE
+Found in line 332 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_HARE
+Found in line 219 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for RATTLESNAKE
+Found in line 577 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_RATTLESNAKE
+Found in line 271 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for WEASEL
+Found in line 658 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_WEASEL
+Found in line 291 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for COPPERHEAD_SNAKE
+Found in line 124 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_COPPERHEAD_SNAKE
+Found in line 207 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for IBEX
+Found in line 336 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_IBEX
+Found in line 215 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for WOMBAT
+Found in line 649 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_WOMBAT
+Found in line 279 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for DINGO
+Found in line 14 of file graphics_nwkohaku_animals.txt
+Storing Tile
+Looking for GIANT_DINGO
+Found in line 207 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for COATI
+Found in line 112 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_COATI
+Found in line 199 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for OPOSSUM
+Found in line 470 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_OPOSSUM
+Found in line 235 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for MONGOOSE
+Found in line 413 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_MONGOOSE
+Found in line 223 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for HYENA
+Found in line 11 of file graphics_nwkohaku_animals.txt
+Storing Tile
+Looking for GIANT_HYENA
+Found in line 199 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for ANACONDA
+Found in line 28 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_ANACONDA
+Found in line 175 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for MONITOR_LIZARD
+Found in line 401 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_MONITOR_LIZARD
+Found in line 211 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for KING_COBRA
+Found in line 324 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_KING_COBRA
+Found in line 199 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for OCELOT
+Found in line 417 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_OCELOT
+Found in line 207 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for JACKAL
+Found in line 296 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_JACKAL
+Found in line 195 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for CAPUCHIN
+Found in line 92 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_CAPUCHIN
+Found in line 183 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for SLOTH
+Found in line 478 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_SLOTH
+Found in line 203 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for SPIDER_MONKEY
+Found in line 499 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_SPIDER_MONKEY
+Found in line 207 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for PANGOLIN
+Found in line 417 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_PANGOLIN
+Found in line 195 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BLACK_MAMBA
+Found in line 62 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_BLACK_MAMBA
+Found in line 171 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BEAR_SLOTH
+Found in line 52 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_SLOTH_BEAR
+Found in line 185 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for AYE-AYE
+Found in line 40 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_AYE-AYE
+Found in line 157 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BUSHMASTER
+Found in line 64 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_BUSHMASTER
+Found in line 153 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for PYTHON
+Found in line 408 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_PYTHON
+Found in line 165 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for TAPIR
+Found in line 469 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_TAPIR
+Found in line 169 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for IMPALA
+Found in line 222 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_IMPALA
+Found in line 153 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for AARDVARK
+Found in line 12 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_AARDVARK
+Found in line 145 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for LION_TAMARIN
+Found in line 259 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_LION_TAMARIN
+Found in line 145 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for STOAT
+Found in line 429 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_STOAT
+Found in line 149 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for LYNX
+Found in line 263 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GIANT_LYNX
+Found in line 145 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Done Standardizing creatures!
+
+
+Standardizing sentient creatures:
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for PENGUIN MAN
+Found in line 34 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Looking for PEREGRINE FALCON MAN
+Found in line 343 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for KIWI MAN
+Found in line 226 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Found in line 17 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Looking for OSTRICH MAN
+Found in line 323 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for CROW_MAN
+Found in line 17 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Looking for RAVEN_MAN
+Found in line 54 of file graphics_kafine_animals.txt
+Storing Tile
+Storing Tile
+Looking for CASSOWARY_MAN
+Found in line 74 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for KEA_MAN
+Found in line 210 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for SNOWY_OWL_MAN
+Found in line 17 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Looking for SPARROW_MAN
+Found in line 377 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for WHITE_STORK_MAN
+Found in line 17 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Looking for LOON_MAN
+Found in line 11 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Looking for BARN_OWL_MAN
+Found in line 14 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Looking for PARAKEET_MAN
+Found in line 323 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for KAKAPO_MAN
+Found in line 10 of file graphics_kafine_animals.txt
+Storing Tile
+Storing Tile
+Looking for GREY_PARROT_MAN
+Found in line 158 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for PUFFIN_MAN
+Found in line 331 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for SWAN_MAN
+Found in line 384 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Creating blank images...done!
+Adding existing tiles:
+Looking for LORIKEET_MAN
+Found in line 235 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for WREN_MAN
+Found in line 408 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for OSPREY_MAN
+Found in line 303 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for EMU_MAN
+Found in line 128 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for COCKATIEL_MAN
+Found in line 82 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for PEACH-FACED_LOVEBIRD_MAN
+Found in line 11 of file graphics_nwkohaku_birds.txt
+Storing Tile
+Looking for MAGPIE_MAN
+Found in line 21 of file graphics_kafine_animals.txt
+Storing Tile
+Storing Tile
+Looking for KESTREL_MAN
+Found in line 10 of file graphics_kafine_animals.txt
+Storing Tile
+Storing Tile
+Looking for ALBATROSS_MAN
+Found in line 20 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GREAT_HORNED_OWL_MAN
+Found in line 392 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for EAGLE_MAN
+Found in line 108 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for HORNBILL_MAN
+Found in line 158 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for MASKED_LOVEBIRD_MAN
+Found in line 227 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BUSHTIT_MAN
+Found in line 60 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for DAMSELFLY_MAN
+Found in line 90 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for MOTH_MAN
+Found in line 241 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GRASSHOPPER_MAN
+Found in line 119 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BARK_SCORPION_MAN
+Found in line 36 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for MANTIS_MAN
+Found in line 204 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for TICK_MAN
+Found in line 333 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for LOUSE_MAN
+Found in line 196 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for THRIPS_MAN
+Found in line 325 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for SLUG_MAN
+Found in line 292 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Found in line 37 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Looking for MOSQUITO_MAN
+Found in line 220 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for JUMPING_SPIDER_MAN
+Found in line 159 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for MOON_SNAIL_MAN
+Found in line 208 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BROWN_RECLUSE_SPIDER_MAN
+Found in line 48 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for SNAIL_MAN
+Found in line 204 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Found in line 37 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for LEOPARD_GECKO_MAN
+Found in line 175 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for DESERT_TORTOISE_MAN
+Found in line 82 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GILA_MONSTER_MAN
+Found in line 103 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for NARWHAL MAN
+Found in line 191 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for PLATYPUS MAN
+Found in line 219 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for PANDA MAN
+Found in line 18 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Looking for CAPYBARA MAN
+Found in line 13 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Looking for BADGER MAN
+Found in line 10 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Looking for MOOSE MAN
+Found in line 14 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Looking for RED PANDA MAN
+Found in line 235 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for TIGERMAN
+Found in line 25 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Storing Tile
+Looking for GIANT TORTOISE MAN
+Found in line 99 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for ARMADILLO MAN
+Found in line 24 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for WOLVERINE_MAN
+Found in line 275 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for CHINCHILLA_MAN
+Found in line 52 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for OCTOPUS_MAN
+Found in line 187 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for CRAB_MAN
+Found in line 64 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for LEOPARD_SEAL_MAN
+Found in line 151 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for CUTTLEFISH_MAN
+Found in line 64 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for ORCA_MAN
+Found in line 177 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for SPONGE_MAN
+Found in line 225 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for HORSESHOE_CRAB_MAN
+Found in line 105 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for SPERM_WHALE_MAN
+Found in line 213 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for ELEPHANT_SEAL_MAN
+Found in line 72 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for HARP_SEAL_MAN
+Found in line 93 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for NAUTILUS_MAN
+Found in line 153 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for OTTER_MAN
+Found in line 161 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for SNAPPING_TURTLE_MAN
+Found in line 193 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BEAVER_MAN
+Found in line 32 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for LEECH_MAN
+Found in line 125 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Found in line 19 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Storing Tile
+Looking for AXOLOTL_MAN
+Found in line 24 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for MINK_MAN
+Found in line 129 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for POND_TURTLE_MAN
+Found in line 149 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for HAMSTER_MAN
+Found in line 77 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for HEDGEHOG_MAN
+Found in line 81 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for FLYING_SQUIRREL_MAN
+Found in line 64 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for SQUID MAN
+Found in line 164 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for CAVE_FISH_MAN
+Found in line 12 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Looking for OLM_MAN
+Found in line 17 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Storing Tile
+Looking for BAT_MAN
+Found in line 10 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Looking for CAVE_SWALLOW_MAN
+Found in line 10 of file graphics_phoebus_humanoids.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for WILD_BOAR_MAN
+Found in line 176 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for COYOTE_MAN
+Found in line 52 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for KANGAROO_MAN
+Found in line 88 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for KOALA_MAN
+Found in line 96 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for ADDER_MAN
+Found in line 16 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for ECHIDNA_MAN
+Found in line 52 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for PORCUPINE_MAN
+Found in line 116 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for KINGSNAKE_MAN
+Found in line 84 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GRAY_LANGUR_MAN
+Found in line 52 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BOBCAT_MAN
+Found in line 28 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Creating blank images...done!
+Adding existing tiles:
+Looking for SKUNK_MAN
+Found in line 112 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for GREEN_TREE_FROG_MAN
+Found in line 48 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for HARE_MAN
+Found in line 48 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for RATTLESNAKE_MAN
+Found in line 100 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for WEASEL_MAN
+Found in line 120 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for COPPERHEAD_SNAKE_MAN
+Found in line 40 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for IBEX_MAN
+Found in line 48 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for WOMBAT_MAN
+Found in line 112 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for DINGO_MAN
+Found in line 40 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for COATI_MAN
+Found in line 36 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for MONGOOSE_MAN
+Found in line 60 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for HYENA_MAN
+Found in line 36 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for ANACONDA_MAN
+Found in line 16 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for MONITOR_LIZARD_MAN
+Found in line 52 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for KING_COBRA_MAN
+Found in line 40 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for OCELOT_MAN
+Found in line 48 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for JACKAL_MAN
+Found in line 36 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for CAPUCHIN_MAN
+Found in line 28 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for SLOTH_MAN
+Found in line 56 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for SPIDER_MONKEY_MAN
+Found in line 56 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Creating blank images...done!
+Adding existing tiles:
+Looking for PANGOLIN_MAN
+Found in line 44 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BLACK_MAMBA_MAN
+Found in line 20 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for SLOTH_BEAR_MAN
+Found in line 44 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for AYE-AYE_MAN
+Found in line 16 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for BUSHMASTER_MAN
+Found in line 16 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for PYTHON_MAN
+Found in line 32 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for TAPIR_MAN
+Found in line 36 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for IMPALA_MAN
+Found in line 16 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for AARDVARK_MAN
+Found in line 12 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for LION_TAMARIN_MAN
+Found in line 12 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for STOAT_MAN
+Found in line 20 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for LYNX_MAN
+Found in line 12 of file graphics_doren_crittermen.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Done Standardizing sentient creatures!
+
+
+Standardizing sentient creatures:
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Standardizing DWARF:
+Creating blank images...done!
+Looking for DWARF
+Found in line 10 of file graphics_phoebus_dwarves.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Standardizing HUMAN:
+Creating blank images...done!
+Looking for HUMAN
+Found in line 10 of file graphics_phoebus_humans.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Standardizing ELF:
+Creating blank images...done!
+Looking for ELF
+Found in line 10 of file graphics_jiripetru_elves.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Standardizing GOBLIN:
+Creating blank images...done!
+Looking for GOBLIN
+Found in line 10 of file graphics_phoebus_goblins.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Standardizing KOBOLD:
+Creating blank images...done!
+Looking for KOBOLD
+Found in line 10 of file graphics_sphr_kobolds.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Done Standardizing major races!
+
+
+Done with all!

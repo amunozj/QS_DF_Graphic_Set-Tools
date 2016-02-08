@@ -1,0 +1,9 @@
+graphics_jiripetru_elves
+
+[OBJECT:GRAPHICS]
+
+[TILE_PAGE:JIRI_E]
+   [FILE:jiripetru/elves.png]
+   [TILE_DIM:16:16]
+   [PAGE_DIM:11:5]
+

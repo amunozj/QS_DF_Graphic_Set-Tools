@@ -28,12 +28,23 @@ FolderI = uigetdir('','Select folder with graphics set');
 
 disp(' ')
 disp('Please select if you want a separate folder with image templates')
-button = questdlg('Do you want a separate folder with image templates','Image template choice','Yes','No','No');
+button = questdlg('Do you want a separate folder with image templates?','Image template choice','Yes','No','No');
 
 if strcmp(button,'Yes')
     names_sw = true;
 else
     names_sw = false;
+end
+
+
+disp(' ')
+disp('Please select if you want to create supporting txt files')
+button = questdlg('Do you want to create supporting text files?','Image template choice','Yes','No','No');
+
+if strcmp(button,'Yes')
+    txtfl_sw = true;
+else
+    txtfl_sw = false;
 end
 
 
@@ -58,6 +69,21 @@ FlsR = rdir([FolderR '\**\*.txt']);
 %Finding all .txt files in the raw/graphics folder of the graphics set
 FlsG = rdir([FolderO 'raw\graphics\**\*.txt']);
 
+
+%Reading major races
+fprintf(FdisL,'Reading Major Races...');
+nct = 0;
+fidC = fopen('MAJOR_RACES.txt');
+while 1
+    
+    %Reading line
+    tlineC = fgetl(fidC);
+    if ~ischar(tlineC),   break,   end
+    nct = nct + 1;
+    mjr_races(nct).name = tlineC;
+    
+end
+fclose(fidC);
 
 
 disp(' ')
@@ -87,16 +113,20 @@ for ifR = 1:length(FlsR)
             FlsR(ifR).snt(ncr) = 0;            
         end
         
-        if ~isempty(strfind(tlineR,'ANIMAL_PERSON'))&&strcmp(tmp(1),'[')
+        if ~isempty(strfind(tlineR,'ANIMAL_PERSON'))&&strcmp(tmp(1),'[')&&(FlsR(ifR).snt(ncr)~=2)
             FlsR(ifR).snt(ncr) = 1;
         end
         
-        if ~isempty(strfind(tlineR,'LOCAL_POPS'))&&strcmp(tmp(1),'[')
+        if ~isempty(strfind(tlineR,'LOCAL_POPS'))&&strcmp(tmp(1),'[')&&(FlsR(ifR).snt(ncr)~=2)
             FlsR(ifR).snt(ncr) = 1;
         end
         
-        if (~isempty(strfind(tlineR,'[CREATURE:DWARF]'))||~isempty(strfind(tlineR,'[CREATURE:ELF]'))||~isempty(strfind(tlineR,'[CREATURE:GOBLIN]'))||~isempty(strfind(tlineR,'[CREATURE:KOBOLD]'))||~isempty(strfind(tlineR,'[CREATURE:HUMAN]')))&&strcmp(tmp(1),'[')
-            FlsR(ifR).snt(ncr) = 2;
+        for imjr = 1:length(mjr_races)
+            
+            if ~isempty(strfind(tlineR,['[CREATURE:' mjr_races(imjr).name ']']))&&strcmp(tmp(1),'[')
+                FlsR(ifR).snt(ncr) = 2;
+            end
+            
         end
         
         
@@ -349,7 +379,11 @@ QS_DF_Graphics_Standardization_2_sentient
 
 QS_DF_Graphics_Standardization_3_major
 
-QS_DF_Graphics_Standardization_4_txt_files_and_clean
+if txtfl_sw
+
+    QS_DF_Graphics_Standardization_4_txt_files_and_clean
+
+end
 
 fclose(fidMss);
 

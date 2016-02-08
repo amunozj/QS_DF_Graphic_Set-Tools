@@ -1,0 +1,450 @@
+Reference folder: D:\Mis Documentos\aaa DF\Graphics Standardization_Git\40.24 a DF objects
+Graphics set folder: D:\Mis Documentos\aaa DF\Graphics Standardization_Git\Pure-40.24-beefmo
+Output folder: Pure-40.24-beefmo-Updated\
+Number of text files found in output graphics set folder: 2
+
+
+creature_amphibians.txt:
+TOAD in line 5
+
+creature_annelids.txt:
+WORM in line 5
+
+creature_birds.txt:
+BIRD_BLUEJAY in line 5
+BIRD_CARDINAL in line 110
+BIRD_GRACKLE in line 214
+BIRD_ORIOLE in line 315
+BIRD_RW_BLACKBIRD in line 415
+BIRD_PENGUIN in line 526
+BIRD_PENGUIN_LITTLE in line 621
+BIRD_PENGUIN_EMPEROR in line 717
+PENGUIN MAN in line 813
+BIRD_PENGUIN_GIANT in line 843
+BIRD_FALCON_PEREGRINE in line 877
+PEREGRINE FALCON MAN in line 997
+GIANT PEREGRINE FALCON in line 1026
+BIRD_KIWI in line 1062
+KIWI MAN in line 1156
+BIRD_KIWI_GIANT in line 1182
+BIRD_OSTRICH in line 1220
+OSTRICH MAN in line 1339
+BIRD_OSTRICH_GIANT in line 1365
+
+creature_birds_new.txt:
+BIRD_CROW in line 11
+CROW_MAN in line 116
+GIANT_CROW in line 143
+BIRD_RAVEN in line 177
+RAVEN_MAN in line 285
+GIANT_RAVEN in line 312
+BIRD_CASSOWARY in line 345
+CASSOWARY_MAN in line 440
+GIANT_CASSOWARY in line 466
+BIRD_KEA in line 493
+KEA_MAN in line 602
+BIRD_OWL_SNOWY in line 663
+SNOWY_OWL_MAN in line 769
+SPARROW in line 829
+SPARROW_MAN in line 936
+WHITE_STORK_MAN in line 1086
+GIANT_WHITE_STORK in line 1112
+BIRD_LOON in line 1147
+LOON_MAN in line 1236
+BIRD_OWL_BARN in line 1295
+BARN_OWL_MAN in line 1404
+BIRD_PARAKEET in line 1463
+PARAKEET_MAN in line 1567
+KAKAPO_MAN in line 1718
+GIANT_KAKAPO in line 1743
+BIRD_PARROT_GREY in line 1776
+GREY_PARROT_MAN in line 1865
+BIRD_PUFFIN in line 1924
+PUFFIN_MAN in line 2010
+BIRD_SWAN in line 2067
+SWAN_MAN in line 2155
+BIRD_LORIKEET in line 2212
+LORIKEET_MAN in line 2314
+BIRD_WREN in line 2374
+WREN_MAN in line 2479
+BIRD_OSPREY in line 2538
+OSPREY_MAN in line 2646
+EMU_MAN in line 2802
+GIANT_EMU in line 2828
+BIRD_COCKATIEL in line 2859
+COCKATIEL_MAN in line 2960
+BIRD_LOVEBIRD_PEACH-FACED in line 3017
+PEACH-FACED_LOVEBIRD_MAN in line 3120
+BIRD_MAGPIE in line 3179
+MAGPIE_MAN in line 3282
+BIRD_KESTREL in line 3340
+KESTREL_MAN in line 3449
+BIRD_ALBATROSS in line 3506
+ALBATROSS_MAN in line 3594
+BIRD_OWL_GREAT_HORNED in line 3652
+GREAT_HORNED_OWL_MAN in line 3763
+EAGLE_MAN in line 3931
+BIRD_HORNBILL in line 3989
+HORNBILL_MAN in line 4090
+BIRD_LOVEBIRD_MASKED in line 4148
+MASKED_LOVEBIRD_MAN in line 4248
+BIRD_BUSHTIT in line 4305
+BUSHTIT_MAN in line 4406
+
+creature_bug_slug_new.txt:
+DAMSELFLY in line 9
+DAMSELFLY_MAN in line 62
+GIANT_DAMSELFLY in line 86
+MOTH in line 117
+MOTH_MAN in line 170
+GIANT_MOTH in line 194
+GRASSHOPPER in line 224
+GRASSHOPPER_MAN in line 275
+GIANT_GRASSHOPPER in line 298
+BARK_SCORPION in line 327
+BARK_SCORPION_MAN in line 405
+GIANT_BARK_SCORPION in line 429
+MANTIS in line 457
+MANTIS_MAN in line 513
+GIANT_MANTIS in line 538
+TICK in line 569
+TICK_MAN in line 623
+GIANT_TICK in line 647
+LOUSE in line 676
+LOUSE_MAN in line 730
+GIANT_LOUSE in line 754
+THRIPS in line 783
+THRIPS_MAN in line 838
+GIANT_THRIPS in line 862
+SLUG in line 890
+SLUG_MAN in line 933
+GIANT_SLUG in line 951
+MOSQUITO in line 977
+MOSQUITO_MAN in line 1035
+GIANT_MOSQUITO in line 1060
+SPIDER_JUMPING in line 1091
+JUMPING_SPIDER_MAN in line 1143
+GIANT_JUMPING_SPIDER in line 1167
+TERMITE in line 1197
+MOON_SNAIL in line 1264
+MOON_SNAIL_MAN in line 1319
+GIANT_MOON_SNAIL in line 1342
+SPIDER_BROWN_RECLUSE in line 1371
+BROWN_RECLUSE_SPIDER_MAN in line 1445
+GIANT_BROWN_RECLUSE_SPIDER in line 1486
+SNAIL in line 1532
+GIANT_SNAIL in line 1600
+
+creature_desert_new.txt:
+GECKO_LEOPARD in line 9
+LEOPARD_GECKO_MAN in line 83
+GIANT_LEOPARD_GECKO in line 108
+DESERT TORTOISE in line 139
+DESERT_TORTOISE_MAN in line 225
+GIANT_DESERT_TORTOISE in line 250
+GILA_MONSTER in line 281
+GILA_MONSTER_MAN in line 390
+GIANT_GILA_MONSTER in line 432
+
+creature_domestic.txt:
+DOG in line 5
+CAT in line 124
+GOAT in line 972
+
+creature_equipment.txt:
+EQUIPMENT_WAGON in line 5
+
+creature_insects.txt:
+FLY in line 5
+ROACH_LARGE in line 61
+BEETLE in line 117
+ANT in line 171
+BUTTERFLY_MONARCH in line 250
+FIREFLY in line 303
+DRAGONFLY in line 358
+HONEY_BEE in line 420
+BUMBLEBEE in line 544
+
+creature_large_mountain.txt:
+GOAT_MOUNTAIN in line 5
+
+creature_large_ocean.txt:
+SHARK_GREAT_WHITE in line 167
+SHARK_FRILL in line 247
+SHARK_SPINY_DOGFISH in line 327
+SHARK_WOBBEGONG_SPOTTED in line 407
+SHARK_WHALE in line 487
+SHARK_BASKING in line 557
+SHARK_NURSE in line 627
+SHARK_MAKO_SHORTFIN in line 706
+SHARK_MAKO_LONGFIN in line 786
+SHARK_TIGER in line 866
+SHARK_BULL in line 945
+SHARK_REEF_BLACKTIP in line 1024
+SHARK_REEF_WHITETIP in line 1104
+SHARK_BLUE in line 1183
+SHARK_HAMMERHEAD in line 1262
+SHARK_ANGEL in line 1342
+FISH_SKATE_COMMON in line 1422
+FISH_RAY_MANTA in line 1494
+FISH_STINGRAY in line 1556
+FISH_COELACANTH in line 1634
+FISH_STURGEON in line 1715
+FISH_CONGER_EEL in line 1800
+FISH_MILKFISH in line 1869
+FISH_COD in line 1957
+FISH_OPAH in line 2040
+FISH_GROUPER_GIANT in line 2122
+FISH_BLUEFISH in line 2203
+FISH_SUNFISH_OCEAN in line 2286
+FISH_SWORDFISH in line 2369
+FISH_MARLIN in line 2452
+FISH_HALIBUT in line 2535
+FISH_BARRACUDA_GREAT in line 2617
+FISH_TUNA_BLUEFIN in line 2701
+NARWHAL in line 2793
+NARWHAL MAN in line 2885
+NARWHAL, GIANT in line 2910
+
+creature_large_tropical.txt:
+GIANT TORTOISE in line 2785
+GIANT TORTOISE MAN in line 2874
+GIGANTIC TORTOISE in line 2899
+ARMADILLO in line 2931
+ARMADILLO MAN in line 3018
+ARMADILLO, GIANT in line 3043
+
+creature_mountain_new.txt:
+WOLVERINE in line 10
+WOLVERINE_MAN in line 113
+GIANT_WOLVERINE in line 141
+CHINCHILLA in line 169
+CHINCHILLA_MAN in line 258
+GIANT_CHINCHILLA in line 286
+
+creature_next_underground.txt:
+FLOATING_GUTS in line 5
+CAP_HOPPER in line 370
+CREEPY_CRAWLER in line 1121
+GIANT_EARTHWORM in line 1254
+CAVE_BLOB in line 2468
+
+creature_ocean_new.txt:
+OCTOPUS in line 11
+OCTOPUS_MAN in line 90
+GIANT_OCTOPUS in line 115
+CRAB in line 143
+CRAB_MAN in line 198
+GIANT_CRAB in line 225
+LEOPARD_SEAL in line 255
+LEOPARD_SEAL_MAN in line 327
+GIANT_LEOPARD_SEAL in line 356
+CUTTLEFISH in line 387
+CUTTLEFISH_MAN in line 467
+GIANT_CUTTLEFISH in line 492
+ORCA in line 519
+ORCA_MAN in line 599
+GIANT_ORCA in line 624
+SPONGE in line 651
+SPONGE_MAN in line 690
+GIANT_SPONGE in line 715
+HORSESHOE_CRAB in line 740
+HORSESHOE_CRAB_MAN in line 787
+GIANT_HORSESHOE_CRAB in line 814
+SPERM_WHALE in line 842
+SPERM_WHALE_MAN in line 923
+GIANT_SPERM_WHALE in line 948
+ELEPHANT_SEAL in line 977
+ELEPHANT_SEAL_MAN in line 1053
+GIANT_ELEPHANT_SEAL in line 1082
+HARP_SEAL in line 1111
+HARP_SEAL_MAN in line 1183
+GIANT_HARP_SEAL in line 1212
+NAUTILUS in line 1242
+NAUTILUS_MAN in line 1313
+GIANT_NAUTILUS in line 1338
+
+creature_other.txt:
+FOXSQUIRREL in line 5
+MOGHOPPER in line 88
+RAT_DEMON in line 162
+WAMBLER_FLUFFY in line 240
+LIZARD_RHINO_TWO_LEGGED in line 311
+WORM_KNUCKLE in line 391
+SPIDER_PHANTOM in line 434
+FLY_ACORN in line 509
+GNAT_BLOOD in line 564
+
+creature_reptiles.txt:
+LIZARD in line 5
+
+creature_riverlakepool_new.txt:
+RIVER OTTER in line 10
+SEA OTTER in line 106
+OTTER_MAN in line 200
+GIANT_OTTER in line 228
+SNAPPING TURTLE in line 260
+ALLIGATOR SNAPPING TURTLE in line 350
+SNAPPING_TURTLE_MAN in line 441
+GIANT_SNAPPING_TURTLE in line 466
+BEAVER in line 495
+BEAVER_MAN in line 588
+GIANT_BEAVER in line 616
+LEECH in line 649
+GIANT_LEECH in line 724
+AXOLOTL in line 754
+AXOLOTL_MAN in line 825
+GIANT_AXOLOTL in line 850
+MINK in line 877
+MINK_MAN in line 969
+GIANT_MINK in line 997
+POND_TURTLE in line 1027
+POND_TURTLE_MAN in line 1112
+GIANT_POND_TURTLE in line 1137
+
+creature_small_mammal_new.txt:
+HAMSTER in line 9
+HAMSTER_MAN in line 93
+GIANT_HAMSTER in line 121
+HEDGEHOG in line 150
+HEDGEHOG_MAN in line 242
+GIANT_HEDGEHOG in line 270
+SQUIRREL_FLYING in line 299
+FLYING_SQUIRREL_MAN in line 385
+GIANT_FLYING_SQUIRREL in line 413
+
+creature_small_mammals.txt:
+RAT in line 5
+SQUIRREL_GRAY in line 95
+SQUIRREL_RED in line 180
+CHIPMUNK in line 265
+
+creature_small_ocean.txt:
+MUSSEL in line 5
+OYSTER in line 61
+FISH_SALMON in line 115
+FISH_CLOWNFISH in line 188
+FISH_HAGFISH in line 257
+FISH_LAMPREY_BROOK in line 325
+FISH_RAY_BAT in line 394
+FISH_RAY_THORNBACK in line 462
+FISH_RATFISH_SPOTTED in line 529
+FISH_HERRING in line 598
+FISH_SHAD in line 669
+FISH_ANCHOVY in line 743
+FISH_TROUT_STEELHEAD in line 813
+FISH_HAKE in line 886
+FISH_SEAHORSE in line 957
+FISH_GLASSEYE in line 1022
+FISH_PUFFER_WHITE_SPOTTED in line 1092
+FISH_SOLE in line 1156
+FISH_FLOUNDER in line 1226
+FISH_MACKEREL in line 1295
+JELLYFISH_SEA_NETTLE in line 1366
+SQUID in line 1413
+SQUID MAN in line 1493
+GIGANTIC SQUID in line 1518
+
+creature_small_riverlake.txt:
+FISH_LUNGFISH in line 5
+FISH_LOACH_CLOWN in line 85
+FISH_BULLHEAD_BROWN in line 155
+FISH_BULLHEAD_YELLOW in line 225
+FISH_BULLHEAD_BLACK in line 295
+FISH_KNIFEFISH_BANDED in line 365
+FISH_CHAR in line 435
+FISH_TROUT_RAINBOW in line 505
+FISH_MOLLY_SAILFIN in line 575
+FISH_GUPPY in line 649
+FISH_PERCH in line 723
+
+creature_standard.txt:
+DWARF in line 5
+ELF in line 704
+GOBLIN in line 958
+KOBOLD in line 1208
+YETI in line 3446
+FAIRY in line 3845
+PIXIE in line 4044
+BIRD_ROC in line 5392
+
+creature_subterranean.txt:
+SPIDER_CAVE in line 1094
+FISH_CAVE in line 1172
+CAVE_FISH_MAN in line 1237
+LOBSTER_CAVE in line 1270
+SNAKE_FIRE in line 1323
+OLM in line 1369
+BAT in line 1465
+MAGGOT_PURRING in line 1589
+ELEMENTMAN_IRON in line 1801
+BIRD_SWALLOW_CAVE in line 1953
+AMPHIBIAN_MAN in line 2184
+REPTILE_MAN in line 2279
+SERPENT_MAN in line 2399
+RODENT MAN in line 2654
+
+creature_temperate_new.txt:
+GREEN_TREE_FROG in line 1782
+
+creature_tropical_new.txt:
+MONGOOSE in line 11
+MONGOOSE_MAN in line 104
+GIANT_MONGOOSE in line 132
+HYENA in line 163
+HYENA_MAN in line 259
+GIANT_HYENA in line 287
+ANACONDA in line 318
+ANACONDA_MAN in line 396
+GIANT_ANACONDA in line 420
+MONITOR_LIZARD in line 450
+MONITOR_LIZARD_MAN in line 543
+GIANT_MONITOR_LIZARD in line 571
+KING_COBRA in line 601
+KING_COBRA_MAN in line 704
+GIANT_KING_COBRA in line 745
+OCELOT in line 791
+OCELOT_MAN in line 887
+GIANT_OCELOT in line 915
+JACKAL in line 946
+JACKAL_MAN in line 1039
+GIANT_JACKAL in line 1067
+CAPUCHIN in line 1097
+CAPUCHIN_MAN in line 1190
+GIANT_CAPUCHIN in line 1218
+SLOTH in line 1247
+SLOTH_MAN in line 1336
+GIANT_SLOTH in line 1364
+SPIDER_MONKEY in line 1394
+SPIDER_MONKEY_MAN in line 1485
+GIANT_SPIDER_MONKEY in line 1513
+PANGOLIN in line 1542
+PANGOLIN_MAN in line 1643
+GIANT_PANGOLIN in line 1671
+BLACK_MAMBA in line 1699
+BLACK_MAMBA_MAN in line 1809
+GIANT_BLACK_MAMBA in line 1850
+BEAR_SLOTH in line 1895
+SLOTH_BEAR_MAN in line 1989
+GIANT_SLOTH_BEAR in line 2017
+AYE-AYE in line 2047
+AYE-AYE_MAN in line 2137
+GIANT_AYE-AYE in line 2165
+BUSHMASTER in line 2198
+BUSHMASTER_MAN in line 2304
+GIANT_BUSHMASTER in line 2345
+PYTHON in line 2391
+PYTHON_MAN in line 2475
+GIANT_PYTHON in line 2499
+TAPIR in line 2528
+TAPIR_MAN in line 2642
+GIANT_TAPIR in line 2667
+IMPALA in line 2695
+IMPALA_MAN in line 2792
+GIANT_IMPALA in line 2817
+AARDVARK in line 2847
+AARDVARK_MAN in line 2941
+GIANT_AARDVARK in line 2969
+LION_TAMARIN in line 3000
+LION_TAMARIN_MAN in line 3085
+GIANT_LION_TAMARIN in line 3113

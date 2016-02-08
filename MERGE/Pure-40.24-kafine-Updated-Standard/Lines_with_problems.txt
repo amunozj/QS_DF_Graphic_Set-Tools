@@ -1,0 +1,2 @@
+Category pointing to tile outside of image: Line 11 of graphics_kafine_animals.txt - 	[DEFAULT:KAFINE_ANIMALS:5:0:AS_IS:DEFAULT]
+Category pointing to tile outside of image: Line 12 of graphics_kafine_animals.txt - 	[CHILD:KAFINE_ANIMALS:5:1:AS_IS:DEFAULT]

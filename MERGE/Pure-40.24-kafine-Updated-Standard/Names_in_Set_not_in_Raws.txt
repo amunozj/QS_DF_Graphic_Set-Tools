@@ -1,0 +1,6 @@
+Reference folder: D:\Mis Documentos\aaa DF\Graphics Standardization_Git\40.24 a DF objects
+Graphics set folder: D:\Mis Documentos\aaa DF\Graphics Standardization_Git\Pure-40.24-kafine
+Output folder: Pure-40.24-kafine-Updated\
+
+Number of text files found in graphics set folder: 1
+

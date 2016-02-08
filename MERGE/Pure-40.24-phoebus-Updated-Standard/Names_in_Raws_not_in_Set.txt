@@ -1,0 +1,30 @@
+Reference folder: D:\Mis Documentos\aaa DF\Graphics Standardization_Git\40.24 a DF objects
+Graphics set folder: D:\Mis Documentos\aaa DF\Graphics Standardization_Git\Pure-40.24-phoebus
+Output folder: Pure-40.24-phoebus-Updated\
+Number of text files found in output graphics set folder: 17
+
+
+creature_domestic.txt:
+GOAT in line 972
+REINDEER in line 1514
+
+creature_equipment.txt:
+EQUIPMENT_WAGON in line 5
+
+creature_fanciful.txt:
+CHIMERA in line 5
+GRIFFON in line 27
+
+creature_insects.txt:
+ANT in line 171
+
+creature_large_riverlake.txt:
+PLATYPUS, GIANT in line 611
+
+creature_large_temperate.txt:
+PANDA, GIGANTIC in line 1209
+CAPYBARA in line 1291
+CAPYBARA, GIANT in line 1391
+BADGER, GIANT in line 1609
+MOOSE in line 1647
+MOOSE, GIANT in line 1791

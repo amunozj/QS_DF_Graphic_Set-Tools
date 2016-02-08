@@ -1,0 +1,10 @@
+graphics_nwkohaku_birds
+
+[OBJECT:GRAPHICS]
+
+[TILE_PAGE:KOHAKU_BIRDS]
+	[FILE:nwkohaku/birds.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:24:16]
+
+

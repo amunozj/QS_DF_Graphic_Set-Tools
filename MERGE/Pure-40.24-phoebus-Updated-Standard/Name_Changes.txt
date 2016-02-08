@@ -1,0 +1,9 @@
+Reference folder: D:\Mis Documentos\aaa DF\Graphics Standardization_Git\40.24 a DF objects
+Graphics set folder: D:\Mis Documentos\aaa DF\Graphics Standardization_Git\Pure-40.24-phoebus
+Output folder: Pure-40.24-phoebus-Updated\
+
+CAVE_LOBSTER->LOBSTER_CAVE in line 43 of graphics_kafine_animals.txt
+KIWI_MAN->KIWI MAN in line 135 of graphics_nwkohaku_birds.txt
+LEECHMAN->LEECH_MAN in line 35 of graphics_phoebus_humanoids.txt
+SLUGMAN->SLUG_MAN in line 53 of graphics_phoebus_humanoids.txt
+SNAILMAN->SNAIL_MAN in line 56 of graphics_phoebus_humanoids.txt

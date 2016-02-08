@@ -1,0 +1,10 @@
+graphics_beefmohumans
+
+[OBJECT:GRAPHICS]
+
+[TILE_PAGE:HUMANS]
+	[FILE:Beefmo/humans.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:12:25]
+
+

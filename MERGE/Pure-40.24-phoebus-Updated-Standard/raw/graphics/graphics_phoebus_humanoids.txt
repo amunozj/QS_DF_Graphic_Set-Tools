@@ -1,0 +1,9 @@
+graphics_phoebus_humanoids
+[OBJECT:GRAPHICS]
+
+[TILE_PAGE:PHOEBUS_MANS]
+	[FILE:phoebus/humanoids.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:4:21]
+
+

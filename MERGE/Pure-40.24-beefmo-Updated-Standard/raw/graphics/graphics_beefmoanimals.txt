@@ -1,0 +1,141 @@
+graphics_animals_png
+
+[OBJECT:GRAPHICS]
+
+*********************************************
+[TILE_PAGE:BIRDS]
+	[FILE:Beefmo/Animals/creature_birds.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:87:6]
+*********************************************
+
+CREATURE_GRAPHICS:BIRD_KEA
+	DEFAULT:BIRDS:22:0:AS_IS:DEFAULT
+	CHILD:BIRDS:22:1:AS_IS:DEFAULT
+	STANDARD:BIRDS:22:2:AS_IS:ANIMATED
+
+CREATURE_GRAPHICS:KEA_MAN
+	DEFAULT:BIRDS:23:0:AS_IS:DEFAULT
+	CHILD:BIRDS:23:1:AS_IS:DEFAULT
+	STANDARD:BIRDS:23:2:AS_IS:ANIMATED
+
+[TILE_PAGE:DOMESTIC]
+	[FILE:Beefmo/Animals/creature_domestic.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:22:6]
+*********************************************
+
+[TILE_PAGE:LMOUNTAIN]
+	[FILE:Beefmo/Animals/creature_large_mountain.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:5:6]
+***************************************************
+
+[TILE_PAGE:LRIVERLAKE]
+	[FILE:Beefmo/Animals/creature_large_riverlake.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:8:6]
+***************************************************
+
+[TILE_PAGE:LTEMPERATE]
+	[FILE:Beefmo/Animals/creature_large_temperate.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:88:6]
+***************************************************
+
+[CREATURE_GRAPHICS:OPOSSUM_MAN]
+	[DEFAULT:LTEMPERATE:86:0:AS_IS:DEFAULT]
+	[CHILD:LTEMPERATE:86:1:AS_IS:DEFAULT]
+	[STANDARD:LTEMPERATE:86:2:AS_IS:ANIMATED]
+
+[TILE_PAGE:LTROPICAL]
+	[FILE:Beefmo/Animals/creature_large_tropical.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:29:6]
+***************************************************
+
+
+[TILE_PAGE:LTUNDRA]
+	[FILE:Beefmo/Animals/creature_large_tundra.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:9:6]
+*************************************************
+
+[TILE_PAGE:ANIMALS]
+	[FILE:Beefmo/Animals/animals.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:12:30]
+*********************************************
+
+[TILE_PAGE:WATER]
+	[FILE:Beefmo/Animals/water.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:4:7]
+*********************************************
+[CREATURE_GRAPHICS:WHALE]
+	[DEFAULT:WATER:0:1:AS_IS:DEFAULT]
+	[CHILD:WATER:1:1:AS_IS:DEFAULT]
+	[STANDARD:WATER:2:1:AS_IS:ANIMATED]
+
+[TILE_PAGE:BEASTS]
+	[FILE:Beefmo/Animals/beasts.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:6:4]
+*********************************************
+
+[TILE_PAGE:MANS]
+	[FILE:Beefmo/Animals/mans.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:12:17]
+*********************************************
+
+[CREATURE_GRAPHICS:RATMAN]
+	[DEFAULT:MANS:4:0:AS_IS:DEFAULT]
+
+[CREATURE_GRAPHICS:FROGMAN]
+	[DEFAULT:MANS:0:1:AS_IS:DEFAULT]
+
+[CREATURE_GRAPHICS:SNAKEMAN]
+	[DEFAULT:MANS:4:1:AS_IS:DEFAULT]
+
+[CREATURE_GRAPHICS:LIZARDMAN]
+	[DEFAULT:MANS:8:1:AS_IS:DEFAULT]
+
+[CREATURE_GRAPHICS:TITAN]
+	[DEFAULT:MANS:0:5:AS_IS:DEFAULT]
+	[CHILD:MANS:1:5:AS_IS:DEFAULT]
+
+[CREATURE_GRAPHICS:TREANT]
+	[DEFAULT:MANS:0:8:AS_IS:DEFAULT]
+
+[CREATURE_GRAPHICS:WEREWOLF]
+	[DEFAULT:MANS:3:8:AS_IS:DEFAULT]
+
+[CREATURE_GRAPHICS:WIZARD]
+	[DEFAULT:MANS:8:8:AS_IS:DEFAULT]
+
+
+
+[CREATURE_GRAPHICS:ELEMENMAN_IRON]
+	[DEFAULT:MANS:1:10:AS_IS:DEFAULT]
+
+[CREATURE_GRAPHICS:DEMON]
+	[DEFAULT:MANS:0:12:AS_IS:DEFAULT]
+
+[CREATURE_GRAPHICS:SPIRIT_OF_FIRE]
+	[DEFAULT:MANS:1:12:AS_IS:DEFAULT]
+
+[CREATURE_GRAPHICS:TENTACLE_DEMON]
+	[DEFAULT:MANS:2:12:AS_IS:DEFAULT]
+
+[CREATURE_GRAPHICS:FROG_DEMON]
+	[DEFAULT:MANS:3:12:AS_IS:DEFAULT]
+
+
+*********************************************
+[TILE_PAGE:NB]
+	[FILE:Beefmo/Animals/creature_next_underground.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:30:6]
+*********************************************
+

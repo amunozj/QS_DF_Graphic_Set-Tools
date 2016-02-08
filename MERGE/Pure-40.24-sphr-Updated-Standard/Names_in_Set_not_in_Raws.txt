@@ -1,0 +1,16 @@
+Reference folder: D:\Mis Documentos\aaa DF\Graphics Standardization_Git\40.24 a DF objects
+Graphics set folder: D:\Mis Documentos\aaa DF\Graphics Standardization_Git\Pure-40.24-sphr
+Output folder: Pure-40.24-sphr-Updated\
+
+Number of text files found in graphics set folder: 3
+
+
+graphics_sphr_monsters.txt:
+WIZARD in line 13
+TREANT in line 46
+DEMON in line 52
+SPIRIT_OF_FIRE in line 55
+FROG_DEMON in line 58
+TENTACLE_DEMON in line 61
+TITAN in line 64
+WEREWOLF in line 97

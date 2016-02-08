@@ -1,0 +1,2106 @@
+Reading creature Raws...done!
+
+Reading creature Categories...done!
+
+Reading sentient creature Categories...done!
+
+Standardizing creatures:
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for TOAD
+Found in line 15 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for WORM
+Found in line 18 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for BIRD_BLUEJAY
+Found in line 21 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_CARDINAL
+Found in line 21 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_GRACKLE
+Found in line 21 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_ORIOLE
+Found in line 21 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_RW_BLACKBIRD
+Found in line 21 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_PENGUIN
+Found in line 21 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_PENGUIN_LITTLE
+Found in line 21 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_PENGUIN_EMPEROR
+Found in line 21 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_PENGUIN_GIANT
+Found in line 25 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_FALCON_PEREGRINE
+Found in line 25 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for GIANT PEREGRINE FALCON
+Found in line 29 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_KIWI
+Found in line 29 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_KIWI_GIANT
+Found in line 33 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_OSTRICH
+Found in line 33 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_OSTRICH_GIANT
+Found in line 37 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for BIRD_CROW
+Found in line 37 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_CROW
+Found in line 41 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_RAVEN
+Found in line 41 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_RAVEN
+Found in line 45 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_CASSOWARY
+Found in line 45 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for GIANT_CASSOWARY
+Found in line 49 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_KEA
+Looking for GIANT_KEA
+Looking for BIRD_OWL_SNOWY
+Looking for GIANT_SNOWY_OWL
+Looking for SPARROW
+Looking for GIANT_SPARROW
+Looking for BIRD_STORK_WHITE
+Looking for GIANT_WHITE_STORK
+Looking for BIRD_LOON
+Looking for GIANT_LOON
+Looking for BIRD_OWL_BARN
+Looking for GIANT_BARN_OWL
+Looking for BIRD_PARAKEET
+Looking for GIANT_PARAKEET
+Looking for BIRD_KAKAPO
+Looking for GIANT_KAKAPO
+Looking for BIRD_PARROT_GREY
+Looking for GIANT_GREY_PARROT
+Looking for BIRD_PUFFIN
+Looking for GIANT_PUFFIN
+Looking for BIRD_SWAN
+Looking for GIANT_SWAN
+Looking for BIRD_LORIKEET
+Looking for GIANT_LORIKEET
+Looking for BIRD_WREN
+Looking for GIANT_WREN
+Looking for BIRD_OSPREY
+Looking for GIANT_OSPREY
+Looking for BIRD_EMU
+Looking for GIANT_EMU
+Looking for BIRD_COCKATIEL
+Looking for GIANT_COCKATIEL
+Looking for BIRD_LOVEBIRD_PEACH-FACED
+Looking for GIANT_PEACH-FACED_LOVEBIRD
+Looking for BIRD_MAGPIE
+Looking for GIANT_MAGPIE
+Looking for BIRD_KESTREL
+Looking for GIANT_KESTREL
+Looking for BIRD_ALBATROSS
+Looking for GIANT_ALBATROSS
+Looking for BIRD_OWL_GREAT_HORNED
+Looking for GIANT_GREAT_HORNED_OWL
+Looking for BIRD_EAGLE
+Looking for GIANT_EAGLE
+Looking for BIRD_HORNBILL
+Looking for GIANT_HORNBILL
+Looking for BIRD_LOVEBIRD_MASKED
+Looking for GIANT_MASKED_LOVEBIRD
+Looking for BIRD_BUSHTIT
+Looking for GIANT_BUSHTIT
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for DAMSELFLY
+Found in line 49 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for GIANT_DAMSELFLY
+Found in line 52 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for MOTH
+Found in line 52 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for GIANT_MOTH
+Found in line 55 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for GRASSHOPPER
+Looking for GIANT_GRASSHOPPER
+Looking for BARK_SCORPION
+Found in line 64 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for GIANT_BARK_SCORPION
+Found in line 70 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for MANTIS
+Found in line 70 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for GIANT_MANTIS
+Found in line 73 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for TICK
+Found in line 73 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for GIANT_TICK
+Found in line 76 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for LOUSE
+Found in line 76 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for GIANT_LOUSE
+Found in line 79 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for THRIPS
+Found in line 79 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for GIANT_THRIPS
+Found in line 82 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for SLUG
+Found in line 82 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for GIANT_SLUG
+Found in line 85 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for MOSQUITO
+Looking for GIANT_MOSQUITO
+Looking for SPIDER_JUMPING
+Looking for GIANT_JUMPING_SPIDER
+Looking for TERMITE
+Looking for MOON_SNAIL
+Looking for GIANT_MOON_SNAIL
+Looking for SPIDER_BROWN_RECLUSE
+Looking for GIANT_BROWN_RECLUSE_SPIDER
+Looking for SNAIL
+Looking for GIANT_SNAIL
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for GECKO_LEOPARD
+Looking for GIANT_LEOPARD_GECKO
+Looking for DESERT TORTOISE
+Looking for GIANT_DESERT_TORTOISE
+Looking for GILA_MONSTER
+Looking for GIANT_GILA_MONSTER
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for DOG
+Found in line 15 of file graphics_afro_catdog.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for CAT
+Found in line 10 of file graphics_afro_catdog.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for MULE
+Looking for DONKEY
+Looking for HORSE
+Looking for COW
+Looking for SHEEP
+Looking for PIG
+Looking for GOAT
+Found in line 116 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for BIRD_CHICKEN
+Looking for CAVY
+Looking for BIRD_DUCK
+Looking for WATER_BUFFALO
+Looking for REINDEER
+Looking for BIRD_GOOSE
+Looking for YAK
+Looking for LLAMA
+Looking for ALPACA
+Looking for BIRD_GUINEAFOWL
+Looking for BIRD_PEAFOWL_BLUE
+Looking for BIRD_TURKEY
+Looking for RABBIT
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for EQUIPMENT_WAGON
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for CHIMERA
+Looking for CENTAUR
+Looking for GRIFFON
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for FLY
+Found in line 85 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for ROACH_LARGE
+Found in line 85 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for BEETLE
+Found in line 85 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for ANT
+Found in line 85 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for BUTTERFLY_MONARCH
+Found in line 85 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for FIREFLY
+Found in line 85 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for DRAGONFLY
+Found in line 85 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for HONEY_BEE
+Found in line 85 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for BUMBLEBEE
+Found in line 85 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for GOAT_MOUNTAIN
+Found in line 85 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for MARMOT_HOARY
+Looking for GNOME_MOUNTAIN
+Looking for GNOME_DARK
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for WALRUS
+Looking for FISH_LAMPREY_SEA
+Looking for SHARK_GREAT_WHITE
+Looking for SHARK_FRILL
+Looking for SHARK_SPINY_DOGFISH
+Looking for SHARK_WOBBEGONG_SPOTTED
+Looking for SHARK_WHALE
+Looking for SHARK_BASKING
+Looking for SHARK_NURSE
+Looking for SHARK_MAKO_SHORTFIN
+Looking for SHARK_MAKO_LONGFIN
+Looking for SHARK_TIGER
+Looking for SHARK_BULL
+Looking for SHARK_REEF_BLACKTIP
+Looking for SHARK_REEF_WHITETIP
+Looking for SHARK_BLUE
+Looking for SHARK_HAMMERHEAD
+Looking for SHARK_ANGEL
+Looking for FISH_SKATE_COMMON
+Looking for FISH_RAY_MANTA
+Looking for FISH_STINGRAY
+Looking for FISH_COELACANTH
+Looking for FISH_STURGEON
+Looking for FISH_CONGER_EEL
+Looking for FISH_MILKFISH
+Looking for FISH_COD
+Looking for FISH_OPAH
+Looking for FISH_GROUPER_GIANT
+Looking for FISH_BLUEFISH
+Looking for FISH_SUNFISH_OCEAN
+Looking for FISH_SWORDFISH
+Looking for FISH_MARLIN
+Looking for FISH_HALIBUT
+Looking for FISH_BARRACUDA_GREAT
+Looking for FISH_TUNA_BLUEFIN
+Looking for NARWHAL
+Looking for NARWHAL, GIANT
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for HIPPO
+Looking for FISH_GAR_LONGNOSE
+Looking for FISH_CARP
+Looking for FISH_TIGERFISH
+Looking for FISH_PIKE
+Looking for PLATYPUS
+Looking for PLATYPUS, GIANT
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for BEAR_GRIZZLY
+Looking for BEAR_BLACK
+Looking for DEER
+Looking for FOX
+Looking for RACCOON
+Looking for MACAQUE_RHESUS
+Looking for COUGAR
+Looking for WOLF
+Looking for GROUNDHOG
+Looking for ALLIGATOR
+Looking for BIRD_BUZZARD
+Looking for PANDA
+Looking for PANDA, GIGANTIC
+Looking for CAPYBARA
+Looking for CAPYBARA, GIANT
+Looking for BADGER
+Looking for BADGER, GIANT
+Looking for MOOSE
+Looking for MOOSE, GIANT
+Looking for RED PANDA
+Looking for RED PANDA, GIANT
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for ELEPHANT
+Looking for WARTHOG
+Looking for LION
+Looking for LEOPARD
+Looking for JAGUAR
+Looking for TIGER
+Looking for CHEETAH
+Looking for GAZELLE
+Looking for MANDRILL
+Looking for CHIMPANZEE
+Looking for BONOBO
+Looking for GORILLA
+Looking for ORANGUTAN
+Looking for GIBBON_SIAMANG
+Looking for GIBBON_WHITE_HANDED
+Looking for GIBBON_BLACK_HANDED
+Looking for GIBBON_GRAY
+Looking for GIBBON_SILVERY
+Looking for GIBBON_PILEATED
+Looking for GIBBON_BILOU
+Looking for GIBBON_WHITE_BROWED
+Looking for GIBBON_BLACK_CRESTED
+Looking for CAMEL_1_HUMP
+Looking for CAMEL_2_HUMP
+Looking for CROCODILE_SALTWATER
+Looking for BIRD_VULTURE
+Looking for RHINOCEROS
+Looking for GIRAFFE
+Looking for HONEY BADGER
+Looking for GIANT TORTOISE
+Looking for GIGANTIC TORTOISE
+Looking for ARMADILLO
+Looking for ARMADILLO, GIANT
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for MUSKOX
+Looking for ELK
+Looking for BEAR_POLAR
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for WOLVERINE
+Looking for GIANT_WOLVERINE
+Looking for CHINCHILLA
+Looking for GIANT_CHINCHILLA
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for FLOATING_GUTS
+Found in line 85 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for DRUNIAN
+Looking for CREEPING_EYE
+Looking for VORACIOUS_CAVE_CRAWLER
+Looking for BLIND_CAVE_OGRE
+Looking for CAP_HOPPER
+Looking for MAGMA_CRAB
+Looking for CRUNDLE
+Looking for HUNGRY_HEAD
+Looking for FLESH_BALL
+Looking for ELK_BIRD
+Looking for HELMET_SNAKE
+Looking for GREEN_DEVOURER
+Looking for RUTHERER
+Looking for CREEPY_CRAWLER
+Looking for DRALTHA
+Looking for GIANT_EARTHWORM
+Found in line 18 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for BLOOD_MAN
+Looking for BUGBAT
+Looking for MANERA
+Looking for MOLEMARIAN
+Looking for JABBERER
+Looking for POND_GRABBER
+Looking for BLIND_CAVE_BEAR
+Looking for CAVE_DRAGON
+Looking for REACHER
+Looking for ELEMENTMAN_GABBRO
+Looking for GORLAK
+Looking for CAVE_FLOATER
+Looking for PLUMP_HELMET_MAN
+Looking for CAVE_BLOB
+Found in line 85 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for ELEMENTMAN_AMETHYST
+Found in line 82 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for OCTOPUS
+Looking for GIANT_OCTOPUS
+Looking for CRAB
+Looking for GIANT_CRAB
+Looking for LEOPARD_SEAL
+Looking for GIANT_LEOPARD_SEAL
+Looking for CUTTLEFISH
+Looking for GIANT_CUTTLEFISH
+Looking for ORCA
+Looking for GIANT_ORCA
+Looking for SPONGE
+Looking for GIANT_SPONGE
+Looking for HORSESHOE_CRAB
+Looking for GIANT_HORSESHOE_CRAB
+Looking for SPERM_WHALE
+Looking for GIANT_SPERM_WHALE
+Looking for ELEPHANT_SEAL
+Looking for GIANT_ELEPHANT_SEAL
+Looking for HARP_SEAL
+Looking for GIANT_HARP_SEAL
+Looking for NAUTILUS
+Looking for GIANT_NAUTILUS
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for FOXSQUIRREL
+Looking for MOGHOPPER
+Looking for RAT_DEMON
+Looking for WAMBLER_FLUFFY
+Looking for LIZARD_RHINO_TWO_LEGGED
+Looking for WORM_KNUCKLE
+Looking for SPIDER_PHANTOM
+Looking for FLY_ACORN
+Looking for GNAT_BLOOD
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for LIZARD
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for RIVER OTTER
+Looking for SEA OTTER
+Looking for GIANT_OTTER
+Looking for SNAPPING TURTLE
+Looking for ALLIGATOR SNAPPING TURTLE
+Looking for GIANT_SNAPPING_TURTLE
+Looking for BEAVER
+Looking for GIANT_BEAVER
+Looking for LEECH
+Looking for GIANT_LEECH
+Looking for AXOLOTL
+Looking for GIANT_AXOLOTL
+Looking for MINK
+Looking for GIANT_MINK
+Looking for POND_TURTLE
+Looking for GIANT_POND_TURTLE
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for LION_GIANT
+Looking for LEOPARD_GIANT
+Looking for JAGUAR_GIANT
+Looking for TIGER_GIANT
+Looking for CHEETAH_GIANT
+Looking for SCORPION_DESERT_GIANT
+Found in line 61 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for HAMSTER
+Looking for GIANT_HAMSTER
+Looking for HEDGEHOG
+Looking for GIANT_HEDGEHOG
+Looking for SQUIRREL_FLYING
+Looking for GIANT_FLYING_SQUIRREL
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for RAT
+Looking for SQUIRREL_GRAY
+Looking for SQUIRREL_RED
+Looking for CHIPMUNK
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for MUSSEL
+Looking for OYSTER
+Looking for FISH_SALMON
+Looking for FISH_CLOWNFISH
+Looking for FISH_HAGFISH
+Looking for FISH_LAMPREY_BROOK
+Looking for FISH_RAY_BAT
+Looking for FISH_RAY_THORNBACK
+Looking for FISH_RATFISH_SPOTTED
+Looking for FISH_HERRING
+Looking for FISH_SHAD
+Looking for FISH_ANCHOVY
+Looking for FISH_TROUT_STEELHEAD
+Looking for FISH_HAKE
+Looking for FISH_SEAHORSE
+Looking for FISH_GLASSEYE
+Looking for FISH_PUFFER_WHITE_SPOTTED
+Looking for FISH_SOLE
+Looking for FISH_FLOUNDER
+Looking for FISH_MACKEREL
+Looking for JELLYFISH_SEA_NETTLE
+Looking for SQUID
+Looking for GIGANTIC SQUID
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for FISH_LUNGFISH
+Looking for FISH_LOACH_CLOWN
+Looking for FISH_BULLHEAD_BROWN
+Looking for FISH_BULLHEAD_YELLOW
+Looking for FISH_BULLHEAD_BLACK
+Looking for FISH_KNIFEFISH_BANDED
+Looking for FISH_CHAR
+Looking for FISH_TROUT_RAINBOW
+Looking for FISH_MOLLY_SAILFIN
+Looking for FISH_GUPPY
+Looking for FISH_PERCH
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for GREMLIN
+Looking for TROLL
+Looking for OGRE
+Looking for UNICORN
+Looking for DRAGON
+Looking for SATYR
+Looking for COLOSSUS_BRONZE
+Looking for GIANT
+Looking for CYCLOPS
+Looking for ETTIN
+Looking for MINOTAUR
+Looking for YETI
+Looking for SASQUATCH
+Looking for BLIZZARD_MAN
+Looking for WOLF_ICE
+Looking for FAIRY
+Looking for PIXIE
+Looking for BEAK_DOG
+Looking for GRIMELING
+Looking for BLENDEC_FOUL
+Looking for STRANGLER
+Looking for NIGHTWING
+Looking for HARPY
+Looking for HYDRA
+Looking for MERPERSON
+Looking for SEA_SERPENT
+Looking for SEA_MONSTER
+Looking for BIRD_ROC
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for CROCODILE_CAVE
+Looking for TOAD_GIANT
+Found in line 15 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for OLM_GIANT
+Looking for BAT_GIANT
+Looking for RAT_GIANT
+Looking for RAT_LARGE
+Looking for MOLE_DOG_NAKED
+Looking for TROGLODYTE
+Looking for MOLE_GIANT
+Looking for IMP_FIRE
+Looking for SPIDER_CAVE_GIANT
+Looking for SPIDER_CAVE
+Looking for FISH_CAVE
+Looking for LOBSTER_CAVE
+Looking for SNAKE_FIRE
+Looking for OLM
+Looking for BAT
+Looking for MAGGOT_PURRING
+Looking for ELEMENTMAN_FIRE
+Looking for ELEMENTMAN_MAGMA
+Looking for ELEMENTMAN_IRON
+Looking for ELEMENTMAN_MUD
+Looking for BIRD_SWALLOW_CAVE
+Looking for BIRD_SWALLOW_CAVE_GIANT
+Looking for AMPHIBIAN_MAN
+Looking for REPTILE_MAN
+Looking for SERPENT_MAN
+Looking for ANT_MAN
+Looking for RODENT MAN
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for WILD_BOAR
+Looking for GIANT_WILD_BOAR
+Looking for COYOTE
+Looking for GIANT_COYOTE
+Looking for KANGAROO
+Looking for GIANT_KANGAROO
+Looking for KOALA
+Looking for GIANT_KOALA
+Looking for ADDER
+Looking for GIANT_ADDER
+Looking for ECHIDNA
+Looking for GIANT_ECHIDNA
+Looking for PORCUPINE
+Looking for GIANT_PORCUPINE
+Looking for KINGSNAKE
+Looking for GIANT_KINGSNAKE
+Looking for GRAY_LANGUR
+Looking for GIANT_GRAY_LANGUR
+Looking for BOBCAT
+Looking for GIANT_BOBCAT
+Looking for SKUNK
+Looking for GIANT_SKUNK
+Looking for GREEN_TREE_FROG
+Looking for GIANT_GREEN_TREE_FROG
+Looking for HARE
+Looking for GIANT_HARE
+Looking for RATTLESNAKE
+Looking for GIANT_RATTLESNAKE
+Looking for WEASEL
+Looking for GIANT_WEASEL
+Looking for COPPERHEAD_SNAKE
+Looking for GIANT_COPPERHEAD_SNAKE
+Looking for IBEX
+Looking for GIANT_IBEX
+Looking for WOMBAT
+Looking for GIANT_WOMBAT
+Looking for DINGO
+Looking for GIANT_DINGO
+Looking for COATI
+Looking for GIANT_COATI
+Looking for OPOSSUM
+Looking for GIANT_OPOSSUM
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for MONGOOSE
+Looking for GIANT_MONGOOSE
+Looking for HYENA
+Looking for GIANT_HYENA
+Looking for ANACONDA
+Looking for GIANT_ANACONDA
+Looking for MONITOR_LIZARD
+Looking for GIANT_MONITOR_LIZARD
+Looking for KING_COBRA
+Looking for GIANT_KING_COBRA
+Looking for OCELOT
+Looking for GIANT_OCELOT
+Looking for JACKAL
+Looking for GIANT_JACKAL
+Looking for CAPUCHIN
+Looking for GIANT_CAPUCHIN
+Looking for SLOTH
+Looking for GIANT_SLOTH
+Looking for SPIDER_MONKEY
+Looking for GIANT_SPIDER_MONKEY
+Looking for PANGOLIN
+Looking for GIANT_PANGOLIN
+Looking for BLACK_MAMBA
+Looking for GIANT_BLACK_MAMBA
+Looking for BEAR_SLOTH
+Looking for GIANT_SLOTH_BEAR
+Looking for AYE-AYE
+Looking for GIANT_AYE-AYE
+Looking for BUSHMASTER
+Looking for GIANT_BUSHMASTER
+Looking for PYTHON
+Looking for GIANT_PYTHON
+Looking for TAPIR
+Looking for GIANT_TAPIR
+Looking for IMPALA
+Looking for GIANT_IMPALA
+Looking for AARDVARK
+Looking for GIANT_AARDVARK
+Looking for LION_TAMARIN
+Looking for GIANT_LION_TAMARIN
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for STOAT
+Looking for GIANT_STOAT
+Looking for LYNX
+Looking for GIANT_LYNX
+Done Standardizing creatures!
+
+
+Standardizing sentient creatures:
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for PENGUIN MAN
+Looking for PEREGRINE FALCON MAN
+Found in line 19 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for KIWI MAN
+Found in line 19 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for OSTRICH MAN
+Found in line 19 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for CROW_MAN
+Found in line 19 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for RAVEN_MAN
+Found in line 19 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for CASSOWARY_MAN
+Found in line 19 of file graphics_afro_critters1.txt
+Storing Tile
+Storing Tile
+Looking for KEA_MAN
+Looking for SNOWY_OWL_MAN
+Looking for SPARROW_MAN
+Looking for WHITE_STORK_MAN
+Looking for LOON_MAN
+Looking for BARN_OWL_MAN
+Looking for PARAKEET_MAN
+Looking for KAKAPO_MAN
+Looking for GREY_PARROT_MAN
+Looking for PUFFIN_MAN
+Looking for SWAN_MAN
+Creating blank images...done!
+Adding existing tiles:
+Looking for LORIKEET_MAN
+Looking for WREN_MAN
+Looking for OSPREY_MAN
+Looking for EMU_MAN
+Looking for COCKATIEL_MAN
+Looking for PEACH-FACED_LOVEBIRD_MAN
+Looking for MAGPIE_MAN
+Looking for KESTREL_MAN
+Looking for ALBATROSS_MAN
+Looking for GREAT_HORNED_OWL_MAN
+Looking for EAGLE_MAN
+Looking for HORNBILL_MAN
+Looking for MASKED_LOVEBIRD_MAN
+Looking for BUSHTIT_MAN
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for DAMSELFLY_MAN
+Found in line 19 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for MOTH_MAN
+Found in line 19 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for GRASSHOPPER_MAN
+Looking for BARK_SCORPION_MAN
+Found in line 28 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for MANTIS_MAN
+Found in line 28 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for TICK_MAN
+Found in line 28 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for LOUSE_MAN
+Found in line 28 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for THRIPS_MAN
+Found in line 28 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for SLUG_MAN
+Found in line 28 of file graphics_afro_critters1.txt
+Storing Tile
+Looking for MOSQUITO_MAN
+Looking for JUMPING_SPIDER_MAN
+Looking for MOON_SNAIL_MAN
+Looking for BROWN_RECLUSE_SPIDER_MAN
+Looking for SNAIL_MAN
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for LEOPARD_GECKO_MAN
+Looking for DESERT_TORTOISE_MAN
+Looking for GILA_MONSTER_MAN
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for NARWHAL MAN
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for PLATYPUS MAN
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for PANDA MAN
+Looking for CAPYBARA MAN
+Looking for BADGER MAN
+Looking for MOOSE MAN
+Looking for RED PANDA MAN
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for TIGERMAN
+Looking for GIANT TORTOISE MAN
+Looking for ARMADILLO MAN
+Looking for tile size...done!
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for WOLVERINE_MAN
+Looking for CHINCHILLA_MAN
+Looking for tile size...done!
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for OCTOPUS_MAN
+Looking for CRAB_MAN
+Looking for LEOPARD_SEAL_MAN
+Looking for CUTTLEFISH_MAN
+Looking for ORCA_MAN
+Looking for SPONGE_MAN
+Looking for HORSESHOE_CRAB_MAN
+Looking for SPERM_WHALE_MAN
+Looking for ELEPHANT_SEAL_MAN
+Looking for HARP_SEAL_MAN
+Looking for NAUTILUS_MAN
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for OTTER_MAN
+Looking for SNAPPING_TURTLE_MAN
+Looking for BEAVER_MAN
+Looking for LEECH_MAN
+Looking for AXOLOTL_MAN
+Looking for MINK_MAN
+Looking for POND_TURTLE_MAN
+Looking for tile size...done!
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for HAMSTER_MAN
+Looking for HEDGEHOG_MAN
+Looking for FLYING_SQUIRREL_MAN
+Looking for tile size...done!
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for SQUID MAN
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for CAVE_FISH_MAN
+Looking for OLM_MAN
+Looking for BAT_MAN
+Looking for CAVE_SWALLOW_MAN
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for WILD_BOAR_MAN
+Looking for COYOTE_MAN
+Looking for KANGAROO_MAN
+Looking for KOALA_MAN
+Looking for ADDER_MAN
+Looking for ECHIDNA_MAN
+Looking for PORCUPINE_MAN
+Looking for KINGSNAKE_MAN
+Looking for GRAY_LANGUR_MAN
+Looking for BOBCAT_MAN
+Creating blank images...done!
+Adding existing tiles:
+Looking for SKUNK_MAN
+Looking for GREEN_TREE_FROG_MAN
+Looking for HARE_MAN
+Looking for RATTLESNAKE_MAN
+Looking for WEASEL_MAN
+Looking for COPPERHEAD_SNAKE_MAN
+Looking for IBEX_MAN
+Looking for WOMBAT_MAN
+Looking for DINGO_MAN
+Looking for COATI_MAN
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for MONGOOSE_MAN
+Looking for HYENA_MAN
+Looking for ANACONDA_MAN
+Looking for MONITOR_LIZARD_MAN
+Looking for KING_COBRA_MAN
+Looking for OCELOT_MAN
+Looking for JACKAL_MAN
+Looking for CAPUCHIN_MAN
+Looking for SLOTH_MAN
+Looking for SPIDER_MONKEY_MAN
+Creating blank images...done!
+Adding existing tiles:
+Looking for PANGOLIN_MAN
+Looking for BLACK_MAMBA_MAN
+Looking for SLOTH_BEAR_MAN
+Looking for AYE-AYE_MAN
+Looking for BUSHMASTER_MAN
+Looking for PYTHON_MAN
+Looking for TAPIR_MAN
+Looking for IMPALA_MAN
+Looking for AARDVARK_MAN
+Looking for LION_TAMARIN_MAN
+Looking for tile size...done!
+Creating blank images...done!
+Adding existing tiles:
+Looking for STOAT_MAN
+Looking for LYNX_MAN
+Done Standardizing sentient creatures!
+
+
+Standardizing sentient creatures:
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Standardizing DWARF:
+Creating blank images...done!
+Looking for DWARF
+Standardizing HUMAN:
+Creating blank images...done!
+Looking for HUMAN
+Standardizing ELF:
+Creating blank images...done!
+Looking for ELF
+Found in line 10 of file graphics_afro_elves.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Standardizing GOBLIN:
+Creating blank images...done!
+Looking for GOBLIN
+Found in line 9 of file graphics_afro_goblins.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Standardizing KOBOLD:
+Creating blank images...done!
+Looking for KOBOLD
+Found in line 10 of file graphics_afro_kobolds.txt
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Storing Tile
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Looking for tile size...done!
+Done Standardizing major races!
+
+
+Processing Creature text files:
+Processing graphics_QS_ST_CRT_amphibians.txt...done!/nProcessing graphics_QS_ST_CRT_annelids.txt...done!/nProcessing graphics_QS_ST_CRT_birds.txt...done!/nProcessing graphics_QS_ST_CRT_birds_new.txt...done!/nProcessing graphics_QS_ST_CRT_bug_slug_new.txt...done!/nProcessing graphics_QS_ST_CRT_desert_new.txt...done!/nProcessing graphics_QS_ST_CRT_domestic.txt...done!/nProcessing graphics_QS_ST_CRT_equipment.txt...done!/nProcessing graphics_QS_ST_CRT_fanciful.txt...done!/nProcessing graphics_QS_ST_CRT_insects.txt...done!/nProcessing graphics_QS_ST_CRT_large_mountain.txt...done!/nProcessing graphics_QS_ST_CRT_large_ocean.txt...done!/nProcessing graphics_QS_ST_CRT_large_riverlake.txt...done!/nProcessing graphics_QS_ST_CRT_large_temperate.txt...done!/nProcessing graphics_QS_ST_CRT_large_tropical.txt...done!/nProcessing graphics_QS_ST_CRT_large_tundra.txt...done!/nProcessing graphics_QS_ST_CRT_mountain_new.txt...done!/nProcessing graphics_QS_ST_CRT_next_underground.txt...done!/nProcessing graphics_QS_ST_CRT_ocean_new.txt...done!/nProcessing graphics_QS_ST_CRT_other.txt...done!/nProcessing graphics_QS_ST_CRT_reptiles.txt...done!/nProcessing graphics_QS_ST_CRT_riverlakepool_new.txt...done!/nProcessing graphics_QS_ST_CRT_savage_tropical.txt...done!/nProcessing graphics_QS_ST_CRT_small_mammal_new.txt...done!/nProcessing graphics_QS_ST_CRT_small_mammals.txt...done!/nProcessing graphics_QS_ST_CRT_small_ocean.txt...done!/nProcessing graphics_QS_ST_CRT_small_riverlake.txt...done!/nProcessing graphics_QS_ST_CRT_standard.txt...done!/nProcessing graphics_QS_ST_CRT_subterranean.txt...done!/nProcessing graphics_QS_ST_CRT_temperate_new.txt...done!/nProcessing graphics_QS_ST_CRT_tropical_new.txt...done!/nProcessing graphics_QS_ST_CRT_tundra_taiga_new.txt...done!/n/n/nProcessing sentient reature text files:
+Processing graphics_QS_ST_PRSN_birds.txt...done!/nProcessing graphics_QS_ST_PRSN_birds_new.txt...done!/nProcessing graphics_QS_ST_PRSN_bug_slug_new.txt...done!/nProcessing graphics_QS_ST_PRSN_desert_new.txt...done!/nProcessing graphics_QS_ST_PRSN_large_ocean.txt...done!/nProcessing graphics_QS_ST_PRSN_large_riverlake.txt...done!/nProcessing graphics_QS_ST_PRSN_large_temperate.txt...done!/nProcessing graphics_QS_ST_PRSN_large_tropical.txt...done!/nProcessing graphics_QS_ST_PRSN_mountain_new.txt...done!/nProcessing graphics_QS_ST_PRSN_ocean_new.txt...done!/nProcessing graphics_QS_ST_PRSN_riverlakepool_new.txt...done!/nProcessing graphics_QS_ST_PRSN_small_mammal_new.txt...done!/nProcessing graphics_QS_ST_PRSN_small_ocean.txt...done!/nProcessing graphics_QS_ST_PRSN_subterranean.txt...done!/nProcessing graphics_QS_ST_PRSN_temperate_new.txt...done!/nProcessing graphics_QS_ST_PRSN_tropical_new.txt...done!/nProcessing graphics_QS_ST_PRSN_tundra_taiga_new.txt...done!/nMajor race text files:
+Processing graphics_QS_ST_MJR_dwarf_standard.txt...done!
+Processing graphics_QS_ST_MJR_human_standard.txt...done!
+Processing graphics_QS_ST_MJR_elf_standard.txt...done!
+Processing graphics_QS_ST_MJR_goblin_standard.txt...done!
+Processing graphics_QS_ST_MJR_kobold_standard.txt...done!
+Commenting out creatures without any tiles:
+Commenting out PENGUIN MAN
+Commenting out BIRD_KEA
+Commenting out KEA_MAN
+Commenting out GIANT_KEA
+Commenting out BIRD_OWL_SNOWY
+Commenting out SNOWY_OWL_MAN
+Commenting out GIANT_SNOWY_OWL
+Commenting out SPARROW
+Commenting out SPARROW_MAN
+Commenting out GIANT_SPARROW
+Commenting out BIRD_STORK_WHITE
+Commenting out WHITE_STORK_MAN
+Commenting out GIANT_WHITE_STORK
+Commenting out BIRD_LOON
+Commenting out LOON_MAN
+Commenting out GIANT_LOON
+Commenting out BIRD_OWL_BARN
+Commenting out BARN_OWL_MAN
+Commenting out GIANT_BARN_OWL
+Commenting out BIRD_PARAKEET
+Commenting out PARAKEET_MAN
+Commenting out GIANT_PARAKEET
+Commenting out BIRD_KAKAPO
+Commenting out KAKAPO_MAN
+Commenting out GIANT_KAKAPO
+Commenting out BIRD_PARROT_GREY
+Commenting out GREY_PARROT_MAN
+Commenting out GIANT_GREY_PARROT
+Commenting out BIRD_PUFFIN
+Commenting out PUFFIN_MAN
+Commenting out GIANT_PUFFIN
+Commenting out BIRD_SWAN
+Commenting out SWAN_MAN
+Commenting out GIANT_SWAN
+Commenting out BIRD_LORIKEET
+Commenting out LORIKEET_MAN
+Commenting out GIANT_LORIKEET
+Commenting out BIRD_WREN
+Commenting out WREN_MAN
+Commenting out GIANT_WREN
+Commenting out BIRD_OSPREY
+Commenting out OSPREY_MAN
+Commenting out GIANT_OSPREY
+Commenting out BIRD_EMU
+Commenting out EMU_MAN
+Commenting out GIANT_EMU
+Commenting out BIRD_COCKATIEL
+Commenting out COCKATIEL_MAN
+Commenting out GIANT_COCKATIEL
+Commenting out BIRD_LOVEBIRD_PEACH-FACED
+Commenting out PEACH-FACED_LOVEBIRD_MAN
+Commenting out GIANT_PEACH-FACED_LOVEBIRD
+Commenting out BIRD_MAGPIE
+Commenting out MAGPIE_MAN
+Commenting out GIANT_MAGPIE
+Commenting out BIRD_KESTREL
+Commenting out KESTREL_MAN
+Commenting out GIANT_KESTREL
+Commenting out BIRD_ALBATROSS
+Commenting out ALBATROSS_MAN
+Commenting out GIANT_ALBATROSS
+Commenting out BIRD_OWL_GREAT_HORNED
+Commenting out GREAT_HORNED_OWL_MAN
+Commenting out GIANT_GREAT_HORNED_OWL
+Commenting out BIRD_EAGLE
+Commenting out EAGLE_MAN
+Commenting out GIANT_EAGLE
+Commenting out BIRD_HORNBILL
+Commenting out HORNBILL_MAN
+Commenting out GIANT_HORNBILL
+Commenting out BIRD_LOVEBIRD_MASKED
+Commenting out MASKED_LOVEBIRD_MAN
+Commenting out GIANT_MASKED_LOVEBIRD
+Commenting out BIRD_BUSHTIT
+Commenting out BUSHTIT_MAN
+Commenting out GIANT_BUSHTIT
+Commenting out GRASSHOPPER
+Commenting out GRASSHOPPER_MAN
+Commenting out GIANT_GRASSHOPPER
+Commenting out MOSQUITO
+Commenting out MOSQUITO_MAN
+Commenting out GIANT_MOSQUITO
+Commenting out SPIDER_JUMPING
+Commenting out JUMPING_SPIDER_MAN
+Commenting out GIANT_JUMPING_SPIDER
+Commenting out TERMITE
+Commenting out MOON_SNAIL
+Commenting out MOON_SNAIL_MAN
+Commenting out GIANT_MOON_SNAIL
+Commenting out SPIDER_BROWN_RECLUSE
+Commenting out BROWN_RECLUSE_SPIDER_MAN
+Commenting out GIANT_BROWN_RECLUSE_SPIDER
+Commenting out SNAIL
+Commenting out SNAIL_MAN
+Commenting out GIANT_SNAIL
+Commenting out GECKO_LEOPARD
+Commenting out LEOPARD_GECKO_MAN
+Commenting out GIANT_LEOPARD_GECKO
+Commenting out DESERT TORTOISE
+Commenting out DESERT_TORTOISE_MAN
+Commenting out GIANT_DESERT_TORTOISE
+Commenting out GILA_MONSTER
+Commenting out GILA_MONSTER_MAN
+Commenting out GIANT_GILA_MONSTER
+Commenting out MULE
+Commenting out DONKEY
+Commenting out HORSE
+Commenting out COW
+Commenting out SHEEP
+Commenting out PIG
+Commenting out BIRD_CHICKEN
+Commenting out CAVY
+Commenting out BIRD_DUCK
+Commenting out WATER_BUFFALO
+Commenting out REINDEER
+Commenting out BIRD_GOOSE
+Commenting out YAK
+Commenting out LLAMA
+Commenting out ALPACA
+Commenting out BIRD_GUINEAFOWL
+Commenting out BIRD_PEAFOWL_BLUE
+Commenting out BIRD_TURKEY
+Commenting out RABBIT
+Commenting out EQUIPMENT_WAGON
+Commenting out CHIMERA
+Commenting out CENTAUR
+Commenting out GRIFFON
+Commenting out MARMOT_HOARY
+Commenting out GNOME_MOUNTAIN
+Commenting out GNOME_DARK
+Commenting out WALRUS
+Commenting out FISH_LAMPREY_SEA
+Commenting out SHARK_GREAT_WHITE
+Commenting out SHARK_FRILL
+Commenting out SHARK_SPINY_DOGFISH
+Commenting out SHARK_WOBBEGONG_SPOTTED
+Commenting out SHARK_WHALE
+Commenting out SHARK_BASKING
+Commenting out SHARK_NURSE
+Commenting out SHARK_MAKO_SHORTFIN
+Commenting out SHARK_MAKO_LONGFIN
+Commenting out SHARK_TIGER
+Commenting out SHARK_BULL
+Commenting out SHARK_REEF_BLACKTIP
+Commenting out SHARK_REEF_WHITETIP
+Commenting out SHARK_BLUE
+Commenting out SHARK_HAMMERHEAD
+Commenting out SHARK_ANGEL
+Commenting out FISH_SKATE_COMMON
+Commenting out FISH_RAY_MANTA
+Commenting out FISH_STINGRAY
+Commenting out FISH_COELACANTH
+Commenting out FISH_STURGEON
+Commenting out FISH_CONGER_EEL
+Commenting out FISH_MILKFISH
+Commenting out FISH_COD
+Commenting out FISH_OPAH
+Commenting out FISH_GROUPER_GIANT
+Commenting out FISH_BLUEFISH
+Commenting out FISH_SUNFISH_OCEAN
+Commenting out FISH_SWORDFISH
+Commenting out FISH_MARLIN
+Commenting out FISH_HALIBUT
+Commenting out FISH_BARRACUDA_GREAT
+Commenting out FISH_TUNA_BLUEFIN
+Commenting out NARWHAL
+Commenting out NARWHAL MAN
+Commenting out NARWHAL, GIANT
+Commenting out HIPPO
+Commenting out FISH_GAR_LONGNOSE
+Commenting out FISH_CARP
+Commenting out FISH_TIGERFISH
+Commenting out FISH_PIKE
+Commenting out PLATYPUS
+Commenting out PLATYPUS MAN
+Commenting out PLATYPUS, GIANT
+Commenting out BEAR_GRIZZLY
+Commenting out BEAR_BLACK
+Commenting out DEER
+Commenting out FOX
+Commenting out RACCOON
+Commenting out MACAQUE_RHESUS
+Commenting out COUGAR
+Commenting out WOLF
+Commenting out GROUNDHOG
+Commenting out ALLIGATOR
+Commenting out BIRD_BUZZARD
+Commenting out PANDA
+Commenting out PANDA, GIGANTIC
+Commenting out PANDA MAN
+Commenting out CAPYBARA
+Commenting out CAPYBARA, GIANT
+Commenting out CAPYBARA MAN
+Commenting out BADGER
+Commenting out BADGER MAN
+Commenting out BADGER, GIANT
+Commenting out MOOSE
+Commenting out MOOSE MAN
+Commenting out MOOSE, GIANT
+Commenting out RED PANDA
+Commenting out RED PANDA MAN
+Commenting out RED PANDA, GIANT
+Commenting out ELEPHANT
+Commenting out WARTHOG
+Commenting out LION
+Commenting out LEOPARD
+Commenting out JAGUAR
+Commenting out TIGER
+Commenting out TIGERMAN
+Commenting out CHEETAH
+Commenting out GAZELLE
+Commenting out MANDRILL
+Commenting out CHIMPANZEE
+Commenting out BONOBO
+Commenting out GORILLA
+Commenting out ORANGUTAN
+Commenting out GIBBON_SIAMANG
+Commenting out GIBBON_WHITE_HANDED
+Commenting out GIBBON_BLACK_HANDED
+Commenting out GIBBON_GRAY
+Commenting out GIBBON_SILVERY
+Commenting out GIBBON_PILEATED
+Commenting out GIBBON_BILOU
+Commenting out GIBBON_WHITE_BROWED
+Commenting out GIBBON_BLACK_CRESTED
+Commenting out CAMEL_1_HUMP
+Commenting out CAMEL_2_HUMP
+Commenting out CROCODILE_SALTWATER
+Commenting out BIRD_VULTURE
+Commenting out RHINOCEROS
+Commenting out GIRAFFE
+Commenting out HONEY BADGER
+Commenting out GIANT TORTOISE
+Commenting out GIANT TORTOISE MAN
+Commenting out GIGANTIC TORTOISE
+Commenting out ARMADILLO
+Commenting out ARMADILLO MAN
+Commenting out ARMADILLO, GIANT
+Commenting out MUSKOX
+Commenting out ELK
+Commenting out BEAR_POLAR
+Commenting out WOLVERINE
+Commenting out WOLVERINE_MAN
+Commenting out GIANT_WOLVERINE
+Commenting out CHINCHILLA
+Commenting out CHINCHILLA_MAN
+Commenting out GIANT_CHINCHILLA
+Commenting out DRUNIAN
+Commenting out CREEPING_EYE
+Commenting out VORACIOUS_CAVE_CRAWLER
+Commenting out BLIND_CAVE_OGRE
+Commenting out CAP_HOPPER
+Commenting out MAGMA_CRAB
+Commenting out CRUNDLE
+Commenting out HUNGRY_HEAD
+Commenting out FLESH_BALL
+Commenting out ELK_BIRD
+Commenting out HELMET_SNAKE
+Commenting out GREEN_DEVOURER
+Commenting out RUTHERER
+Commenting out CREEPY_CRAWLER
+Commenting out DRALTHA
+Commenting out BLOOD_MAN
+Commenting out BUGBAT
+Commenting out MANERA
+Commenting out MOLEMARIAN
+Commenting out JABBERER
+Commenting out POND_GRABBER
+Commenting out BLIND_CAVE_BEAR
+Commenting out CAVE_DRAGON
+Commenting out REACHER
+Commenting out ELEMENTMAN_GABBRO
+Commenting out GORLAK
+Commenting out CAVE_FLOATER
+Commenting out PLUMP_HELMET_MAN
+Commenting out OCTOPUS
+Commenting out OCTOPUS_MAN
+Commenting out GIANT_OCTOPUS
+Commenting out CRAB
+Commenting out CRAB_MAN
+Commenting out GIANT_CRAB
+Commenting out LEOPARD_SEAL
+Commenting out LEOPARD_SEAL_MAN
+Commenting out GIANT_LEOPARD_SEAL
+Commenting out CUTTLEFISH
+Commenting out CUTTLEFISH_MAN
+Commenting out GIANT_CUTTLEFISH
+Commenting out ORCA
+Commenting out ORCA_MAN
+Commenting out GIANT_ORCA
+Commenting out SPONGE
+Commenting out SPONGE_MAN
+Commenting out GIANT_SPONGE
+Commenting out HORSESHOE_CRAB
+Commenting out HORSESHOE_CRAB_MAN
+Commenting out GIANT_HORSESHOE_CRAB
+Commenting out SPERM_WHALE
+Commenting out SPERM_WHALE_MAN
+Commenting out GIANT_SPERM_WHALE
+Commenting out ELEPHANT_SEAL
+Commenting out ELEPHANT_SEAL_MAN
+Commenting out GIANT_ELEPHANT_SEAL
+Commenting out HARP_SEAL
+Commenting out HARP_SEAL_MAN
+Commenting out GIANT_HARP_SEAL
+Commenting out NAUTILUS
+Commenting out NAUTILUS_MAN
+Commenting out GIANT_NAUTILUS
+Commenting out FOXSQUIRREL
+Commenting out MOGHOPPER
+Commenting out RAT_DEMON
+Commenting out WAMBLER_FLUFFY
+Commenting out LIZARD_RHINO_TWO_LEGGED
+Commenting out WORM_KNUCKLE
+Commenting out SPIDER_PHANTOM
+Commenting out FLY_ACORN
+Commenting out GNAT_BLOOD
+Commenting out LIZARD
+Commenting out RIVER OTTER
+Commenting out SEA OTTER
+Commenting out OTTER_MAN
+Commenting out GIANT_OTTER
+Commenting out SNAPPING TURTLE
+Commenting out ALLIGATOR SNAPPING TURTLE
+Commenting out SNAPPING_TURTLE_MAN
+Commenting out GIANT_SNAPPING_TURTLE
+Commenting out BEAVER
+Commenting out BEAVER_MAN
+Commenting out GIANT_BEAVER
+Commenting out LEECH
+Commenting out LEECH_MAN
+Commenting out GIANT_LEECH
+Commenting out AXOLOTL
+Commenting out AXOLOTL_MAN
+Commenting out GIANT_AXOLOTL
+Commenting out MINK
+Commenting out MINK_MAN
+Commenting out GIANT_MINK
+Commenting out POND_TURTLE
+Commenting out POND_TURTLE_MAN
+Commenting out GIANT_POND_TURTLE
+Commenting out LION_GIANT
+Commenting out LEOPARD_GIANT
+Commenting out JAGUAR_GIANT
+Commenting out TIGER_GIANT
+Commenting out CHEETAH_GIANT
+Commenting out HAMSTER
+Commenting out HAMSTER_MAN
+Commenting out GIANT_HAMSTER
+Commenting out HEDGEHOG
+Commenting out HEDGEHOG_MAN
+Commenting out GIANT_HEDGEHOG
+Commenting out SQUIRREL_FLYING
+Commenting out FLYING_SQUIRREL_MAN
+Commenting out GIANT_FLYING_SQUIRREL
+Commenting out RAT
+Commenting out SQUIRREL_GRAY
+Commenting out SQUIRREL_RED
+Commenting out CHIPMUNK
+Commenting out MUSSEL
+Commenting out OYSTER
+Commenting out FISH_SALMON
+Commenting out FISH_CLOWNFISH
+Commenting out FISH_HAGFISH
+Commenting out FISH_LAMPREY_BROOK
+Commenting out FISH_RAY_BAT
+Commenting out FISH_RAY_THORNBACK
+Commenting out FISH_RATFISH_SPOTTED
+Commenting out FISH_HERRING
+Commenting out FISH_SHAD
+Commenting out FISH_ANCHOVY
+Commenting out FISH_TROUT_STEELHEAD
+Commenting out FISH_HAKE
+Commenting out FISH_SEAHORSE
+Commenting out FISH_GLASSEYE
+Commenting out FISH_PUFFER_WHITE_SPOTTED
+Commenting out FISH_SOLE
+Commenting out FISH_FLOUNDER
+Commenting out FISH_MACKEREL
+Commenting out JELLYFISH_SEA_NETTLE
+Commenting out SQUID
+Commenting out SQUID MAN
+Commenting out GIGANTIC SQUID
+Commenting out FISH_LUNGFISH
+Commenting out FISH_LOACH_CLOWN
+Commenting out FISH_BULLHEAD_BROWN
+Commenting out FISH_BULLHEAD_YELLOW
+Commenting out FISH_BULLHEAD_BLACK
+Commenting out FISH_KNIFEFISH_BANDED
+Commenting out FISH_CHAR
+Commenting out FISH_TROUT_RAINBOW
+Commenting out FISH_MOLLY_SAILFIN
+Commenting out FISH_GUPPY
+Commenting out FISH_PERCH
+Commenting out DWARF
+Commenting out HUMAN
+Commenting out GREMLIN
+Commenting out TROLL
+Commenting out OGRE
+Commenting out UNICORN
+Commenting out DRAGON
+Commenting out SATYR
+Commenting out COLOSSUS_BRONZE
+Commenting out GIANT
+Commenting out CYCLOPS
+Commenting out ETTIN
+Commenting out MINOTAUR
+Commenting out YETI
+Commenting out SASQUATCH
+Commenting out BLIZZARD_MAN
+Commenting out WOLF_ICE
+Commenting out FAIRY
+Commenting out PIXIE
+Commenting out BEAK_DOG
+Commenting out GRIMELING
+Commenting out BLENDEC_FOUL
+Commenting out STRANGLER
+Commenting out NIGHTWING
+Commenting out HARPY
+Commenting out HYDRA
+Commenting out MERPERSON
+Commenting out SEA_SERPENT
+Commenting out SEA_MONSTER
+Commenting out BIRD_ROC
+Commenting out CROCODILE_CAVE
+Commenting out OLM_GIANT
+Commenting out BAT_GIANT
+Commenting out RAT_GIANT
+Commenting out RAT_LARGE
+Commenting out MOLE_DOG_NAKED
+Commenting out TROGLODYTE
+Commenting out MOLE_GIANT
+Commenting out IMP_FIRE
+Commenting out SPIDER_CAVE_GIANT
+Commenting out SPIDER_CAVE
+Commenting out FISH_CAVE
+Commenting out CAVE_FISH_MAN
+Commenting out LOBSTER_CAVE
+Commenting out SNAKE_FIRE
+Commenting out OLM
+Commenting out OLM_MAN
+Commenting out BAT
+Commenting out BAT_MAN
+Commenting out MAGGOT_PURRING
+Commenting out ELEMENTMAN_FIRE
+Commenting out ELEMENTMAN_MAGMA
+Commenting out ELEMENTMAN_IRON
+Commenting out ELEMENTMAN_MUD
+Commenting out BIRD_SWALLOW_CAVE
+Commenting out CAVE_SWALLOW_MAN
+Commenting out BIRD_SWALLOW_CAVE_GIANT
+Commenting out AMPHIBIAN_MAN
+Commenting out REPTILE_MAN
+Commenting out SERPENT_MAN
+Commenting out ANT_MAN
+Commenting out RODENT MAN
+Commenting out WILD_BOAR
+Commenting out WILD_BOAR_MAN
+Commenting out GIANT_WILD_BOAR
+Commenting out COYOTE
+Commenting out COYOTE_MAN
+Commenting out GIANT_COYOTE
+Commenting out KANGAROO
+Commenting out KANGAROO_MAN
+Commenting out GIANT_KANGAROO
+Commenting out KOALA
+Commenting out KOALA_MAN
+Commenting out GIANT_KOALA
+Commenting out ADDER
+Commenting out ADDER_MAN
+Commenting out GIANT_ADDER
+Commenting out ECHIDNA
+Commenting out ECHIDNA_MAN
+Commenting out GIANT_ECHIDNA
+Commenting out PORCUPINE
+Commenting out PORCUPINE_MAN
+Commenting out GIANT_PORCUPINE
+Commenting out KINGSNAKE
+Commenting out KINGSNAKE_MAN
+Commenting out GIANT_KINGSNAKE
+Commenting out GRAY_LANGUR
+Commenting out GRAY_LANGUR_MAN
+Commenting out GIANT_GRAY_LANGUR
+Commenting out BOBCAT
+Commenting out BOBCAT_MAN
+Commenting out GIANT_BOBCAT
+Commenting out SKUNK
+Commenting out SKUNK_MAN
+Commenting out GIANT_SKUNK
+Commenting out GREEN_TREE_FROG
+Commenting out GREEN_TREE_FROG_MAN
+Commenting out GIANT_GREEN_TREE_FROG
+Commenting out HARE
+Commenting out HARE_MAN
+Commenting out GIANT_HARE
+Commenting out RATTLESNAKE
+Commenting out RATTLESNAKE_MAN
+Commenting out GIANT_RATTLESNAKE
+Commenting out WEASEL
+Commenting out WEASEL_MAN
+Commenting out GIANT_WEASEL
+Commenting out COPPERHEAD_SNAKE
+Commenting out COPPERHEAD_SNAKE_MAN
+Commenting out GIANT_COPPERHEAD_SNAKE
+Commenting out IBEX
+Commenting out IBEX_MAN
+Commenting out GIANT_IBEX
+Commenting out WOMBAT
+Commenting out WOMBAT_MAN
+Commenting out GIANT_WOMBAT
+Commenting out DINGO
+Commenting out DINGO_MAN
+Commenting out GIANT_DINGO
+Commenting out COATI
+Commenting out COATI_MAN
+Commenting out GIANT_COATI
+Commenting out OPOSSUM
+Commenting out GIANT_OPOSSUM
+Commenting out MONGOOSE
+Commenting out MONGOOSE_MAN
+Commenting out GIANT_MONGOOSE
+Commenting out HYENA
+Commenting out HYENA_MAN
+Commenting out GIANT_HYENA
+Commenting out ANACONDA
+Commenting out ANACONDA_MAN
+Commenting out GIANT_ANACONDA
+Commenting out MONITOR_LIZARD
+Commenting out MONITOR_LIZARD_MAN
+Commenting out GIANT_MONITOR_LIZARD
+Commenting out KING_COBRA
+Commenting out KING_COBRA_MAN
+Commenting out GIANT_KING_COBRA
+Commenting out OCELOT
+Commenting out OCELOT_MAN
+Commenting out GIANT_OCELOT
+Commenting out JACKAL
+Commenting out JACKAL_MAN
+Commenting out GIANT_JACKAL
+Commenting out CAPUCHIN
+Commenting out CAPUCHIN_MAN
+Commenting out GIANT_CAPUCHIN
+Commenting out SLOTH
+Commenting out SLOTH_MAN
+Commenting out GIANT_SLOTH
+Commenting out SPIDER_MONKEY
+Commenting out SPIDER_MONKEY_MAN
+Commenting out GIANT_SPIDER_MONKEY
+Commenting out PANGOLIN
+Commenting out PANGOLIN_MAN
+Commenting out GIANT_PANGOLIN
+Commenting out BLACK_MAMBA
+Commenting out BLACK_MAMBA_MAN
+Commenting out GIANT_BLACK_MAMBA
+Commenting out BEAR_SLOTH
+Commenting out SLOTH_BEAR_MAN
+Commenting out GIANT_SLOTH_BEAR
+Commenting out AYE-AYE
+Commenting out AYE-AYE_MAN
+Commenting out GIANT_AYE-AYE
+Commenting out BUSHMASTER
+Commenting out BUSHMASTER_MAN
+Commenting out GIANT_BUSHMASTER
+Commenting out PYTHON
+Commenting out PYTHON_MAN
+Commenting out GIANT_PYTHON
+Commenting out TAPIR
+Commenting out TAPIR_MAN
+Commenting out GIANT_TAPIR
+Commenting out IMPALA
+Commenting out IMPALA_MAN
+Commenting out GIANT_IMPALA
+Commenting out AARDVARK
+Commenting out AARDVARK_MAN
+Commenting out GIANT_AARDVARK
+Commenting out LION_TAMARIN
+Commenting out LION_TAMARIN_MAN
+Commenting out GIANT_LION_TAMARIN
+Commenting out STOAT
+Commenting out STOAT_MAN
+Commenting out GIANT_STOAT
+Commenting out LYNX
+Commenting out LYNX_MAN
+Commenting out GIANT_LYNX
+Cleaning empty originals...done!
+Changing Manifest.json...done!
+Done with all!

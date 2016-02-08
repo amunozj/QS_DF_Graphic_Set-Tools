@@ -1,0 +1,4 @@
+Reference folder: D:\Mis Documentos\aaa DF\Graphics Standardization_Git\40.24 a DF objects
+Graphics set folder: D:\Mis Documentos\aaa DF\Graphics Standardization_Git\Pure-40.24-jiripetru
+Output folder: Pure-40.24-jiripetru-Updated\
+

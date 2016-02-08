@@ -1,0 +1,11 @@
+Reference folder: D:\Mis Documentos\aaa DF\Graphics Standardization_Git\40.24 a DF objects
+Graphics set folder: D:\Mis Documentos\aaa DF\Graphics Standardization_Git\Pure-40.24-beefmo
+Output folder: Pure-40.24-beefmo-Updated\
+
+EAGLE_GIANT->GIANT_EAGLE in line 477 of graphics_beefmoanimals.txt
+BATMAN->BAT_MAN in line 1467 of graphics_beefmoanimals.txt
+SNAILMAN->SNAIL_MAN in line 1486 of graphics_beefmoanimals.txt
+OLMMAN->OLM_MAN in line 1489 of graphics_beefmoanimals.txt
+ANTMAN->ANT_MAN in line 1492 of graphics_beefmoanimals.txt
+LEECHMAN->LEECH_MAN in line 1495 of graphics_beefmoanimals.txt
+CAVE_SWALLOWMAN->CAVE_SWALLOW_MAN in line 1499 of graphics_beefmoanimals.txt

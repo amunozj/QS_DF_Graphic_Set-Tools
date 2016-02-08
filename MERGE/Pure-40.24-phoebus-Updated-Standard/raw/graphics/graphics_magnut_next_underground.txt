@@ -1,0 +1,9 @@
+graphics_magnut_next_underground
+
+[OBJECT:GRAPHICS]
+
+[TILE_PAGE:MAGNUT_NU]
+	[FILE:magnut/next_underground.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:6:8]
+

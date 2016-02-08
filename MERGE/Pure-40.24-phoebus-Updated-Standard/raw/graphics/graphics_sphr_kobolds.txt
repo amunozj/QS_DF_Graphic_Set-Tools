@@ -1,0 +1,9 @@
+graphics_sphr_kobolds
+
+[OBJECT:GRAPHICS]
+
+[TILE_PAGE:SPHR_K]
+	[FILE:sphr/kobolds.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:5:3]
+

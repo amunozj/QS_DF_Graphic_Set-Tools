@@ -4,7 +4,7 @@
 clear
 fclose('all');
 
-disp('Matlab Script for upscaling-downscaling Graphics Sets v. 0.3')
+disp('Matlab Script for upscaling-downscaling Graphics Sets v. 0.5')
 disp('Made by Andrés Muñoz-Jaramillo aka Quiet-Sun')
 
 disp(' ')
@@ -45,6 +45,17 @@ disp('Please select if you want the resizer to scale your image files (a new fol
 button = questdlg('Do you want the code to scale your image files?','Image template choice','Yes','No','No');
 
 if strcmp(button,'Yes')
+    
+% If upscaling, ask the user if they want to dissasembly each image first    
+disp(' ')
+disp('Please select if you want the each image to be dissasembled into individual tiles')
+button = questdlg('Do you want the code to dissasemble the images into individual tiles first?','Dissasembly choice','Yes','No','No');
+
+if strcmp(button,'Yes')
+    dis_sw = true;
+else
+    dis_sw = false;
+end    
     
     
     % If upscaling, ask the user which algorithm to use provided
@@ -198,7 +209,7 @@ if strcmp(button,'Yes')
                 
             
             %If the size of the image is a multiple of the tile size process it
-            if (mod(size(Img,1),pxI)==0)&&(mod(size(Img,2),pxI)==0)
+            if (mod(size(Img,1),pxI)==0)&&(mod(size(Img,2),pxI)==0)&&dis_sw
                 
                 slsh_in = strfind(FileInNew,'\');
                 shrtnm = FileInNew(max(slsh_in)+1:length(FileInNew));
@@ -368,10 +379,63 @@ if strcmp(button,'Yes')
                 %Clearing temporary folder
                 delete([Foldertmp '*'])
                 
-            else
+            elseif dis_sw
                 %If a file is found with a weird size let the user know
                 disp([shrtnm ' is not divisible by ' num2str(pxI)])
                 fprintf(FdisL,[shrtnm ' is not divisible by ' num2str(pxI) '\n']);
+                
+            %If no dissasembly is desired:
+            else
+                
+                slsh_in = strfind(FileInNew,'\');
+                shrtnm = FileInNew(max(slsh_in)+1:length(FileInNew));
+                
+                disp(['Processing ' shrtnm])
+                fprintf(FdisL,['Processing ' shrtnm ':\n']);
+                
+                %If the user is upscaling
+                if (pxI<pxO)&&~Lan3_sw
+                    
+                    disp(' ')
+                    disp('Upscaling using HQx or Weifu2x')
+                    
+                    if HQx_sw
+                        fprintf(FdisL,'Upscaling using HQx...');
+                    else
+                        fprintf(FdisL,'Upscaling using Weifu2x...');
+                    end
+                                
+                    %Calling external upscaling binaries
+                    if HQx_sw
+                        %Using HQx
+                        [status,cmdout] = system(['hqx\bin\hqx.exe -s ' num2str(amp) ' "' FileInNew '" "' fileOut '"'],'-echo');
+                    else
+                        %Using Waifu2x
+                        [status,cmdout] = system(['waifu2x\waifu2x-converter_x64.exe --model_dir waifu2x\models_rgb -i "' FileInNew '" --scale_ratio ' num2str(amp) ' -o "' fileOut '"'],'-echo');
+                    end
+                                
+                    fprintf(FdisL,'Done.\n');
+                    
+                end
+                
+                %If there is need to downscale
+                if dwsz_sw&&(mod(pxO,pxI)~=0)||Lan3_sw
+                    
+                    disp(' ')
+                    disp('Upscaling/Downscaling using Lanczos3')
+                    
+                    fprintf(FdisL,'Upscaling/Downscaling using Lanczos3...');
+                    
+                    tmpim = imresize(Img,round([size(Img,1) size(Img,2)]*amp),Algth);
+                    tmptrs = imresize(Trns,round([size(Img,1) size(Img,2)]*amp));
+                    imwrite(tmpim,fileOut,'png','Alpha',double(tmptrs)/255)
+                    
+                    fprintf(FdisL,'Done.\n');
+                    
+                end                
+                
+                fprintf(FdisL,'\n');
+                
             end
             
         end
