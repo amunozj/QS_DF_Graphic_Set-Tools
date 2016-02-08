@@ -10,7 +10,7 @@ fclose('all');
 txtsize = 8;
 
 
-disp('Matlab Script for updating DF graphics sets v. 0.4')
+disp('Matlab Script for updating DF graphics sets v. 0.5')
 disp('Made by Andrés Muñoz-Jaramillo aka Quiet-Sun')
 
 disp(' ')

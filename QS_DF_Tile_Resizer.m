@@ -290,7 +290,7 @@ if strcmp(button,'Yes')
                 end
                 
                 %If there is need to downscale
-                if dwsz_sw&&(mod(pxO,pxI)~=0)
+                if dwsz_sw&&(mod(pxO,pxI)~=0)||Lan3_sw
                     
                     disp(' ')
                     disp('Upscaling/Downscaling tiles using Lanczos3')
