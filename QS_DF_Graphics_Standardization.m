@@ -10,7 +10,7 @@ fclose('all');
 txtsize = 8;
 
 
-disp('Matlab Script for updating DF graphics sets v. 0.2')
+disp('Matlab Script for updating DF graphics sets v. 0.4')
 disp('Made by Andrés Muñoz-Jaramillo aka Quiet-Sun')
 
 disp(' ')
@@ -49,6 +49,9 @@ mkdir(FolderO);
 copyfile(FolderI,FolderO)
 FolderO = [FolderO '\'];
 
+FdisL = fopen([FolderO 'Log_2_Standardizer.txt'],'w');
+
+
 %Finding all .txt files in reference folder
 FlsR = rdir([FolderR '\**\*.txt']);
 
@@ -59,6 +62,7 @@ FlsG = rdir([FolderO 'raw\graphics\**\*.txt']);
 
 disp(' ')
 disp('Reading creature Raws')
+fprintf(FdisL,'Reading creature Raws...');
 %Going through all the creature raws
 
 for ifR = 1:length(FlsR)
@@ -101,7 +105,10 @@ for ifR = 1:length(FlsR)
     fclose(fidR);
 end
 
+fprintf(FdisL,'done!\n\n');
+
 %Reading creature categories
+fprintf(FdisL,'Reading creature Categories...');
 nct = 0;
 fidC = fopen('CATEGORIES_CREATURES_42.05.txt');
 while 1
@@ -115,7 +122,9 @@ while 1
 end
 fclose(fidC);
 
+fprintf(FdisL,'done!\n\n');
 
+fprintf(FdisL,'Reading sentient creature Categories...');
 %Reading sentient being categories
 fidC = fopen('CATEGORIES_HUMANOIDS_42.05.txt');
 Sb_cat_sw = false;
@@ -141,6 +150,9 @@ while 1
 end
 fclose(fidC);
 
+fprintf(FdisL,'done!\n\n');
+
+
 %Image folder
 mkdir([FolderO 'raw\graphics\QS_ST'])
 
@@ -155,6 +167,7 @@ if names_sw
     
     disp(' ')
     disp('Rasterizing categories text')
+    fprintf(FdisL,'Rasterizing categories text...');
     for itx = 1:length(catg_creatures)
         
         cln_in = strfind(catg_creatures(itx).name,':');
@@ -324,9 +337,11 @@ if names_sw
         
     end
     
+    fprintf(FdisL,'done!\n\n');
+    
 end
 
-fidMss = fopen([FolderO 'Lines_missing_title_page.txt'],'w');
+fidMss = fopen([FolderO 'Lines_with_problems.txt'],'w');
 
 QS_DF_Graphics_Standardization_1_creatures
 
@@ -338,6 +353,11 @@ QS_DF_Graphics_Standardization_4_txt_files_and_clean
 
 fclose(fidMss);
 
+fprintf(FdisL,'Done with all!');
+fclose(FdisL);
+
 load('gong','Fs','y')
 sound(y, Fs);
 
+disp(' ')
+disp('Done!  Look inside your updated folder for report files.')

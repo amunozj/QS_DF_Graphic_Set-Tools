@@ -7,10 +7,12 @@
 %% Doing Major Races
 
 disp(' ')
-disp('Standardizing sentient creatures')
+disp('Standardizing major races')
+fprintf(FdisL,'Standardizing sentient creatures:\n');
 
 disp(' ')
 disp('Counting number of major professions')
+
 npr = 0;
 totpr = 0;
 for i = 1:length(catg_humanoids)
@@ -25,6 +27,7 @@ for ifR = 1:length(FlsR)
     
     %Pregenerating template
     disp('looking for tile size')
+    fprintf(FdisL,'Looking for tile size...');
     tlsz_sw = 0;  %Switch that indicates that no tile size has been found
     for ifG = 1:length(FlsG)
         
@@ -52,7 +55,7 @@ for ifR = 1:length(FlsR)
         fclose(fidG);
         
     end
-    
+    fprintf(FdisL,'done!\n');
     
     cr_in = find(FlsR(ifR).snt==2);
     ncr = length(cr_in);
@@ -62,6 +65,15 @@ for ifR = 1:length(FlsR)
         %Going through creatures
         for icr = 1:ncr
             
+            nameR = FlsR(ifR).creatures{cr_in(icr)};
+            
+            fprintf(Fdis1,['\n' nameR ':\n']);
+            
+            disp(['Standardizing ' nameR])         
+            
+            fprintf(FdisL,['Standardizing ' nameR ':\n']);
+            
+            fprintf(FdisL,'Creating blank images...');          
             %Creating Images with names
             if names_sw
                 
@@ -219,7 +231,7 @@ for ifR = 1:length(FlsR)
             end
             
             
-            
+            fprintf(FdisL,'done!\n');
             
             
             %Switches indicating a texture/profession has been found
@@ -229,11 +241,10 @@ for ifR = 1:length(FlsR)
                 end
             end
             
-            nameR = FlsR(ifR).creatures{cr_in(icr)};
-            
-            fprintf(Fdis1,['\n' nameR ':\n']);
             
             disp(['Looking for ' nameR])
+            fprintf(FdisL,['Looking for ' nameR '\n']);
+            
             
             for ifG = 1:length(FlsG)
                 
@@ -296,8 +307,10 @@ for ifR = 1:length(FlsR)
                     tmp = strtrim(tlineG);
                     if ~isempty(strfind(tlineG,nameR))&&(length(tlineG(strfind(tlineG,':')+1:strfind(tlineG,']')-1))==length(nameR))&&strcmp(tmp(1),'[')
                         
-                        disp(tlineG)
-                        disp(FlsG(ifG).name)
+                        disp(['Found in line ' num2str(line_cnt) ' of file ' FlsG(ifG).name '\n'])
+                        slsh_in = strfind(FlsG(ifG).name,'\');
+                        fprintf(FdisL,['Found in line ' num2str(line_cnt) ' of file ' FlsG(ifG).name(max(slsh_in)+1:length(FlsG(ifG).name)) '\n']);
+                            
                         rdln_sw = 0;
                         
                         tlineG = fgetl(fidG);
@@ -306,7 +319,7 @@ for ifR = 1:length(FlsR)
                         
                         
                         while isempty(strfind(tlineG,'[CREATURE_GRAPHICS:'))&&isempty(strfind(tlineG,'[TILE_PAGE:'))
-                                                        
+                            
                             fnd_sw = false;
                             for ict = 1:length(catg_humanoids)
                                 
@@ -382,38 +395,51 @@ for ifR = 1:length(FlsR)
                                             
                                             [Img,map,Trns] = imread([FolderI '\raw\graphics\' pages(pfin).file]);
                                             
-                                            if(size(Img,3)~=3)
+                                            if (size(Img,3)~=3)&&~isempty(map)
                                                 Img = ind2rgb(Img,map);
+                                            elseif (size(Img,3)~=3)
+                                                Img = cat(3, Img, Img, Img);
                                             end
                                             
-                                            disp('Storing Tile')
-                                            
-                                            ImgO(Voff*pages(pfin).tdim(1)+1:(Voff+1)*pages(pfin).tdim(1),(jin-1)*pages(pfin).tdim(2)+1:jin*pages(pfin).tdim(2),:) = Img(tx*pages(pfin).tdim(1)+1:(tx+1)*pages(pfin).tdim(1),ty*pages(pfin).tdim(2)+1:(ty+1)*pages(pfin).tdim(2),:);
-                                            if ~isempty(Trns)
-                                                TrnsO(Voff*pages(pfin).tdim(1)+1:(Voff+1)*pages(pfin).tdim(1),(jin-1)*pages(pfin).tdim(2)+1:jin*pages(pfin).tdim(2)) = Trns(tx*pages(pfin).tdim(1)+1:(tx+1)*pages(pfin).tdim(1),ty*pages(pfin).tdim(2)+1:(ty+1)*pages(pfin).tdim(2));
-                                            else
-                                                TrnsO(Voff*pages(pfin).tdim(1)+1:(Voff+1)*pages(pfin).tdim(1),(jin-1)*pages(pfin).tdim(2)+1:jin*pages(pfin).tdim(2)) = 255;
-                                            end
-                                            
-                                            if names_sw
+                                            if ((tx+1)*pages(pfin).tdim(1)>size(Img,1))||((ty+1)*pages(pfin).tdim(2)>size(Img,2))
                                                 
-                                                ImgOT(Voff*pages(pfin).tdim(1)+1:(Voff+1)*pages(pfin).tdim(1),(jin-1)*pages(pfin).tdim(2)+1:jin*pages(pfin).tdim(2),:) = Img(tx*pages(pfin).tdim(1)+1:(tx+1)*pages(pfin).tdim(1),ty*pages(pfin).tdim(2)+1:(ty+1)*pages(pfin).tdim(2),:);
+                                                slsh_in = strfind(FlsG(ifG).name,'\');
+                                                fprintf(fidMss,['Category pointing to tile outside of image: Line ' num2str(line_cnt) ' of ' FlsG(ifG).name(max(slsh_in)+1:length(FlsG(ifG).name)) ' - ' tlineG '\n']);
+                                                
+                                            else
+                                                
+                                                
+                                                disp('Storing Tile')
+                                                fprintf(FdisL,'Storing Tile\n');
+                                                
+                                                ImgO(Voff*pages(pfin).tdim(1)+1:(Voff+1)*pages(pfin).tdim(1),(jin-1)*pages(pfin).tdim(2)+1:jin*pages(pfin).tdim(2),:) = Img(tx*pages(pfin).tdim(1)+1:(tx+1)*pages(pfin).tdim(1),ty*pages(pfin).tdim(2)+1:(ty+1)*pages(pfin).tdim(2),:);
                                                 if ~isempty(Trns)
-                                                    TrnsOT(Voff*pages(pfin).tdim(1)+1:(Voff+1)*pages(pfin).tdim(1),(jin-1)*pages(pfin).tdim(2)+1:jin*pages(pfin).tdim(2)) = Trns(tx*pages(pfin).tdim(1)+1:(tx+1)*pages(pfin).tdim(1),ty*pages(pfin).tdim(2)+1:(ty+1)*pages(pfin).tdim(2));
+                                                    TrnsO(Voff*pages(pfin).tdim(1)+1:(Voff+1)*pages(pfin).tdim(1),(jin-1)*pages(pfin).tdim(2)+1:jin*pages(pfin).tdim(2)) = Trns(tx*pages(pfin).tdim(1)+1:(tx+1)*pages(pfin).tdim(1),ty*pages(pfin).tdim(2)+1:(ty+1)*pages(pfin).tdim(2));
                                                 else
-                                                    TrnsOT(Voff*pages(pfin).tdim(1)+1:(Voff+1)*pages(pfin).tdim(1),(jin-1)*pages(pfin).tdim(2)+1:jin*pages(pfin).tdim(2)) = 255;
+                                                    TrnsO(Voff*pages(pfin).tdim(1)+1:(Voff+1)*pages(pfin).tdim(1),(jin-1)*pages(pfin).tdim(2)+1:jin*pages(pfin).tdim(2)) = 255;
                                                 end
                                                 
+                                                if names_sw
+                                                    
+                                                    ImgOT(Voff*pages(pfin).tdim(1)+1:(Voff+1)*pages(pfin).tdim(1),(jin-1)*pages(pfin).tdim(2)+1:jin*pages(pfin).tdim(2),:) = Img(tx*pages(pfin).tdim(1)+1:(tx+1)*pages(pfin).tdim(1),ty*pages(pfin).tdim(2)+1:(ty+1)*pages(pfin).tdim(2),:);
+                                                    if ~isempty(Trns)
+                                                        TrnsOT(Voff*pages(pfin).tdim(1)+1:(Voff+1)*pages(pfin).tdim(1),(jin-1)*pages(pfin).tdim(2)+1:jin*pages(pfin).tdim(2)) = Trns(tx*pages(pfin).tdim(1)+1:(tx+1)*pages(pfin).tdim(1),ty*pages(pfin).tdim(2)+1:(ty+1)*pages(pfin).tdim(2));
+                                                    else
+                                                        TrnsOT(Voff*pages(pfin).tdim(1)+1:(Voff+1)*pages(pfin).tdim(1),(jin-1)*pages(pfin).tdim(2)+1:jin*pages(pfin).tdim(2)) = 255;
+                                                    end
+                                                    
+                                                end
+                                                
+                                                fnd_sw = true;
+                                                %Marking category as found
+                                                catg_humanoids(ict).sw{jin} = 1;
+                                                
                                             end
-                                            
-                                            fnd_sw = true;
-                                            %Marking category as found
-                                            catg_humanoids(ict).sw{jin} = 1;
                                             
                                         else
                                             
                                             slsh_in = strfind(FlsG(ifG).name,'\');
-                                            fprintf(fidMss,['Line ' num2str(line_cnt) ' of ' FlsG(ifG).name(max(slsh_in)+1:length(FlsG(ifG).name)) ' - ' tlineG '\n']);        
+                                            fprintf(fidMss,['Missing page title reference: Line ' num2str(line_cnt) ' of ' FlsG(ifG).name(max(slsh_in)+1:length(FlsG(ifG).name)) ' - ' tlineG '\n']);
                                             
                                         end
                                         
@@ -486,5 +512,5 @@ end
 
 fclose(Fdis1)
 
-
+fprintf(FdisL,'Done Standardizing major races!\n\n\n');
 

@@ -5,6 +5,9 @@
 
 disp(' ')
 disp('Processing Creature text files')
+
+fprintf(FdisL,'Processing Creature text files:\n');
+
 %% Doing Creatures
 for ifR = 1:length(FlsR)
     
@@ -24,7 +27,9 @@ for ifR = 1:length(FlsR)
         fl_name3 = ['QS_ST\' FlsR(ifR).name(max(slsh_in)+1:length(FlsR(ifR).name)-4)];
         fl_name3 = strrep(fl_name3, 'creature', 'QS_ST_CRT');
         
-        FileO = [FolderO 'raw\graphics\' fl_name '.txt'];    
+        FileO = [FolderO 'raw\graphics\' fl_name '.txt'];
+        
+        fprintf(FdisL,['Processing ' fl_name '.txt...']);
         
         %Opening output file
         fidO = fopen(FileO,'w');
@@ -81,7 +86,9 @@ for ifR = 1:length(FlsR)
                 tmpIm = ImgO(Voff*tlsz(1)+2:(Voff+1)*tlsz(1)-1,(icr-1)*tlsz(2)+2:icr*tlsz(2)-1,:);
                 
                 if sum(tmpIm(:))==0
-                    lineprnt = ['!' lineprnt];
+                    tmp = ['!' lineprnt];
+                    tmp = strrep(tmp, '[', ' ');
+                    lineprnt = tmp;
                 else
                     fnd_tl_sw = 0;
                 end                
@@ -95,6 +102,8 @@ for ifR = 1:length(FlsR)
         
         fclose(fidO);
         
+        fprintf(FdisL,'done!/n');
+        
     end
     
 end
@@ -104,6 +113,8 @@ end
 
 disp(' ')
 disp('Sentient creature text files')
+fprintf(FdisL,'/n/nProcessing sentient reature text files:\n');
+
 for ifR = 1:length(FlsR)
     
     cr_in = find(FlsR(ifR).snt==1);
@@ -131,6 +142,8 @@ for ifR = 1:length(FlsR)
         fl_name3 = strrep(fl_name3, 'creature', 'QS_ST_PRSN');
 
         FileO = [FolderO 'raw\graphics\' fl_name '.txt'];
+        
+        fprintf(FdisL,['Processing ' fl_name '.txt...']);
         
         %Opening output file
         fidO = fopen(FileO,'w');
@@ -209,7 +222,9 @@ for ifR = 1:length(FlsR)
                         lineprnt = ['\t[' tmpnm(1:cln_in(1)-1) ':' Pname ':' num2str(ntl-1) ':'  num2str(ict-1) tmpnm(cln_in(1):length(tmpnm)) ']\n'];
                         
                         if sum(tmpIm(:))==0
-                            lineprnt = ['!' lineprnt];
+                            tmp = ['!' lineprnt];
+                            tmp = strrep(tmp, '[', ' ');
+                            lineprnt = tmp;
                         else
                             fnd_tl_sw = 0;
                         end
@@ -227,6 +242,8 @@ for ifR = 1:length(FlsR)
         
         fclose(fidO);
         
+        fprintf(FdisL,'done!/n');
+        
     end
     
 end
@@ -235,6 +252,8 @@ end
 
 disp(' ')
 disp('Major races text files')
+
+fprintf(FdisL,'Major race text files:\n');
 
 disp('Counting number of major professions')
 npr = 0;
@@ -270,6 +289,8 @@ for ifR = 1:length(FlsR)
             
             FileO = [FolderO 'raw\graphics\' fl_name '.txt'];
             
+            fprintf(FdisL,['Processing ' fl_name '.txt...']);
+            
             %Opening output file
             fidO = fopen(FileO,'w');
             
@@ -290,10 +311,10 @@ for ifR = 1:length(FlsR)
             fprintf(fidO,['[TILE_PAGE:' Pname ']\n']);
             
             %File
-            fprintf(fidO,['\t[FILE:' fl_name2 '_XxX.png]\n']);
+            fprintf(fidO,['\t[FILE:' fl_name2 '_' num2str(tlsz(1)) 'x' num2str(tlsz(2)) '.png]\n']);
             
             %Tile size
-            fprintf(fidO,'\t[TILE_DIM:X:X]\n');
+            fprintf(fidO,['\t[TILE_DIM:' num2str(tlsz(1)) ':' num2str(tlsz(2)) ']\n']);
             
             %Page size
             fprintf(fidO,['\t[PAGE_DIM:' num2str(npr) ':' num2str(length(catg_humanoids)) ']\n\n']);
@@ -317,7 +338,9 @@ for ifR = 1:length(FlsR)
                     tmpIm = ImgO(Voff*tlsz(1)+2:(Voff+1)*tlsz(1)-1,(ipr-1)*tlsz(2)+2:ipr*tlsz(2)-1,:);
                     
                     if sum(tmpIm(:))==0
-                        lineprnt = ['!' lineprnt];
+                        tmp = ['!' lineprnt];
+                        tmp = strrep(tmp, '[', ' ');
+                        lineprnt = tmp;
                     else
                         fnd_tl_sw = 0;
                     end
@@ -330,6 +353,8 @@ for ifR = 1:length(FlsR)
             
             fclose(fidO);
             
+            fprintf(FdisL,'done!\n');
+            
         end       
         
     end
@@ -339,6 +364,11 @@ end
 
 
 %% Commenting out creatures without any tiles
+
+disp(' ')
+disp('Commenting out creatures without any tiles')
+
+fprintf(FdisL,'Commenting out creatures without any tiles:\n');
 
 %Finding all .txt standard files in the raw/graphics folder of the output set
 FlsStd = rdir([FolderO 'raw\graphics\**\graphics_QS_ST*.txt']);
@@ -355,6 +385,7 @@ for ifR = 1:length(FlsR)
             
             nameR = FlsR(ifR).creatures{cr_in(icr)};
             disp(['Commenting out ' nameR])
+            fprintf(FdisL,['Commenting out ' nameR '\n']);
             
             for ifG = 1:length(FlsStd)
                 
@@ -373,12 +404,13 @@ for ifR = 1:length(FlsR)
                     tlineG = fgetl(fidG);
                     if ~ischar(tlineG),   break,   end
                     
-                    tmp = tlineG;
                     if ~isempty(strfind(tlineG, [':' nameR ']']))
                         tmp = ['!!' tlineG];
+                        tmp = strrep(tmp, '[', ' ');
+                        tlineG = tmp;
                     end
                     
-                    fprintf(fidGo,[tmp '\n']);
+                    fprintf(fidGo,[tlineG '\n']);
                     
                 end
                 
@@ -395,6 +427,11 @@ end
 
 
 %% Cleaning empty originals
+disp(' ')
+disp('Cleaning empty originals')
+
+fprintf(FdisL,'Cleaning empty originals...');
+
 for ifG = 1:length(FlsG)
     
     
@@ -423,3 +460,43 @@ for ifG = 1:length(FlsG)
     end
     
 end
+fprintf(FdisL,'done!\n');
+
+
+fprintf(FdisL,'Changing Manifest.json...');
+%Manifest
+FlsStd = rdir([FolderO 'manifest.json']);
+if ~isempty(FlsStd)
+    
+    %Copy file of interest into dummy
+    copyfile(FlsStd(1).name,'tmp.txt');
+    
+    fidG = fopen('tmp.txt');
+    fidGo = fopen(FlsStd(1).name,'w');
+    
+    %Reading all file line by line until finding the end and copying
+    %file
+    while 1
+        
+        %Reading line
+        tlineG = fgetl(fidG);
+        if ~ischar(tlineG),   break,   end
+        
+        
+        if ~isempty(strfind(tlineG, '"title"'))
+
+            qt_in = strfind(tlineG,'"');
+            tlineG = [tlineG(1:max(qt_in)-1) ' Standard' tlineG(max(qt_in):length(tlineG))];
+            
+        end
+        
+        fprintf(fidGo,[tlineG '\n']);
+        
+    end
+    
+    fclose(fidG);
+    fclose(fidGo);
+    
+end
+
+fprintf(FdisL,'done!\n');

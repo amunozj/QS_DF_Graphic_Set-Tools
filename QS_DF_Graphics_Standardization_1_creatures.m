@@ -5,11 +5,13 @@
 %% Doing Creatures
 disp(' ')
 disp('Standardizing creatures')
+fprintf(FdisL,'Standardizing creatures:\n');
 for ifR = 1:length(FlsR)
     
     %Pregenerating template
     disp(' ')
     disp('Looking for tile size')
+    fprintf(FdisL,'Looking for tile size...');
     tlsz_sw = 0;  %Switch that indicates that no tile size has been found
     for ifG = 1:length(FlsG)
         
@@ -38,6 +40,8 @@ for ifR = 1:length(FlsR)
         
     end
     
+    fprintf(FdisL,'done!\n');
+    
     
     cr_in = find(FlsR(ifR).snt==0);
     ncr = length(cr_in);
@@ -47,6 +51,8 @@ for ifR = 1:length(FlsR)
         if names_sw
             disp(' ')
             disp('Rasterizing creature names')
+            
+            fprintf(FdisL,'Rasterizing creature names...');
             
             %Going through creatures
             names = [];
@@ -110,12 +116,15 @@ for ifR = 1:length(FlsR)
                 
             end
             
+            fprintf(FdisL,'done!\n');
+            
         end
         
         
         
         disp(' ')
         disp('Creating blank images')
+        fprintf(FdisL,'Creating blank images...');
         if names_sw
             
             [szn1,szn2,szn3] = cellfun(@size,{names.text});
@@ -263,7 +272,7 @@ for ifR = 1:length(FlsR)
             
         end
         
-        
+        fprintf(FdisL,'done!\n');
         
         
         
@@ -272,7 +281,9 @@ for ifR = 1:length(FlsR)
         
         
         %% Adding existing tiles
-        
+        disp(' ')
+        disp('Adding existing tiles')
+        fprintf(FdisL,'Adding existing tiles:\n');
         
         %Going through creatures
         for icr = 1:ncr
@@ -285,6 +296,7 @@ for ifR = 1:length(FlsR)
             nameR = FlsR(ifR).creatures{cr_in(icr)};
             
             disp(['Looking for ' nameR])
+            fprintf(FdisL,['Looking for ' nameR '\n']);
             
             for ifG = 1:length(FlsG)
                 
@@ -346,8 +358,11 @@ for ifR = 1:length(FlsR)
                     %If finding a creature name look for the respective tile
                     tmp = strtrim(tlineG);
                     if ~isempty(strfind(tlineG,nameR))&&(length(tlineG(strfind(tlineG,':')+1:strfind(tlineG,']')-1))==length(nameR))&&strcmp(tmp(1),'[')
-                        disp(tlineG)
-                        disp(FlsG(ifG).name)
+
+                        disp(['Found in line ' num2str(line_cnt) ' of file ' FlsG(ifG).name '\n'])
+                        slsh_in = strfind(FlsG(ifG).name,'\');
+                        fprintf(FdisL,['Found in line ' num2str(line_cnt) ' of file ' FlsG(ifG).name(max(slsh_in)+1:length(FlsG(ifG).name)) '\n']);
+                        
                         rdln_sw = 0;
                         
                         tlineG = fgetl(fidG);
@@ -379,37 +394,50 @@ for ifR = 1:length(FlsR)
                                         
                                         [Img,map,Trns] = imread([FolderI '\raw\graphics\' pages(pfin).file]);
                                         
-                                        if(size(Img,3)~=3)
+                                        if (size(Img,3)~=3)&&~isempty(map)
                                             Img = ind2rgb(Img,map);
+                                        elseif (size(Img,3)~=3)
+                                            Img = cat(3, Img, Img, Img);
                                         end
                                         
-                                        disp('Storing Tile')
-                                        
-                                        ImgO(Voff*pages(pfin).tdim(1)+1:(Voff+1)*pages(pfin).tdim(1),(icr-1)*pages(pfin).tdim(2)+1:icr*pages(pfin).tdim(2),:) = Img(tx*pages(pfin).tdim(1)+1:(tx+1)*pages(pfin).tdim(1),ty*pages(pfin).tdim(2)+1:(ty+1)*pages(pfin).tdim(2),:);
-                                        if ~isempty(Trns)
-                                            TrnsO(Voff*pages(pfin).tdim(1)+1:(Voff+1)*pages(pfin).tdim(1),(icr-1)*pages(pfin).tdim(2)+1:icr*pages(pfin).tdim(2)) = Trns(tx*pages(pfin).tdim(1)+1:(tx+1)*pages(pfin).tdim(1),ty*pages(pfin).tdim(2)+1:(ty+1)*pages(pfin).tdim(2));
-                                        else
-                                            TrnsO(Voff*pages(pfin).tdim(1)+1:(Voff+1)*pages(pfin).tdim(1),(icr-1)*pages(pfin).tdim(2)+1:icr*pages(pfin).tdim(2)) = 255;
-                                        end
-                                        
-                                        if names_sw
+                                        if ((tx+1)*pages(pfin).tdim(1)>size(Img,1))||((ty+1)*pages(pfin).tdim(2)>size(Img,2))
                                             
-                                            ImgOT(Voff*pages(pfin).tdim(1)+1:(Voff+1)*pages(pfin).tdim(1),(icr-1)*pages(pfin).tdim(2)+1:icr*pages(pfin).tdim(2),:) = Img(tx*pages(pfin).tdim(1)+1:(tx+1)*pages(pfin).tdim(1),ty*pages(pfin).tdim(2)+1:(ty+1)*pages(pfin).tdim(2),:);
+                                            slsh_in = strfind(FlsG(ifG).name,'\');
+                                            fprintf(fidMss,['Category pointing to tile outside of image: Line ' num2str(line_cnt) ' of ' FlsG(ifG).name(max(slsh_in)+1:length(FlsG(ifG).name)) ' - ' tlineG '\n']);
+                                            
+                                        else
+                                            
+                                            disp('Storing Tile')
+                                            fprintf(FdisL,'Storing Tile\n');
+                                            
+                                            ImgO(Voff*pages(pfin).tdim(1)+1:(Voff+1)*pages(pfin).tdim(1),(icr-1)*pages(pfin).tdim(2)+1:icr*pages(pfin).tdim(2),:) = Img(tx*pages(pfin).tdim(1)+1:(tx+1)*pages(pfin).tdim(1),ty*pages(pfin).tdim(2)+1:(ty+1)*pages(pfin).tdim(2),:);
                                             if ~isempty(Trns)
-                                                TrnsOT(Voff*pages(pfin).tdim(1)+1:(Voff+1)*pages(pfin).tdim(1),(icr-1)*pages(pfin).tdim(2)+1:icr*pages(pfin).tdim(2)) = Trns(tx*pages(pfin).tdim(1)+1:(tx+1)*pages(pfin).tdim(1),ty*pages(pfin).tdim(2)+1:(ty+1)*pages(pfin).tdim(2));
+                                                TrnsO(Voff*pages(pfin).tdim(1)+1:(Voff+1)*pages(pfin).tdim(1),(icr-1)*pages(pfin).tdim(2)+1:icr*pages(pfin).tdim(2)) = Trns(tx*pages(pfin).tdim(1)+1:(tx+1)*pages(pfin).tdim(1),ty*pages(pfin).tdim(2)+1:(ty+1)*pages(pfin).tdim(2));
                                             else
-                                                TrnsOT(Voff*pages(pfin).tdim(1)+1:(Voff+1)*pages(pfin).tdim(1),(icr-1)*pages(pfin).tdim(2)+1:icr*pages(pfin).tdim(2)) = 255;
+                                                TrnsO(Voff*pages(pfin).tdim(1)+1:(Voff+1)*pages(pfin).tdim(1),(icr-1)*pages(pfin).tdim(2)+1:icr*pages(pfin).tdim(2)) = 255;
                                             end
                                             
+                                            if names_sw
+                                                
+                                                ImgOT(Voff*pages(pfin).tdim(1)+1:(Voff+1)*pages(pfin).tdim(1),(icr-1)*pages(pfin).tdim(2)+1:icr*pages(pfin).tdim(2),:) = Img(tx*pages(pfin).tdim(1)+1:(tx+1)*pages(pfin).tdim(1),ty*pages(pfin).tdim(2)+1:(ty+1)*pages(pfin).tdim(2),:);
+                                                if ~isempty(Trns)
+                                                    TrnsOT(Voff*pages(pfin).tdim(1)+1:(Voff+1)*pages(pfin).tdim(1),(icr-1)*pages(pfin).tdim(2)+1:icr*pages(pfin).tdim(2)) = Trns(tx*pages(pfin).tdim(1)+1:(tx+1)*pages(pfin).tdim(1),ty*pages(pfin).tdim(2)+1:(ty+1)*pages(pfin).tdim(2));
+                                                else
+                                                    TrnsOT(Voff*pages(pfin).tdim(1)+1:(Voff+1)*pages(pfin).tdim(1),(icr-1)*pages(pfin).tdim(2)+1:icr*pages(pfin).tdim(2)) = 255;
+                                                end
+                                                
+                                            end
+                                            
+                                            %Marking category as found
+                                            catg_creatures(ict).sw = 1;
+                                            
                                         end
                                         
-                                        %Marking category as found
-                                        catg_creatures(ict).sw = 1;
                                         
                                     else
                                         
                                         slsh_in = strfind(FlsG(ifG).name,'\');
-                                        fprintf(fidMss,['Line ' num2str(line_cnt) ' of ' FlsG(ifG).name(max(slsh_in)+1:length(FlsG(ifG).name)) ' - ' tlineG '\n']);
+                                        fprintf(fidMss,['Missing page title reference: Line ' num2str(line_cnt) ' of ' FlsG(ifG).name(max(slsh_in)+1:length(FlsG(ifG).name)) ' - ' tlineG '\n']);
                                         
                                         
                                     end
@@ -473,3 +501,4 @@ for ifR = 1:length(FlsR)
     
 end
 
+fprintf(FdisL,'Done Standardizing creatures!\n\n\n');

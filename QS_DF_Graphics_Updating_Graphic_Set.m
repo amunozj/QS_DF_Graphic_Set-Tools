@@ -9,7 +9,7 @@ names_sw = false;
 %
 txtsize = 8;
 
-disp('Matlab Script for updating DF graphics sets v. 1.02')
+disp('Matlab Script for updating DF graphics sets v. 0.5')
 disp('Made by Andrés Muñoz-Jaramillo aka Quiet-Sun')
 
 disp(' ')
@@ -39,6 +39,8 @@ copyfile(FolderI,FolderO)
 FolderO = [FolderO '\'];
 
 
+FdisL = fopen([FolderO 'Log_1_Updater.txt'],'w');
+
 %Finding all .txt files in reference folder
 FlsR = rdir([FolderR '\**\*.txt']);
 
@@ -48,7 +50,8 @@ FlsG = rdir([FolderI '\raw\graphics\**\*.txt']);
 %Reading all RAW names and checking for differences:
 
 disp(' ')
-disp('Reading creature Raws')
+disp('Reading creature Raws...')
+fprintf(FdisL,'Reading creature Raws...');
 %Going through all the creature raws
 ncr = 0;
 for ifR = 1:length(FlsR)
@@ -77,6 +80,7 @@ for ifR = 1:length(FlsR)
 end
 
 
+fprintf(FdisL,'done!\n\n');
 
 
 
@@ -109,6 +113,7 @@ fprintf(Fdis1,['Number of text files found in graphics set folder: ' num2str(len
 %Going through all graphic set files and checking for scrambled name matches
 disp(' ')
 disp('Going through graphics set and looking for scrambled name matches')
+fprintf(FdisL,'Going through graphics set and looking for scrambled name matches:\n');
 for ifG = 1:length(FlsG)
     
     fidG = fopen(FlsG(ifG).name);    
@@ -138,6 +143,8 @@ for ifG = 1:length(FlsG)
             crnameG = tlineG(cln_in+1:brkt_in-1);
             
             disp(['Looking for ' crnameG])
+            fprintf(FdisL,['Looking for ' crnameG '\n']);
+            
             fnd_sw = false;
             %Going through all the creature raws
             for ifR = 1:length(crnameR)
@@ -245,7 +252,7 @@ end
 fclose(Fdiscr);
 fclose(Fdis1);
 
-
+fprintf(FdisL,'Done!\n\n\n');
 
 Fdis1 = fopen([FolderO 'Names_in_Raws_not_in_Set.txt'],'w');
 
@@ -266,6 +273,7 @@ fprintf(Fdis1,['Number of text files found in output graphics set folder: ' num2
 
 disp(' ')
 disp('Looking for creatures in the raws that don''t exist in the graphics set')
+fprintf(FdisL,'Looking for creatures in the raws that don''t exist in the graphics set:\n');
 %Going through all the creature raws
 ncr = 0;
 for ifR = 1:length(FlsR)
@@ -293,6 +301,8 @@ for ifR = 1:length(FlsR)
             crnameR = tlineR(cln_in+1:brkt_in-1);
             
             disp(['Looking for ' crnameR])
+            fprintf(FdisL,['Looking for ' crnameR '\n']);
+
             
             fnd_sw = false;
             for ifG = 1:length(FlsG)
@@ -349,8 +359,54 @@ end
 
 fclose(Fdis1);
 
+
+%Manifest
+FlsStd = rdir([FolderO 'manifest.json']);
+if ~isempty(FlsStd)
+    
+    %Copy file of interest into dummy
+    copyfile(FlsStd(1).name,'tmp.txt');
+    
+    fidG = fopen('tmp.txt');
+    fidGo = fopen(FlsStd(1).name,'w');
+    
+    %Reading all file line by line until finding the end and copying
+    %file
+    while 1
+        
+        %Reading line
+        tlineG = fgetl(fidG);
+        if ~ischar(tlineG),   break,   end
+        
+        
+        if ~isempty(strfind(tlineG, '"title"'))
+
+            qt_in = strfind(tlineG,'"');
+            tlineG = [tlineG(1:max(qt_in)-1) ' Updated' tlineG(max(qt_in):length(tlineG))];
+            
+        end
+        
+        fprintf(fidGo,[tlineG '\n']);
+        
+    end
+    
+    fclose(fidG);
+    fclose(fidGo);
+    
+end
+
+
 disp(' ')
 disp('Done!  Look inside your updated folder for report files.')
+fprintf(FdisL,'Done with all!');
+
+fclose(FdisL);
+
+load('gong','Fs','y')
+sound(y, Fs);
+
+
+
 
 % load('gong','Fs','y')
 % sound(y, Fs);
