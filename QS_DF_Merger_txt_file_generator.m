@@ -141,7 +141,7 @@ fprintf(FdisL,'done!\n\n');
 %Reading creature categories
 fprintf(FdisL,'Reading creature Categories...');
 nct = 0;
-fidC = fopen('CATEGORIES_CREATURES_42.05.txt');
+fidC = fopen('CATEGORIES_CREATURES.txt');
 while 1
     
     %Reading line
@@ -157,7 +157,7 @@ fprintf(FdisL,'done!\n\n');
 
 fprintf(FdisL,'Reading sentient creature Categories...');
 %Reading sentient being categories
-fidC = fopen('CATEGORIES_HUMANOIDS_42.05.txt');
+fidC = fopen('CATEGORIES_SENTIENT.txt');
 Sb_cat_sw = false;
 nct = 0;
 while 1
