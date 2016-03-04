@@ -25,6 +25,39 @@ disp('Please select folder with graphics set')
 %Asking user for folder with graphics set
 FolderI = uigetdir('','Select folder with graphics set');
 
+disp(' ')
+disp('Should magenta be treated as a transparent color?')
+button = questdlg('Do you want magenta to be treated as a transparent color?','Magenta Transparency','Yes','No','No');
+
+if strcmp(button,'Yes')
+    mgnt_sw = true;
+    
+    disp(' ')
+    disp('Do you want to substitute magenta with a transparency layer?')
+    button = questdlg('Do you want to substitute magenta with a transparency layer?','Magenta Substitution','Yes','No','No');
+    
+    if strcmp(button,'Yes')
+        mgnt2_sw = true;
+        
+        disp(' ')
+        disp('Which color do you want to substitute Magenta with?')
+        button = questdlg('Which color (RGB) do you want to substitute Magenta with?','Magenta Substitution','Black (1,2,3)','White (255,254,253)','Black (1,2,3)');
+        
+        if strcmp(button,'Black (1,2,3)')
+            mgnt_sub = [1 2 3]/255;
+        else
+            mgnt_sub = [255 254 253]/255;
+        end
+        
+    else
+        mgnt2_sw = false;
+    end    
+    
+else
+    mgnt_sw = false;
+    mgnt2_sw = true;
+end
+
 
 disp(' ')
 disp('Please select if you want a separate folder with image templates')
@@ -183,9 +216,7 @@ fclose(fidC);
 fprintf(FdisL,'done!\n\n');
 
 
-%Image folder
-mkdir([FolderO 'raw\graphics\QS_ST'])
-
+%Temp Image folder
 if names_sw
     mkdir([FolderO 'raw\graphics\QS_ST_TMP'])
 end

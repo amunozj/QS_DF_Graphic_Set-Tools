@@ -20,13 +20,7 @@ for ifR = 1:length(FlsR)
         %Creating output name
         slsh_in = strfind(FlsR(ifR).name,'\');
         fl_name = ['graphics_' FlsR(ifR).name(max(slsh_in)+1:length(FlsR(ifR).name)-4)];
-        fl_name = strrep(fl_name, 'creature', 'QS_ST_CRT');
-        
-        fl_name2 = ['QS_ST/' FlsR(ifR).name(max(slsh_in)+1:length(FlsR(ifR).name)-4)];
-        fl_name2 = strrep(fl_name2, 'creature', 'QS_ST_CRT');
-        
-        fl_name3 = ['QS_ST\' FlsR(ifR).name(max(slsh_in)+1:length(FlsR(ifR).name)-4)];
-        fl_name3 = strrep(fl_name3, 'creature', 'QS_ST_CRT');
+        fl_name = strrep(fl_name, 'creature', 'qs_st_crt');
         
         FileO = [FolderO 'raw\graphics\' fl_name '.txt'];
         
@@ -56,7 +50,7 @@ for ifR = 1:length(FlsR)
         fprintf(fidO,['[TILE_PAGE:' Pname ']\n']);
         
         %File
-        fprintf(fidO,['\t[FILE:' fl_name2 '_' num2str(tlsz(1)) 'x' num2str(tlsz(2)) '.png]\n']);
+        fprintf(fidO,['\t[FILE:' fl_name '_' num2str(tlsz(1)) 'x' num2str(tlsz(2)) '.png]\n']);
         
         %Tile size
         fprintf(fidO,['\t[TILE_DIM:' num2str(tlsz(1)) ':' num2str(tlsz(2)) ']\n']);
@@ -65,7 +59,7 @@ for ifR = 1:length(FlsR)
         fprintf(fidO,['\t[PAGE_DIM:' num2str(ncr) ':' num2str(length(catg_creatures)) ']\n\n']);
         
         
-        [ImgO,map,TrnsO] = imread([FolderO 'raw\graphics\' fl_name2 '_' num2str(tlsz(1)) 'x' num2str(tlsz(1)) '.png']);
+        [ImgO,map,TrnsO] = imread([FolderO 'raw\graphics\' fl_name '_' num2str(tlsz(1)) 'x' num2str(tlsz(1)) '.png']);
         
         %Going through creatures
         for icr = 1:ncr
@@ -134,13 +128,7 @@ for ifR = 1:length(FlsR)
         %Creating output name
         slsh_in = strfind(FlsR(ifR).name,'\');
         fl_name = ['graphics_' FlsR(ifR).name(max(slsh_in)+1:length(FlsR(ifR).name)-4)];
-        fl_name = strrep(fl_name, 'creature', 'QS_ST_PRSN');
-        
-        fl_name2 = ['QS_ST/' FlsR(ifR).name(max(slsh_in)+1:length(FlsR(ifR).name)-4)];
-        fl_name2 = strrep(fl_name2, 'creature', 'QS_ST_PRSN');
-        
-        fl_name3 = ['QS_ST\' FlsR(ifR).name(max(slsh_in)+1:length(FlsR(ifR).name)-4)];
-        fl_name3 = strrep(fl_name3, 'creature', 'QS_ST_PRSN');
+        fl_name = strrep(fl_name, 'creature', 'qs_st_prsn');
 
         FileO = [FolderO 'raw\graphics\' fl_name '.txt'];
         
@@ -178,11 +166,11 @@ for ifR = 1:length(FlsR)
             
             %File
             if npgs==1
-                fprintf(fidO,['\t[FILE:' fl_name2 '_' num2str(tlsz(1)) 'x' num2str(tlsz(2)) '.png]\n']);
-                [ImgO,map,TrnsO] = imread([FolderO 'raw\graphics\' fl_name3 '_' num2str(tlsz(1)) 'x' num2str(tlsz(1)) '.png']);
+                fprintf(fidO,['\t[FILE:' fl_name '_' num2str(tlsz(1)) 'x' num2str(tlsz(2)) '.png]\n']);
+                [ImgO,map,TrnsO] = imread([FolderO 'raw\graphics\' fl_name '_' num2str(tlsz(1)) 'x' num2str(tlsz(1)) '.png']);
             else
-                fprintf(fidO,['\t[FILE:' fl_name2 num2str(ipgs) '_' num2str(tlsz(1)) 'x' num2str(tlsz(2)) '.png]\n']);
-                [ImgO,map,TrnsO] = imread([FolderO 'raw\graphics\' fl_name3 num2str(ipgs) '_' num2str(tlsz(1)) 'x' num2str(tlsz(1)) '.png']);
+                fprintf(fidO,['\t[FILE:' fl_name num2str(ipgs) '_' num2str(tlsz(1)) 'x' num2str(tlsz(2)) '.png]\n']);
+                [ImgO,map,TrnsO] = imread([FolderO 'raw\graphics\' fl_name num2str(ipgs) '_' num2str(tlsz(1)) 'x' num2str(tlsz(1)) '.png']);
             end
             
             %Tile size
@@ -280,13 +268,7 @@ for ifR = 1:length(FlsR)
             %Creating output name
             slsh_in = strfind(FlsR(ifR).name,'\');
             fl_name = ['graphics_' FlsR(ifR).name(max(slsh_in)+1:length(FlsR(ifR).name)-4)];
-            fl_name = strrep(fl_name, 'creature', ['QS_ST_MJR_' lower(nameR)]);
-            
-            fl_name2 = ['QS_ST/' FlsR(ifR).name(max(slsh_in)+1:length(FlsR(ifR).name)-4)];
-            fl_name2 = strrep(fl_name2, 'creature', ['QS_ST_MJR_' lower(nameR)]);
-            
-            fl_name3 = ['QS_ST\' FlsR(ifR).name(max(slsh_in)+1:length(FlsR(ifR).name)-4)];
-            fl_name3 = strrep(fl_name3, 'creature', ['QS_ST_MJR_' lower(nameR)]);
+            fl_name = strrep(fl_name, 'creature', ['qs_st_mjr_' lower(nameR)]);
             
             FileO = [FolderO 'raw\graphics\' fl_name '.txt'];
             
@@ -312,7 +294,7 @@ for ifR = 1:length(FlsR)
             fprintf(fidO,['[TILE_PAGE:' Pname ']\n']);
             
             %File
-            fprintf(fidO,['\t[FILE:' fl_name2 '_' num2str(tlsz(1)) 'x' num2str(tlsz(2)) '.png]\n']);
+            fprintf(fidO,['\t[FILE:' fl_name '_' num2str(tlsz(1)) 'x' num2str(tlsz(2)) '.png]\n']);
             
             %Tile size
             fprintf(fidO,['\t[TILE_DIM:' num2str(tlsz(1)) ':' num2str(tlsz(2)) ']\n']);
@@ -322,7 +304,7 @@ for ifR = 1:length(FlsR)
             
             fprintf(fidO,['[CREATURE_GRAPHICS:' nameR ']\n']);
             
-            [ImgO,map,TrnsO] = imread([FolderO 'raw\graphics\' fl_name2 '_' num2str(tlsz(1)) 'x' num2str(tlsz(1)) '.png']);
+            [ImgO,map,TrnsO] = imread([FolderO 'raw\graphics\' fl_name '_' num2str(tlsz(1)) 'x' num2str(tlsz(1)) '.png']);
             
             %Adding categories
             fnd_tl_sw = 1;  %Switch to mark for removal of creature if at least one tile is found it's turned off
@@ -372,7 +354,7 @@ disp('Commenting out creatures without any tiles')
 fprintf(FdisL,'Commenting out creatures without any tiles:\n');
 
 %Finding all .txt standard files in the raw/graphics folder of the output set
-FlsStd = rdir([FolderO 'raw\graphics\**\graphics_QS_ST*.txt']);
+FlsStd = rdir([FolderO 'raw\graphics\**\graphics_qs_st*.txt']);
 
 for ifR = 1:length(FlsR)
     

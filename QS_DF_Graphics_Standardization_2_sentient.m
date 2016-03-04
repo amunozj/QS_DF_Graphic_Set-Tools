@@ -11,7 +11,7 @@ for ifR = 1:length(FlsR)
     
     %Pregenerating template
     disp('looking for tile size')
-    fprintf(FdisL,'Looking for tile size...');    
+    fprintf(FdisL,'Looking for tile size...');
     tlsz_sw = 0;  %Switch that indicates that no tile size has been found
     for ifG = 1:length(FlsG)
         
@@ -371,7 +371,7 @@ for ifR = 1:length(FlsR)
                             disp(['Found in line ' num2str(line_cnt) ' of file ' FlsG(ifG).name '\n'])
                             slsh_in = strfind(FlsG(ifG).name,'\');
                             fprintf(FdisL,['Found in line ' num2str(line_cnt) ' of file ' FlsG(ifG).name(max(slsh_in)+1:length(FlsG(ifG).name)) '\n']);
-                        
+                            
                             rdln_sw = 0;
                             
                             tlineG = fgetl(fidG);
@@ -407,6 +407,30 @@ for ifR = 1:length(FlsR)
                                                 Img = ind2rgb(Img,map);
                                             elseif (size(Img,3)~=3)
                                                 Img = cat(3, Img, Img, Img);
+                                            end
+                                            
+                                            % Substituting Magenta
+                                            if mgnt_sw&&mgnt2_sw
+                                                
+                                                R = Img(:,:,1);
+                                                G = Img(:,:,2);
+                                                B = Img(:,:,3);
+                                                
+                                                tmpin = find((R==255)&(G==0)&(B==255));
+                                                
+                                                R(tmpin) = mgnt_sub(1);
+                                                G(tmpin) = mgnt_sub(1);
+                                                B(tmpin) = mgnt_sub(1);
+                                                
+                                                
+                                                Img(:,:,1) = R;
+                                                Img(:,:,2) = G;
+                                                Img(:,:,3) = B;
+                                                
+                                                if isempty(Trns)
+                                                    Trns = Img(:,:,1)*0+255;
+                                                end
+                                                Trns(tmpin) = 0;
                                             end
                                             
                                             
@@ -482,15 +506,15 @@ for ifR = 1:length(FlsR)
             slsh_in = strfind(FlsR(ifR).name,'\');
             
             fl_name = [FlsR(ifR).name(max(slsh_in)+1:length(FlsR(ifR).name)-4)];
-            fl_name = strrep(fl_name, 'creature', 'QS_ST_PRSN');
+            fl_name = strrep(fl_name, 'creature', 'qs_st_prsn');
             
             if npgs==1
-                FileO = [FolderO 'raw\graphics\QS_ST\' fl_name '_' num2str(tlsz(1)) 'x' num2str(tlsz(2)) '.png'];
+                FileO = [FolderO 'raw\graphics\graphics_' fl_name '_' num2str(tlsz(1)) 'x' num2str(tlsz(2)) '.png'];
             else
-                FileO = [FolderO 'raw\graphics\QS_ST\' fl_name num2str(ipgs) '_' num2str(tlsz(1)) 'x' num2str(tlsz(2)) '.png'];
+                FileO = [FolderO 'raw\graphics\graphics_' fl_name num2str(ipgs) '_' num2str(tlsz(1)) 'x' num2str(tlsz(2)) '.png'];
             end
             
-            if (size(ImgO,1)==size(TrnsO,1))&&(size(ImgO,2)==size(TrnsO,2))
+            if (size(ImgO,1)==size(TrnsO,1))&&(size(ImgO,2)==size(TrnsO,2))&&mgnt2_sw
                 imwrite(ImgO,FileO,'png','Alpha',double(TrnsO)/255);
             else
                 imwrite(ImgO,FileO,'png');
@@ -501,12 +525,12 @@ for ifR = 1:length(FlsR)
             if names_sw
                 
                 if npgs==1
-                    FileO = [FolderO 'raw\graphics\QS_ST_TMP\' fl_name '_' num2str(tlsz(1)) 'x' num2str(tlsz(2)) '.png'];
+                    FileO = [FolderO 'raw\graphics\QS_ST_TMP\graphics_' fl_name '_' num2str(tlsz(1)) 'x' num2str(tlsz(2)) '.png'];
                 else
-                    FileO = [FolderO 'raw\graphics\QS_ST_TMP\' fl_name num2str(ipgs) '_' num2str(tlsz(1)) 'x' num2str(tlsz(2)) '.png'];
+                    FileO = [FolderO 'raw\graphics\QS_ST_TMP\graphics_' fl_name num2str(ipgs) '_' num2str(tlsz(1)) 'x' num2str(tlsz(2)) '.png'];
                 end
                 
-                if (size(ImgOT,1)==size(TrnsOT,1))&&(size(ImgOT,2)==size(TrnsOT,2))
+                if (size(ImgOT,1)==size(TrnsOT,1))&&(size(ImgOT,2)==size(TrnsOT,2))&&mgnt2_sw
                     imwrite(ImgOT,FileO,'png','Alpha',double(TrnsOT)/255);
                 else
                     imwrite(ImgOT,FileO,'png');
